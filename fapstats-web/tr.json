@@ -1,0 +1,1881 @@
+{
+  "common": {
+    "buttons": {
+      "read_more": "Devamını oku",
+      "reset": "Sıfırlamak",
+      "open": {
+        "_": "Açık",
+        "x": "@:common.buttons.open._ {name}",
+        "x_in_browser": "@:common.buttons.open._ {name} tarayıcıda",
+        "app": "@:common.buttons.open._ @:pages.app._",
+        "braincandy": "@:common.buttons.open._ @:pages.braincandy._",
+        "sidebar": "@:common.buttons.open._ kenar çubuğu"
+      },
+      "download": {
+        "_": "İndirmek",
+        "x_for_android": "@:common.buttons.download._ {name} android için"
+      }
+    },
+    "changelog": "Değişim yeri",
+    "whats_new": "Ne var ne yok?",
+    "overview": "Genel bakış",
+    "screenshots": "Ekran görüntüleri",
+    "language": "Dil",
+    "legal": "Yasal",
+    "tools": "Aletler",
+    "company": "Şirket",
+    "flag": "Bayrak",
+    "logo": "Logo",
+    "confirmed_users": "Onaylanmış kullanıcılar",
+    "created_partners": "Oluşturulan Ortaklar",
+    "created_toys": "Oluşturulan Oyuncaklar",
+    "tracked_activities": "İzlenen etkinlikler",
+    "no_changelog": "Değişiklik günlüğü sizin dilinizde mevcut değildir.",
+    "faq": "SSS",
+    "frequently_asked_questions": "Sık sorulan sorular",
+    "feature": "Özellik",
+    "imprint": "Baskı",
+    "privacy_policy": "Mahremiyet",
+    "terms_of_service": "Hizmet Şartları",
+    "made_with_love_in_germany": "Almanya'da {love} ile yapılmış",
+    "love": "Liebe",
+    "join_our_discord": "Anlaşmazlığımıza katılın"
+  },
+  "languages": {
+    "de": "Almanca",
+    "en": "İngilizce",
+    "es": "İspanyolca",
+    "fr": "Fransızca",
+    "it": "İtalyanca",
+    "pl": "Lehçe",
+    "ru": "Rusça",
+    "tr": "Türkçe"
+  },
+  "weekdays": {
+    "mon": "Pzt",
+    "tue": "Sal",
+    "wed": "Çar",
+    "thu": "Per",
+    "fri": "Cum",
+    "sat": "Cmt",
+    "sun": "Paz"
+  },
+  "months": {
+    "january": "Ocak",
+    "february": "Şubat",
+    "march": "Mart",
+    "april": "Nisan",
+    "may": "Mayıs",
+    "june": "Haziran",
+    "july": "Temmuz",
+    "august": "Ağustos",
+    "september": "Eylül",
+    "october": "Ekim",
+    "november": "Kasım",
+    "december": "Aralık"
+  },
+  "time": {
+    "day": "gün",
+    "days": "günler",
+    "week": "hafta",
+    "weeks": "haftalar",
+    "month": "ay",
+    "months": "aylar",
+    "year": "yıl",
+    "years": "yıl",
+    "more_than_decade": "on yıldan fazla",
+    "more_than_lifetime": "Yaşamınızdan daha fazlası"
+  },
+  "genders": {
+    "male": "Erkek",
+    "female": "Dişi",
+    "diverse": "Türlü"
+  },
+  "pages": {
+    "index": {
+      "meta": {
+        "title": "@:pages.index.title · @:pages.index.headline",
+        "description": "@:pages.index.description"
+      },
+      "navigation": {
+        "title": "Ana sayfa"
+      },
+      "title": "Fapstats",
+      "headline": "Günlük cinsel yaşamınız için çözümler ve araçlar",
+      "description": "Fapstats ile, ihtiyacınız olan her şeyi sağlayan harika bir ekosistem elde edersiniz.",
+      "mission": {
+        "title": "Misyonumuz",
+        "headline": "Seks tabu bir konu olmamalı",
+        "description": "Fapstats'taki misyonumuz, sekstenliği kırmaktır. Cinsellik hakkında açık ve dürüst konuşmaların önemli olduğuna ve yanlış anlamaları kaldırmaya ve sağlıklı bir cinsel ilişki kurmaya yardımcı olabileceğine inanıyoruz.\n\nFapstats ile, çiftlerin ve bekarların cinsel yaşamlarını izlemelerini, analiz etmelerini ve geliştirmelerini ve arzuları, ihtiyaçları ve fantezileri hakkında açıkça konuşmaya teşvik eden bir yer yaratmak istiyoruz.\n\nUmudumuz, fapstatların sessizliği kırmak ve seks hakkındaki konuşmayı, seks artık bir tabu konusu olmadığı bir dünya yaratmaya teşvik edeceğidir."
+      },
+      "software": {
+        "title": "Yazılım",
+        "headline": "@:pages.index.title ekosistemi"
+      },
+      "tools": {
+        "title": "@:common.tools",
+        "headline": "Hesaplayıcılarımız"
+      }
+    },
+    "app": {
+      "_": "Uygulama",
+      "meta": {
+        "title": "@:pages.index.title @:pages.app._ · @:pages.app.headline",
+        "description": ""
+      },
+      "navigation": {
+        "title": "@:common.overview",
+        "description": "@:pages.app.headline"
+      },
+      "title": "@:pages.index.title @:pages.app._",
+      "headline": "Seks, mastürbasyon ve iffet izleyici",
+      "description": "Fapstats uygulaması seks, mastürbasyon ve iffet izlemek içindir. Seks partnerleriniz veya oyuncaklarınız gibi birçok farklı şey için size birçok istatistik sunar. Başarıların kilidini açabilir, kişisel kayıtlar ayarlayabilir ve daha fazlasını yapabilirsiniz!",
+      "features": {
+        "title": "Bazı ana özellikler",
+        "headline": "Sevdiğiniz özellikler",
+        "description": "Fapstats uygulamasının tüm potansiyelini serbest bırakın ve cinsel sağlığınızı iyileştirin",
+        "statistics": {
+          "meta": {
+            "title": "",
+            "description": ""
+          },
+          "title": "İstatistik",
+          "description": "Cinsel arzunuz ve ortaklarınız hakkında ayrıntılı istatistikler alın.",
+          "overview": {
+            "title": "@:common.overview",
+            "headline": "İlerlemeniz, görselleştirilmiş",
+            "description": "İstatistik sayfası size cinsel arzunuz ve faaliyetlerinizin tam bir resmini sunar. Trendleri anında görün, farklı zaman periyotlarını karşılaştırın ve kendinizi ve alışkanlıklarınızı daha iyi anlamanıza yardımcı olan kalıpları keşfedin. Tüm verileriniz güzel görselleştirilmiş ve keşfetmesi kolaydır."
+          },
+          "benefits": {
+            "title": "Neden istatistik kullanıyor?",
+            "headline": "Güçlü analitiklerle içgörülerin kilidini açın",
+            "description": "İstatistik özelliği, motive olmanıza ve bilgilendirilmenize yardımcı olmak için tasarlanmıştır. Deneyiminizi nasıl daha iyi hale getiriyor:",
+            "items": {
+              "1": "Günler, haftalar veya aylar boyunca ilerlemenizi ve trendlerinizi anında görün.",
+              "2": "Desenleri bulun ve arzunuzu veya motivasyonunuzu neyin etkilediğini keşfedin.",
+              "3": "İstatistiklerinizi önceki dönemlerle kolayca karşılaştırın.",
+              "4": "Hangi istatistikleri görmek istediğiniz özelleştirin - sizinle alakalı olmayan her şeyi gizleyin.",
+              "5": "Daha derin analizler için istatistiklerinizi dışa aktarın ve paylaşın (uygulama sürümünde)."
+            }
+          },
+          "screenshots": {
+            "title": "@:common.creenshots",
+            "headline": "İçine Bakın",
+            "description": "İstatistik sayfasının eylemde nasıl göründüğü."
+          },
+          "how_to_use": {
+            "title": "Nasıl Kullanılır",
+            "headline": "İstatistiklere Başlamak",
+            "description": "İstatistiklerinizi görüntülemek için uygulamayı açın ve alt gezinmedeki 'İstatistik' simgesine dokunun (soldaki ikinci düğme). Sayfada olduğunuzda, tüm istatistiklerinizi ve trendlerinizi hemen göreceksiniz. Verilerinizi dışa aktarmak istiyorsanız, uygulamadaki dışa aktarma seçeneğini kullanın. Sayfanın altında, hangi istatistikleri gösterildiğini yapılandırmak için bir düğme de bulacaksınız - böylece sadece sizin için en önemli olanı görürsünüz."
+          },
+          "faq": {
+            "title": "@:common.faq",
+            "headline": "@:common.frequently_asked_questions",
+            "description": "İstatistik özelliği hakkında sorularınız mı var? İşte bazı hızlı cevaplar.",
+            "items": {
+              "1": {
+                "question": "İstatistiklerimi ihraç edebilir miyim?",
+                "answer": "Evet! İstatistiklerinizi doğrudan uygulamadan dışa aktarabilirsiniz. Lütfen dikkat: Dışa aktarma yalnızca Web'de değil, uygulama sürümünde mevcuttur. Web'de bir ekran görüntüsü alabilirsiniz, ancak bu gerçek bir ihracat değildir."
+              },
+              "2": {
+                "question": "Belirli istatistikleri gizleyebilir miyim?",
+                "answer": "Kesinlikle. İstatistik sayfasının altına kaydırın ve 'Bu sayfayı özelleştir!' düğme. Hangi istatistikleri göstereceğinizi veya gizleyeceğinizi seçebilirsiniz, böylece gösterge paneliniz yalnızca sizin için uygun olanı görüntüler."
+              },
+              "3": {
+                "question": "İstatistiklerim ne sıklıkla güncelleniyor?",
+                "answer": "Uygulamayı kullanırken istatistikleriniz gerçek zamanlı olarak güncellenir. Yenilemeye gerek yok - en son verilerinizi görmek için herhangi bir zamanda tekrar kontrol edin."
+              }
+            }
+          }
+        },
+        "partners": {
+          "meta": {
+            "title": "",
+            "description": "Gerçek hayattaki ortaklarınızı ve anahtar sahiplerinizi Fapstats'daki izleyin. Hesapları bağlayın, etkinlikleri analiz edin ve benzersiz bilgileri keşfedin."
+          },
+          "title": "Ortaklar ve Kilit Sahipleri",
+          "description": "Ayrıntılı, ortağa özgü istatistiklerin kilidini açmak için gerçek hayattaki cinsel partnerlerinizi veya iffet anahtar sahiplerinizi Fapstats'a ekleyin. İsteğe bağlı olarak Paylaşılan İzleme için Partnerinizin Fapstats Hesabı'nı bağlayın.",
+          "overview": {
+            "title": "Fapstats ortağı nedir?",
+            "headline": "Ortak profilleri oluşturun ve yönetin",
+            "description": "Fapstats ortağı, gerçek hayattaki bir ortak veya anahtar sahibi için bir veri profilidir. Her profil, bir isim, cinsiyet, ilişki türü, doğum günü ve hesap bağlantısı ve paylaşılan faaliyetler için isteğe bağlı bir arkadaş kodu içerebilir."
+          },
+          "benefits": {
+            "title": "Ortaklarla ne yapabilirsiniz?",
+            "headline": "Her ilişki için güçlü özellikler",
+            "description": "Fapstats ortakları size izin verir:",
+            "items": {
+              "1": "Toplam ve yıllık sayımlar dahil olmak üzere her bir ortakla tüm etkinlikleri izleyin",
+              "2": "Son etkinliğinizin tarihini birlikte görün",
+              "3": "Bu ortakla kazanılan XP'yi görüntüle",
+              "4": "Bu ortağı içeren etkinlikler için bir yıldız derecelendirme genel bakış",
+              "5": "FriendCode aracılığıyla bağlanırsa hesap bağlantı durumunu kontrol edin",
+              "6": "Doğum günleri ayarlanmışsa zodyak uyumluluğuna bakın",
+              "7": "Yılda bir çubuk faaliyet grafiğini analiz edin",
+              "8": "Bir ortağı aktif olarak ayarlayın (örneğin, bir ayrılık veya kayıp iletişimden sonra)"
+            }
+          },
+          "relations": {
+            "lover": "Sevgili",
+            "friend": "Arkadaş",
+            "stranger": "Yabancı",
+            "other": "Diğer"
+          },
+          "screenshots": {
+            "title": "Ekran görüntüleri",
+            "headline": "İş ortağı profiline bakın",
+            "description": "Tüm iş ortağı ayrıntılarını yönetin ve istatistikleri bir bakışta görüntüleyin."
+          },
+          "how_to_use": {
+            "title": "Ortaklar nasıl eklenir ve kullanılır",
+            "headline": "Başlarken",
+            "description": "Bir ortak eklemek hızlı ve kolaydır:",
+            "steps": {
+              "1": "Gösterge panelinizde 'Ortak Ekle'yi tıklayın.",
+              "2": "Ortağın adını, cinsiyetini, ilişkisini ve doğum gününü girin.",
+              "3": "İsteğe bağlı olarak {link-shared-activities} için hesapları bağlamak için bir friendcode ekleyin.",
+              "4": "İzleme etkinliklerine başlayın ve kişiselleştirilmiş istatistiklerinizin tadını çıkarın!"
+            }
+          },
+          "faq": {
+            "title": "@:common.faq",
+            "headline": "@:common.frequently_asked_questions",
+            "description": "Fapstats Partners hakkında bilmeniz gereken her şey:",
+            "items": {
+              "1": {
+                "question": "FriendCode ne için?",
+                "answer": "FriendCode, Fapstats ortağınızı gerçek hayat ortağınızın hesabına bağlayarak paylaşılan etkinlikleri etkinleştirmenize olanak tanır."
+              },
+              "2": {
+                "question": "Bir ortağı aktif olarak ayarlarsam ne olur?",
+                "answer": "Aktif olmayan ortaklar tarihinizde kalır, ancak tercih ayarlarınıza bağlı olarak seçim listelerinden gizlenir."
+              }
+            }
+          }
+        },
+        "toys": {
+          "meta": {
+            "title": "",
+            "description": "Seks oyuncak kullanım istatistiklerinizi izleyin. Frekans, tercihleri ​​analiz edin ve verileri bağlı ortaklarla paylaşın."
+          },
+          "title": "Oyuncaklar ve Aksesuarlar",
+          "description": "Kullanım kalıplarını analiz etmek, XP kazançlarını izlemek ve istatistikleri bağlı ortaklarla paylaşmak için seks oyuncaklarınızı ve aksesuarlarınızı kaydedin.",
+          "overview": {
+            "title": "Neden oyuncakları izliyorsunuz?",
+            "headline": "Akıllı oyuncak analizi",
+            "description": "Bir Fapstats oyuncak girişi gerçek hayattaki bir seks oyuncağını veya aksesuarı temsil eder. Zaman içinde kullanım frekansını, tercihleri ​​ve etkinliği izleyin."
+          },
+          "benefits": {
+            "title": "Temel avantajlar",
+            "headline": "Neden oyuncaklarınızı izliyorsunuz?",
+            "description": "Zevk Analytics'inizi en üst düzeye çıkarın:",
+            "items": {
+              "1": "Toplam ve yıllık kullanım istatistiklerini takip edin",
+              "2": "Her oyuncak için en son kullanılan tarihi görüntüleyin",
+              "3": "Oyuncak kullanımı ile kazanılan XP'yi görün",
+              "4": "Oyuncak etkinliği için yıldız derecelendirmeleri alın",
+              "5": "Yıllık çubuk grafiklerle kullanım trendlerini analiz edin",
+              "6": "Oyuncak verilerini bağlı ortaklarla paylaşın",
+              "7": "Farklı oyuncaklar arasındaki kullanımı karşılaştırın",
+              "8": "Hangi etkinliklerin ve ortakların en sık her oyuncakla bağlantılı olduğunu görün"
+            }
+          },
+          "screenshots": {
+            "title": "Görsel demo",
+            "headline": "Oyuncak Analytics Arayüzü",
+            "description": "Oyuncak koleksiyonunuzu yönetin ve ayrıntılı kullanım istatistiklerini görüntüleyin."
+          },
+          "how_to_use": {
+            "title": "Başlarken",
+            "headline": "4 Basit Adım",
+            "description": "Oyuncakları dakikalar içinde izlemeye başlayın:",
+            "steps": {
+              "1": "Gösterge panelinizde 'oyuncaklarıma' gidin",
+              "2": "'Yeni Oyuncak Ekle'yi tıklayın ve oyuncağın adını girin",
+              "3": "İsteğe bağlı olarak ortaklarla paylaşılan faaliyetlere bağlantı",
+              "4": "Yeni aktiviteler kaydederken oyuncakları seçin"
+            }
+          },
+          "faq": {
+            "title": "@:common.faq",
+            "headline": "@:common.frequently_asked_questions",
+            "description": "Yaygın soruların cevapları:",
+            "items": {
+              "1": {
+                "question": "Oyuncak verilerim özel mi?",
+                "answer": "Oyuncak detayları yalnızca sizin ve faaliyetleri açıkça paylaştığınız ortaklar için görülebilir."
+              },
+              "2": {
+                "question": "Oyuncak kullanımını bir ortakla paylaşabilir miyim?",
+                "answer": "Evet! FriendCode aracılığıyla bağlıysanız ve paylaşılan bir etkinlik kaydediyorsanız, oyuncak eşinizin bu etkinlik için istatistiklerinde görünür olacaktır."
+              }
+            }
+          }
+        },
+        "tags": {
+          "meta": {
+            "title": "",
+            "description": "Etkinliklerinizi kategorize etmek için özel etiketler oluşturun ve yönetin. Zahmetsiz izleme için otomatik etiketleri kullanın ve özel başarıların kilidini açın."
+          },
+          "title": "Özel Etiketler",
+          "description": "Fapstats'taki etiketler, faaliyetlerinizi kategorize etmek için kullanabileceğiniz esnek etiketlerdir. Özel etiketler oluşturun, otomatik kurallar oluşturun ve deneyiminizi ayrıntılı olarak analiz edin.",
+          "overview": {
+            "title": "Etiketler nedir?",
+            "headline": "Her aktivite için esnek kategorizasyon",
+            "description": "Etiketler tamamen özelleştirilebilir etiketlerdir. Her etiketin bir adı, isteğe bağlı bir 'otomatik' ayarı ve virgülle ayrılmış anahtar kelimeler vardır. Adı veya anahtar kelimeleri etkinlik notlarında görünürse, geriye dönük olarak bile etkinliklere otomatik etiketler eklenir."
+          },
+          "benefits": {
+            "title": "Temel avantajlar",
+            "headline": "Neden etiket kullanıyor?",
+            "description": "Etiketler, verilerinizi analiz etmenin ve düzenlemenin yeni yollarının kilidini açın:",
+            "items": {
+              "1": "Özel etiketlerle etkinlikleri kategorize edin",
+              "2": "Etkinlik notlarındaki anahtar kelimeleri kullanarak etiket atamasını otomatikleştirin",
+              "3": "Mevcut etkinliklere otomatik etiketleri geriye dönük olarak uygulayın",
+              "4": "Etiket başına toplam ve yıllık etkinlik sayılarını izleyin",
+              "5": "Her etiket için kazanılan son etkinlik tarihine ve XP'ye bakın",
+              "6": "Her etiket için Yıldız Değerlendirmelerini ve Yıllık Çubuk Grafiklerini Analiz Edin",
+              "7": "Etkinlik notlarınıza göre etiket önerileri alın",
+              "8": "Etiket kullanımına göre özel {link-achievements} oluşturun"
+            }
+          },
+          "screenshots": {
+            "title": "Ekran görüntüleri",
+            "headline": "Etiket Yönetimi Arayüzü",
+            "description": "Etiketleri yönetmenin ve etkilerini analiz etmenin ne kadar kolay olduğunu görün."
+          },
+          "how_to_use": {
+            "title": "Etiketler nasıl kullanılır",
+            "headline": "Başlarken",
+            "description": "Etiketlerden en iyi şekilde yararlanmak için bu adımları izleyin:",
+            "steps": {
+              "1": "Gösterge panelinizdeki 'Etiketler' bölümüne gidin.",
+              "2": "'Etiket Ekle''yi tıklayın, bir ad girin ve isteğe bağlı olarak otomatik modu etkinleştirin.",
+              "3": "Etiket atamasını otomatikleştirmek için anahtar kelimeler (virgül ayrılmış) ekleyin.",
+              "4": "Etkinlik notlarınıza göre önerilen etiketleri inceleyin.",
+              "5": "Etiketleriniz için özel {link-achievements} oluşturun ve her aşama için gerekli kullanımı ayarlayın."
+            }
+          },
+          "faq": {
+            "title": "@:common.faq",
+            "headline": "@:common.frequently_asked_questions",
+            "description": "Etiketlerle ilgili yaygın soruların cevapları:",
+            "items": {
+              "1": {
+                "question": "Otomatik etiket nedir?",
+                "answer": "Adı veya anahtar kelimeleri etkinlik notlarında bulunursa, etiketlemeyi zahmetsiz ve geriye dönük hale getirirse, otomatik bir etiket etkinliklere otomatik olarak atanır."
+              },
+              "2": {
+                "question": "Etiket önerileri nasıl çalışır?",
+                "answer": "Fapstats etkinlik notlarınızı analiz eder ve sık kullanılan kelimelere dayalı yeni etiketler önerir. Önerileri tercihlerinizde devre dışı bırakabilirsiniz."
+              }
+            }
+          }
+        },
+        "calendar": {
+          "meta": {
+            "title": "",
+            "description": "Fapstats takvimindeki tüm cinsel aktiviteleriniz hakkında aylık bir genel bakış alın."
+          },
+          "title": "Takvim",
+          "description": "Faaliyetleriniz bir bakışta - her ay, her gün.",
+          "overview": {
+            "title": "Genel bakış",
+            "headline": "Etkinliklerinizi aya göre görün",
+            "description": "Takvim size tüm cinsel aktivitelerinize açık, renk kodlu bir genel bakış sunar. Mor noktalar seks, mavi noktalar işaret mastürbasyon. Bir bakışta aylar boyunca anında trendleri ve desenleri tespit edin."
+          },
+          "benefits": {
+            "title": "Temel avantajlar",
+            "headline": "Neden takvimi kullanıyorsunuz?",
+            "description": "Takvim, organize ve motive olmanıza yardımcı olur:",
+            "items": {
+              "1": "Etkinlik geçmişinizi bir bakışta görselleştirin",
+              "2": "En çok veya en az aktiviteye sahip günleri hızlı bir şekilde bulun",
+              "3": "Her gün için notları ekleyin, düzenleyin veya inceleyin",
+              "4": "Alışkanlıklarınızdaki trendleri ve çizgileri gör",
+              "5": "Etkinlik türüne, ortağa veya etiketle filtre",
+              "6": "Bağlı ortaklardan paylaşılan etkinliklere erişin",
+              "7": "Doğrudan herhangi bir gün için ayrıntılı istatistiklere atlayın"
+            }
+          },
+          "screenshots": {
+            "title": "Ekran görüntüleri",
+            "headline": "İşlemde takvimi görün",
+            "description": "Takvimin faaliyetlerinizi izlemenize, analiz etmenize ve yansıtmanıza nasıl yardımcı olduğunu keşfedin."
+          },
+          "how_to_use": {
+            "title": "Takvim nasıl kullanılır",
+            "headline": "Başlarken",
+            "description": "Takviminizden en iyi şekilde yararlanmak için bu adımları izleyin:",
+            "steps": {
+              "1": "Takvimi kontrol panelinizden açın.",
+              "2": "Etkinlikleri görüntülemek için herhangi bir tarihi tıklayın.",
+              "3": "Daha iyi bilgiler için not ekleyin veya mevcut girişleri düzenleyin.",
+              "4": "Aylık ve yıllık trendlerinizi inceleyin."
+            }
+          },
+          "faq": {
+            "title": "@:common.faq",
+            "headline": "@:common.frequently_asked_questions",
+            "description": "Takvim hakkında yaygın soruların cevapları:",
+            "items": {
+              "1": {
+                "question": "Renkli noktalar ne anlama geliyor?",
+                "answer": "Mor noktalar seks aktivitelerini temsil eder, mavi noktalar mastürbasyon aktivitelerini temsil eder."
+              },
+              "2": {
+                "question": "Takvimden etkinlikleri düzenleyebilir veya silebilir miyim?",
+                "answer": "Evet, takvim görünümündeki etkinliği tıklamanız ve gerektiği gibi düzenlemeyi veya silmeyi seçmeniz yeterlidir."
+              },
+              "3": {
+                "question": "Önceki aylardan gelen aktiviteleri görebilir miyim?",
+                "answer": "Kesinlikle. Aylar arasında gezinmek için okları kullanın ve tüm geçmişinizi gözden geçirin."
+              }
+            }
+          }
+        },
+        "fucketlist": {
+          "meta": {
+            "title": "Fucketlist | Fapstats uygulaması",
+            "description": "Keyifli deneyimlerden oluşan kişisel lanet listenizi oluşturun ve en samimi arzularınızı gerçeğe dönüştürürken ilerlemenizi izleyin."
+          },
+          "title": "Fucketlist",
+          "description": "Keyifli deneyimlerden oluşan kişisel lanet listenizi oluşturun ve en samimi arzularınızı gerçeğe dönüştürürken ilerlemenizi izleyin.",
+          "overview": {
+            "title": "Fucketlist nedir?",
+            "headline": "Cinsel kova listeniz",
+            "description": "Fucetlist, denemek istediğiniz cinsel deneyimler için kişisel kova listeniz veya yapılacaklar listenizdir. Arzularınızı keşfederken öğeleri ekleyin, düzenleyin, silin ve kontrol edin."
+          },
+          "benefits": {
+            "title": "Temel avantajlar",
+            "headline": "Neden bir fucketlist kullanmalısınız?",
+            "description": "Bir FucetList, cinsel maceralarınızı keşfetmenize, planlamanıza ve kutlamanıza yardımcı olur:",
+            "items": {
+              "1": "Cinsel dileklerinizi ve fantezilerinizi netleştirin ve önceliklendirin",
+              "2": "Yeni deneyimler denemek için motive kalın",
+              "3": "İlerlemenizi ve tamamlanmış eşyalarınızı kutlayın",
+              "4": "Listeyi siz ve eşiniz için ilham kaynağı olarak kullanın",
+              "5": "Öğeleri kolayca ekleyin, düzenleyin, silin ve kontrol edin",
+              "6": "Yolculuğunuzu düşünün ve her zaman yeni hedefler belirleyin"
+            }
+          },
+          "screenshots": {
+            "title": "Ekran görüntüleri",
+            "headline": "Eylemde fucketlist",
+            "description": "Fapstats'da kişisel fucketlistinizi nasıl oluşturacağınızı, yöneteceğinizi ve tamamlayacağınızı görün."
+          },
+          "how_to_use": {
+            "title": "Fucketlist nasıl kullanılır",
+            "headline": "Başlarken",
+            "description": "Sikiş listenizden en iyi şekilde yararlanmak için bu adımları izleyin:",
+            "steps": {
+              "1": "Gösterge panelinizden fucketlist'i açın.",
+              "2": "Denemek istediğiniz deneyimler için yeni öğeler ekleyin.",
+              "3": "İlgi alanlarınız değiştikçe öğeleri düzenleyin veya silin.",
+              "4": "Eşyaları tamamlarken kontrol edin.",
+              "5": "Görevlerinizi inceleyin ve istediğiniz zaman yeni hedefler ekleyin."
+            }
+          },
+          "faq": {
+            "title": "@:common.faq",
+            "headline": "@:common.frequently_asked_questions",
+            "description": "FucketList hakkında yaygın soruların cevapları:",
+            "items": {
+              "1": {
+                "question": "Bir öğeyi kontrol ettiğimde ne olur?",
+                "answer": "Kontrol edilen ürünler tamamlandığı gibi işaretlenir, böylece ilerlemenizi kutlayabilir ve maceralarınıza tekrar bakabilirsiniz."
+              },
+              "2": {
+                "question": "Öğeleri daha sonra düzenleyebilir veya silebilir miyim?",
+                "answer": "Kesinlikle! Listenizdeki herhangi bir öğeyi istediğiniz zaman düzenleyebilir veya kaldırabilirsiniz."
+              }
+            }
+          }
+        },
+        "chastity_tracker": {
+          "meta": {
+            "title": "Chastity Tracker | Fapstats uygulaması",
+            "description": "İffet oturumlarınızı, anahtarlık ilişkilerinizi ve ayrıntılı istatistiklerinizi izleyin. Oturumlarınızı eşinizle paylaşın ve iffet geçmişinizi zamanla analiz edin."
+          },
+          "title": "İffet izleyicisi",
+          "description": "Chastity Tracker, ister solo veya bir partnerle iffet uygulamaktan hoşlanan herkes için tasarlanmıştır. İffet oturumlarınızı kaydedin, bir anahtar sahibi seçin ve ilerlemenizi bağlı bir ortakla paylaşın.",
+          "overview": {
+            "title": "Chastity Tracker nedir?",
+            "headline": "Chastity oturumlarını izleyin, paylaşın ve analiz edin",
+            "description": "İffet izleme özelliği ile, bir iffet oturumuna başladığınızda ve bitirdiğinizde kaydedebilir, anahtar sahibiniz olarak bir ortağı seçebilir ve eşiniz FriendCode aracılığıyla bağlanırsa isteğe bağlı olarak oturumu paylaşabilirsiniz. Bu, çiftlerin herhangi bir mesafede iffet oyununun tadını çıkarmasını mümkün kılar, anahtar sahibi her zaman aktif durumlarını görebilir. Her oturuma bir son sebep verilebilir ve geçmişte olan tüm oturumları ve toplam sürenizi iffette gösteren yıllık bir grafiği inceleyebilirsiniz."
+          },
+          "benefits": {
+            "title": "Temel avantajlar",
+            "headline": "Neden Chastity Tracker'ı kullanıyorsunuz?",
+            "description": "Chastity Tracker, solo kullanıcılar ve çiftler için benzersiz özellikler sunar:",
+            "items": {
+              "1": "Her iffet oturumu için başlangıç ​​ve bitiş saatlerini günlüğe kaydetme",
+              "2": "Her oturum için anahtar sahibiniz olarak bir ortak atayın",
+              "3": "{link-shared-activities} kullanarak oturumları eşinizle paylaşın",
+              "4": "Daha iyi izleme için bir oturumu bitirirken bir neden ekleyin",
+              "5": "Tüm geçmiş oturumların tam bir listesini görüntüleyin",
+              "6": "İff geçmişinizi ayrıntılı yıllık grafiklerle analiz edin",
+              "7": "Uzaktan Chastity Play'in keyfini çıkarın - Bağlantılı ortağınız her zaman iffet oturum durumunu görebilir"
+            }
+          },
+          "screenshots": {
+            "title": "Ekran görüntüleri",
+            "headline": "Chastity Tracker eylemde",
+            "description": "Fapstats uygulamasında oturumları nasıl günlüğe kaydedeceğinizi, anahtarlıkları atayacağınızı ve iffet istatistiklerinizi analiz edeceğinizi görün."
+          },
+          "how_to_use": {
+            "title": "Chastity Tracker nasıl kullanılır",
+            "headline": "Başlarken",
+            "description": "İffet oturumlarınızı izlemek ve paylaşmak için bu adımları izleyin:",
+            "steps": {
+              "1": "Chastity Tracker'ı kontrol panelinizden açın.",
+              "2": "Yeni bir oturum başlatın ve anahtar sahibinizi seçin (isteğe bağlı).",
+              "3": "İşiniz bittiğinde oturumu bitirin ve isterseniz bir neden ekleyin.",
+              "4": "FriendCode üzerinden bağlıysanız, oturumunuzu eşinizle paylaşın.",
+              "5": "Oturum geçmişinizi ve yıllık istatistiklerinizi gözden geçirin."
+            }
+          },
+          "faq": {
+            "title": "@:common.faq",
+            "headline": "@:common.frequently_asked_questions",
+            "description": "İffet izleyicisi hakkında yaygın soruların cevapları:",
+            "items": {
+              "1": {
+                "question": "Chastity Tracker'ı tek başına kullanabilir miyim?",
+                "answer": "Kesinlikle! Tüm oturumlarınızı solo izleyebilirsiniz, ancak isterseniz anahtar sahibiniz olarak bir ortak da atayabilirsiniz."
+              },
+              "2": {
+                "question": "Bir oturumu eşimle nasıl paylaşırım?",
+                "answer": "Eşiniz FriendCode aracılığıyla bağlıysa, bunları anahtar sahibiniz olarak seçmeniz yeterlidir. Oturumu ve anahtarlık durumlarını gerçek zamanlı olarak görecekler."
+              },
+              "3": {
+                "question": "Nihai sebep nedir?",
+                "answer": "Bir oturumu bitirirken, oturumun neden bittiğini açıklayan bir not ekleyebilirsiniz. Bu, iffet yolculuğunuzun ayrıntılı bir kaydını tutmanıza yardımcı olur."
+              }
+            }
+          }
+        },
+        "leaderboard": {
+          "meta": {
+            "title": "LİDER TABANI | Fapstats uygulaması",
+            "description": "XP ve Level'e göre sıralanan en iyi kullanıcılara bakın. İlerlemenizi izleyin, başkalarıyla karşılaştırın ve Fapstats lider tablosundaki profil görünürlüğünüzü yönetin."
+          },
+          "title": "Lider tahtası",
+          "description": "Fapstats Lider tablosu, aktivitelerden, etkinlik süresinden, iffet süresinden ve daha fazlasından kazanılan XP'ye göre kullanıcıları sıralar. Ayrıntılı istatistikler ve gizlilik kontrolleri ile en iyi 10 kullanıcıya ve kendi sıralama alanınıza bakın.",
+          "overview": {
+            "title": "Lider tablosu nasıl çalışır?",
+            "headline": "Sıralamanızı ve ilerlemenizi izleyin",
+            "description": "XP, izlenen etkinlikler, etkinlik süresi, iffet süresi ve daha fazlası için verilir. Lider tablosu, XP'nin en iyi 10 kullanıcısını ve kendi 10 kullanıcı aralığınızı gösterir (örneğin, 33. sıradaysanız, 31-40. Ayarlarınızda profil görünürlüğünüzü kontrol edebilirsiniz."
+          },
+          "benefits": {
+            "title": "Temel avantajlar",
+            "headline": "Neden Lider Tahtası kullanıyorsunuz?",
+            "description": "Liderlik, motive olmanıza ve başarılarınızı kutlamanıza yardımcı olur:",
+            "items": {
+              "1": "En çok XP'ye sahip en iyi 10 kullanıcıyı görün",
+              "2": "Benzer kullanıcılar arasında kendi sıralama alanınızı görüntüleyin",
+              "3": "Mevcut seviyenizi ve toplam XP'yi izleyin",
+              "4": "Mevcut hafta (Pazartesi - Pazar) için XP ve Seviye Kazançlarınızı İzleyin",
+              "5": "Mevcut seviyenizdeki konumunuzu gösteren bir ilerleme çubuğu görüntüleyin",
+              "6": "Kamu profilleri olan kullanıcılardan gelen 'Hakkımda' açıklamalarını okuyun",
+              "7": "Görünürlüğünüzü kontrol edin: Özel kullanıcı olarak genel profille görüntüleyin veya liderlik tablosundan tamamen gizlenin",
+              "8": "Profil düzenleme sayfanıza anında erişin"
+            }
+          },
+          "screenshots": {
+            "title": "Ekran görüntüleri",
+            "headline": "İş başında liderlik",
+            "description": "Fapstats'taki Lider Tahtasının Sıralamaları, XP'yi, Seviyeleri ve Kullanıcı Profillerini Nasıl Görüntülediğine bakın."
+          },
+          "how_to_use": {
+            "title": "Lider tablosu nasıl kullanılır",
+            "headline": "Başlarken",
+            "description": "Lider tablosundan en iyi şekilde yararlanmak için bu adımları izleyin:",
+            "steps": {
+              "1": "Gösterge tablonuzdan lider tabloyu açın.",
+              "2": "En iyi 10 kullanıcıyı ve kendi sıralama alanınızı kontrol edin.",
+              "3": "Ekran adınızı, gizlilik ayarlarını veya 'Hakkımda' açıklamanızı düzenlemek için profilinize tıklayın.",
+              "4": "XP'nizi izleyin ve mevcut hafta için seviye ilerlemesini takip edin.",
+              "5": "Profil görünürlüğünüzü istediğiniz gibi ayarlayın."
+            }
+          },
+          "faq": {
+            "title": "@:common.faq",
+            "headline": "@:common.frequently_asked_questions",
+            "description": "Liderlik ile ilgili yaygın soruların cevapları:",
+            "items": {
+              "1": {
+                "question": "Lider tablosu için XP nasıl hesaplanır?",
+                "answer": "XP, izlenen etkinlikler, etkinlik süresi, iffet süresi ve fapstatlardaki diğer eylemler için verilir."
+              },
+              "2": {
+                "question": "Seviyem ne anlama geliyor?",
+                "answer": "Seviyeniz toplam XP'nize dayanmaktadır. Daha fazla XP kazandıkça, seviye atlar ve liderlik tablosunda daha yükseğe çıkırsınız."
+              },
+              "3": {
+                "question": "Haftalık ilerleme nasıl çalışır?",
+                "answer": "Lider tablosu XP'nizi ve mevcut hafta (Pazartesi -Pazar) için seviye kazanımlarınızı gösterir ve son ilerlemenizi izlemenize yardımcı olur."
+              },
+              "4": {
+                "question": "Profilimi liderlik tablosundan gizleyebilir miyim?",
+                "answer": "Evet! Özel kullanıcı olarak genel profille görüntülenmeyi seçebilir veya profilinizi profil ayarlarınızdaki liderlik tablosundan tamamen gizleyebilirsiniz."
+              },
+              "5": {
+                "question": "Rütbe yüzdem ne anlama geliyor?",
+                "answer": "Sıralama yüzdeniz, tüm kullanıcıların birleşik XP'sine dayanarak, toplam Fapstats XP'nin sahip olduğunuz payını gösterir."
+              }
+            }
+          }
+        },
+        "shared_activities": {
+          "meta": {
+            "title": "",
+            "description": "Fapstats'taki bağlı ortaklarınızla etkinlikleri kolayca paylaşın. Her iki hesap için de faaliyetler sayılır ve tüm istatistiklerde görünür."
+          },
+          "title": "Paylaşılan faaliyetler",
+          "description": "Paylaşılan etkinlikler, etkinlikleri bağlı bir ortakla otomatik olarak paylaşmanıza olanak tanır. Bir ortağı FriendCode aracılığıyla bağladığınızda, o ortağa bağladığınız etkinlikler, Orijinal Yaratıcı'yı gösteren bir notla hesaplarında görünecektir. Bu, çiftlerin veya yakın arkadaşların paylaşılan deneyimleri her hesap yerine yalnızca bir kez günlüğe kaydetmesini kolaylaştırır.",
+          "overview": {
+            "title": "Paylaşılan faaliyetler nasıl çalışır?",
+            "headline": "Zahmetsiz senkronizasyon",
+            "description": "Eşiniz FriendCode aracılığıyla bağlantılıysa, onlara atadığınız herhangi bir etkinlik otomatik olarak hesaplarında paylaşılır. Takvim sayfasında, ortağınız etkinliği kimin oluşturduğunu gösteren bir not görecektir."
+          },
+          "benefits": {
+            "title": "Temel avantajlar",
+            "headline": "Neden paylaşılan faaliyetleri kullanıyorsunuz?",
+            "description": "Paylaşılan etkinlikler işbirlikçi izlemeyi kesintisiz hale getirir:",
+            "items": {
+              "1": "Paylaşılan etkinlikleri yalnızca bir kez günlüğe kaydetti - çift giriş gerekmez",
+              "2": "Paylaşılan faaliyetler hem ortağın XP hem de istatistiklerine saygın",
+              "3": "Tüm istatistikler ve grafikler her iki hesap için paylaşılan faaliyetleri içerir",
+              "4": "{link-calendar} sayfasında paylaşılan bir etkinliğin orijinal yaratıcısını kolayca görün",
+              "5": "Tüm bağlı {link-partners} ile sorunsuz bir şekilde çalışır"
+            }
+          },
+          "screenshots": {
+            "title": "Ekran görüntüleri",
+            "headline": "İşlemde paylaşılan faaliyetler",
+            "description": "Her iki bağlı ortak için paylaşılan faaliyetlerin nasıl görüntülendiğini ve yönetildiğini görün. Ortak deneyimlerinizi tek bir yerde zahmetsizce izleyin, düzenleyin ve inceleyin."
+          },
+          "how_to_use": {
+            "title": "Paylaşılan faaliyetler nasıl kullanılır",
+            "headline": "Başlarken",
+            "description": "Paylaşım faaliyetlerini başlatmak için bu adımları izleyin:",
+            "steps": {
+              "1": "Hesabınızı {link-partners} sayfasındaki FriendCode aracılığıyla bir ortakla bağlayın.",
+              "2": "Bir etkinlik kaydederken bağlı ortağınızı atayın.",
+              "3": "Etkinlik, ortak bir etkinlik olarak ortağınızın hesabında otomatik olarak görünecektir.",
+              "4": "Her iki hesap da paylaşılan etkinliği {link-calendar} 'da görebilir, düzenleyebilir ve izleyebilir."
+            }
+          },
+          "faq": {
+            "title": "@:common.faq",
+            "headline": "@:common.frequently_asked_questions",
+            "description": "Paylaşılan faaliyetlerle ilgili yaygın soruların cevapları:",
+            "items": {
+              "1": {
+                "question": "Paylaşılan faaliyetler XP'm ve istatistiklerime doğru sayıyor mu?",
+                "answer": "Evet! Paylaşılan faaliyetler XP'ye ve her iki hesap için tüm istatistiklere tamamen dahildir."
+              },
+              "2": {
+                "question": "Her iki ortak da paylaşılan faaliyetleri düzenleyebilir veya silebilir mi?",
+                "answer": "Yalnızca etkinliğin yaratıcısı paylaşılan etkinliği düzenleyebilir ve silebilir. İzin Yönetimi Ortak Detay sayfasında görülebilir."
+              }
+            }
+          }
+        },
+        "achievements": {
+          "meta": {
+            "title": "Başarılar | Fapstats uygulaması",
+            "description": "Kilometre taşlarına ulaşarak ve zorlukları tamamlayarak başarıların kilidini açın. İlerlemenizi izleyin ve etiketlerinize göre kendi özel başarılarınızı oluşturun."
+          },
+          "title": "Başarılar",
+          "description": "Başarılar, belirli hedeflere ulaşarak veya belirli zorlukları tamamlayarak kilidini açabileceğiniz kilometre taşlarıdır. Her başarının yıldızlarla temsil edilen üç aşaması vardır. Bir yıldız doldurulduğunda, karşılık gelen aşama tamamlanır. Özel etiketlere dayalı olarak kendi başarılarınızı da oluşturabilirsiniz.",
+          "overview": {
+            "title": "Başarılar nelerdir?",
+            "headline": "İlerlemenizi ve kilometre taşlarınızı izleyin",
+            "description": "Başarılar, ilerlemeniz için sizi ödüllendiren önceden tanımlanmış hedeflerdir. Her başarının üç aşaması vardır. İlerledikçe, ilerlemenizi göstermek için daha fazla yıldız yanar. Özel etiketler kullanarak kendi başarılarınızı da ayarlayabilirsiniz."
+          },
+          "benefits": {
+            "title": "Temel avantajlar",
+            "headline": "Başarıları neden kullanmalısınız?",
+            "description": "Başarılar motive olmanıza ve ilerlemenizi kutlamanıza yardımcı olur:",
+            "items": {
+              "1": "Kilometre taşlarına ulaşarak önceden tanımlanmış başarıların kilidini açın",
+              "2": "{link-tags} 'nıza göre özel başarılar oluşturun",
+              "3": "Her başarının her biri bir yıldızla temsil edilen üç aşaması vardır",
+              "4": "Net bir yıldız tabanlı sistemle ilerlemenizi görselleştirin",
+              "5": "Tamamlanmış ve devam eden başarılarınızı izleyerek motive olun"
+            }
+          },
+          "screenshots": {
+            "title": "Ekran görüntüleri",
+            "headline": "Eylemdeki başarılara bakın",
+            "description": "Kilidi açılmış başarılarınızı görüntüleyin, ilerlemenizi takip edin ve kilometre taşlarınızdan ilham alın."
+          },
+          "how_to_use": {
+            "title": "Başarılar Nasıl Kullanılır",
+            "headline": "Başlarken",
+            "description": "Başarıların kilidini açmak ve yönetmek için bu adımları izleyin:",
+            "steps": {
+              "1": "Başarılar sayfasını gösterge panelinizden açın.",
+              "2": "Önceden tanımlanmış başarıların listesine göz atın ve ilerlemenizi görün.",
+              "3": "{link-tags} 'a dayalı kendi başarılarınızı oluşturun.",
+              "4": "İlerlemenizi izleyin ve tamamladığınız başarılarınızı kutlayın."
+            }
+          },
+          "faq": {
+            "title": "@:common.faq",
+            "headline": "@:common.frequently_asked_questions",
+            "description": "Başarılarla ilgili yaygın soruların cevapları:",
+            "items": {
+              "1": {
+                "question": "Bir başarının kilidini nasıl açarım?",
+                "answer": "Gerekli kilometre taşına ulaşarak veya belirtilen zorluğu tamamlayarak bir başarının kilidini açarsınız. Her aşama bir yıldızla işaretlenir."
+              },
+              "2": {
+                "question": "Kendi başarılarımı yaratabilir miyim?",
+                "answer": "Evet! Kendi etiketlerinize göre özel başarılar oluşturabilirsiniz. Başlamak için özel etiketler özelliğine gidin."
+              },
+              "3": {
+                "question": "Yıldızlar ne anlama geliyor?",
+                "answer": "Her başarının üç aşaması vardır. Her doldurulmuş yıldız tamamlanmış bir aşamayı temsil eder. Tüm yıldızlar doldurulduğunda, başarı tamamen tamamlanır."
+              }
+            }
+          }
+        },
+        "records": {
+          "meta": {
+            "title": "Kayıtlar | Fapstats uygulaması",
+            "description": "Kişisel zevk zirvelerinizi keşfedin: en iyi günleriniz, aylarınız ve etkinlikler, ortaklar, oyuncaklar ve daha fazlası için tüm zamanların kayıtları."
+          },
+          "title": "Kayıtlar",
+          "description": "Zevk zirveleriniz! Burada kişisel en iyilerinizi tek günler, aylar veya diğer zaman periyotları için bulacaksınız - çoğu etkinlik, en uzun süreler, çoğu ortak veya daha fazlası olsun. Her kayıt, ilgili tarihi, tarih aralığını veya bir ortak veya oyuncağın adını gösterir.",
+          "overview": {
+            "title": "Kayıtlar nelerdir?",
+            "headline": "Kişisel en iyilerinizi takip edin",
+            "description": "Fapstats'taki kayıtlar, bir gün veya aydaki çoğu etkinlik, en uzun çizgiler veya en sık ortağı veya oyuncağınız gibi en iyi başarılarınızı vurgular. Liste her zaman günceldir ve gelecekte eklediğimiz yeni kayıt türlerini otomatik olarak içerir.\n\nGörebileceğiniz bazı kayıt örnekleri: Bir günde çoğu seks, bir ay içinde çoğu mastürbasyon, bir ayda en farklı ortaklar, en uzun çizgi, en sık ortak veya oyuncak, en uzun iffet oturumu, en yüksek etkinlik süresi ve daha fazlası. Yeni kayıt türleri otomatik olarak eklenebilir."
+          },
+          "benefits": {
+            "title": "Temel avantajlar",
+            "headline": "Neden kayıt kullanıyorsunuz?",
+            "description": "Kayıtlar kilometre taşlarınızı kutlamanıza ve ilerlemenizi bir bakışta görmenize yardımcı olur:",
+            "items": {
+              "1": "Her etkinlik ve zaman periyodu için kişisel en iyilerinizi keşfedin",
+              "2": "Tarih, menzil veya ad dahil her kayıt için ayrıntılı bilgileri görün",
+              "3": "Yeni kişisel kayıtlar belirlemek için ilham alın"
+            }
+          },
+          "screenshots": {
+            "title": "Ekran görüntüleri",
+            "headline": "Eylemde kayıtlar",
+            "description": "En iyi performanslarınızın ve kilometre taşlarınızın fapstatlarda nasıl görüntülendiğini görün."
+          },
+          "how_to_use": {
+            "title": "Kayıtlar Nasıl Kullanılır",
+            "headline": "Başlarken",
+            "description": "Kişisel kayıtlarınızı keşfetmek için bu adımları izleyin:",
+            "steps": {
+              "1": "Kayıtlar sayfasını kontrol panelinizden açın.",
+              "2": "Her etkinlik ve zaman periyodu için en iyi performanslarınıza göz atın.",
+              "3": "Tarih, menzil veya ilgili ortak veya oyuncak hakkında daha fazla bilgi için herhangi bir kaydı tıklayın.",
+              "4": "Kendi kayıtlarınızı kırmak için kendinize meydan okumak!"
+            }
+          },
+          "faq": {
+            "title": "@:common.faq",
+            "headline": "@:common.frequently_asked_questions",
+            "description": "Kayıtlarla ilgili yaygın soruların cevapları:",
+            "items": {
+              "1": {
+                "question": "Kendi özel kayıtlarımı ekleyebilir miyim?",
+                "answer": "Hayır, tüm kayıtlar etkinlik verilerinize göre otomatik olarak önceden tanımlanır ve güncellenir."
+              },
+              "2": {
+                "question": "Her kayıt için hangi bilgiler gösterilir?",
+                "answer": "Her kayıt, ilgili tarih, tarih aralığı veya bir ortak veya oyuncağın adını ve en iyi performansınızın değerini görüntüler."
+              },
+              "3": {
+                "question": "Yeni kayıt türleri eklenecek mi?",
+                "answer": "Evet! Fapstats geliştikçe, yeni kayıt türleri tanıtılabilir ve kayıt listenizde otomatik olarak görünecektir."
+              }
+            }
+          }
+        },
+        "no_limits": {
+          "meta": {
+            "title": "Sınır yok | Fapstats uygulaması",
+            "description": "Fapstats tamamen ücretsizdir ve sınırları yoktur. Bir ödeme duvarına çarpmadan sınırsız etkinlikleri, ortakları, oyuncakları, etiketleri ve daha fazlasını izleyin."
+          },
+          "title": "Sınır yok",
+          "description": "Fapstats tamamen ücretsizdir ve sınırları yoktur. Diğer birçok uygulamanın aksine, sınırsız etkinlikleri, ortakları, oyuncakları, etiketleri ve daha fazlasını - yükseltmeye veya ödemeye zorlanmadan izleyebilirsiniz.",
+          "overview": {
+            "title": "'Sınır yok' ne anlama geliyor?",
+            "headline": "Gerçekten sınırsız izleme",
+            "description": "Diğer birçok seks izleyici uygulaması, deneyiminizi ödeme duvarlarıyla kısıtlar: belirli sayıda etkinlik, ortak veya oyuncaktan sonra, bir abonelik veya bir kerelik yükseltme için ödeme yapmanız gerekir. Fapstats farklıdır - sınırlar, gizli maliyet yok ve zorla yükseltme yoktur. İstediğiniz kadar veri ekleyebilirsiniz, tamamen ücretsiz."
+          },
+          "benefits": {
+            "title": "Temel avantajlar",
+            "headline": "Neden Fapstats'ı Seçmelisiniz?",
+            "description": "Fapstats size diğer uygulamalardan daha fazla özgürlük ve özellik sunar:",
+            "items": {
+              "1": "Sınırsız etkinlikleri, ortakları, oyuncakları, etiketleri ve daha fazlasını izleyin",
+              "2": "Ödeme duvarı veya zorla yükseltme yok - hiç",
+              "3": "Ücretsiz için tam özellik kümesine erişin",
+              "4": "Diğer seks izleyici uygulamalarında bulamayacağınız benzersiz özelliklerin tadını çıkarın",
+              "5": "Modern bir tasarım ve sezgisel kullanıcı arayüzünden yararlanın",
+              "6": "Kısıtlamalar olmadan verilerinizin kontrolünde kalın"
+            }
+          },
+          "how_to_use": {
+            "title": "Sınırsız fapstatların tadını nasıl çıkarırsınız",
+            "headline": "Başlarken",
+            "description": "Fapstats kullanmak basittir ve her zaman ücretsizdir:",
+            "steps": {
+              "1": "Kaydolun ve Takip'e Başlayın - Kredi Kartı Gerekmez",
+              "2": "İstediğiniz kadar çok etkinlik, ortak, oyuncak ve etiket ekleyin",
+              "3": "Herhangi bir kısıtlama olmadan tüm özellikleri keşfedin",
+              "4": "Arkadaşları veya ortakları size katılmaya davet edin - herkes sınırsız erişim alır"
+            }
+          },
+          "faq": {
+            "title": "@:common.faq",
+            "headline": "@:common.frequently_asked_questions",
+            "description": "Fapstats ve sınırsız özellikleri hakkında yaygın soruların cevapları:",
+            "items": {
+              "1": {
+                "question": "Fapstats gerçekten ücretsiz mi?",
+                "answer": "Evet! Fapstats kullanmak tamamen ücretsizdir. Gizli maliyet, abonelik veya ödeme duvarları yoktur."
+              },
+              "2": {
+                "question": "Ne kadar takip edebileceğim konusunda herhangi bir sınır var mı?",
+                "answer": "Hayır. Sınırsız etkinlikler, ortaklar, oyuncaklar, etiketler ve daha fazlasını ekleyebilirsiniz - hiç bir sınır vurmadan."
+              },
+              "3": {
+                "question": "Fapstats diğer seks izleyici uygulamalarıyla nasıl karşılaştırılır?",
+                "answer": "Fapstats, çoğu rakip uygulamadan daha fazla özellik, kısıtlama ve daha iyi bir kullanıcı deneyimi sunar."
+              }
+            }
+          }
+        }
+      },
+      "changelog": {
+        "meta": {
+          "title": "@:pages.index.title @:pages.app._ @:common.changelog",
+          "description": "Fapstats uygulamasındaki en son güncellemeleri ve iyileştirmeleri keşfedin. Gelişmiş bir deneyim için en yeni özelliklerimiz hakkında bilgi sahibi olun."
+        },
+        "navigation": {
+          "title": "@:common.changelog",
+          "description": "@:pages.app.changelog.description"
+        },
+        "title": "@:pages.index.title @:pages.app._ @:common.changelog",
+        "headline": "@:common.whats_new",
+        "description": "Fapstats uygulamasında yeni güncellemeler ve iyileştirmeler",
+        "no_changelog": "@:common.no_changelog"
+      },
+      "global_statistics": {
+        "_": "Küresel İstatistikler",
+        "meta": {
+          "title": "",
+          "description": "Fapstats ile ilgili küresel istatistikleri keşfedin ve kullanıcılarımızın cinsel aktivitelerinde eğilimler ve kalıplar hakkında bilgi edin. Gizliliğiniz için tamamen anonimleştirilmiş veriler."
+        },
+        "navigation": {
+          "title": "@:pages.app.global_statistics._",
+          "description": "Fapstats uygulamasının tamamen anonimleştirilmiş küresel istatistikleri"
+        },
+        "title": "@:pages.app.global_statistics._",
+        "description": "Fapstats şu anda geçen ay (son 30 gün) {activities} etkinliği oluşturan toplam {users} onaylanmış kullanıcılara sahiptir.\n\nGörüntülenen veriler tüm kullanıcı verilerinin bir araya getirilmesidir ve bireysel kullanıcılara geri izlenemez.\nBu, istatistikler hakkında bilgi verirken veri gizliliğini sağlar.",
+        "month_summary": {
+          "title": "Geçen ay çok şey oldu",
+          "description": "Kullanıcılarımızın neler başardıklarını özetledik.",
+          "items": {
+            "1": "Platformumuza {users} yeni kullanıcıları memnuniyetle karşıladık.",
+            "2": "{users} aktif kullanıcılarımız vardı",
+            "3": "Faaliyet sayısı {activities} arttı",
+            "4": "{partners} ortakları oluşturuldu",
+            "5": "{toys} oyuncaklar eklendi"
+          }
+        },
+        "total_users": "Toplam kullanıcılar",
+        "new_users": "Yeni kullanıcılar",
+        "monthly_users": "Aylık Kullanıcılar",
+        "total_xp": "Toplam XP",
+        "new_xp": "Yeni XP",
+        "user_count": "Kullanıcı sayımı",
+        "users_by_gender": {
+          "title": "Cinsiyete Göre Kullanıcılar",
+          "description": "Yalnızca belirli bir cinsiyete sahip kullanıcıları içerir"
+        },
+        "user_growth": {
+          "title": "Kullanıcı büyümesi",
+          "description": "Yalnızca onaylanmış bir e -posta adresine sahip kullanıcıları içerir"
+        },
+        "active_users": {
+          "title": "Aktif kullanıcılar",
+          "description": "Belirli bir ayda en az bir etkinlik oluşturan veya iffet yaratan/biten kullanıcılar"
+        },
+        "total_fapstats_xp_growth": "Toplam Fapstats XP büyümesi",
+        "users_by_age_group": {
+          "title": "Yaş grubuna göre kullanıcılar",
+          "description": "Yalnızca belirli bir doğum günü olan kullanıcıları içerir"
+        }
+      }
+    },
+    "braincandy": {
+      "_": "Braincandy",
+      "meta": {
+        "title": "@:pages.index.title @:pages.braincandy._ · @:pages.braincandy.headline",
+        "description": "@:pages.braincandy.deletcription"
+      },
+      "navigation": {
+        "title": "@:common.overview",
+        "description": "@:pages.braincandy.headline"
+      },
+      "title": "@:pages.index.title @:pages.braincandy._",
+      "headline": "İhtiyacınız olan tek medya oynatıcı",
+      "description": "En fazla 12 ekrana yan yana, Reddit entegrasyonu ve yerel medya dosyalarını görüntüleme yeteneği olan Fapstats Braincandy, ihtiyacınız olan en iyi ve tek medya oynatıcıdır!",
+      "features": {
+        "title": "Özellikler",
+        "headline": "İhtiyacınız olan her şey",
+        "description": "Fapstats Braincandy'in tüm potansiyelini serbest bırakın",
+        "multiple_screens": {
+          "meta": {
+            "title": "Birden Fazla Ekran | Fapstats Braincandy",
+            "description": "Braincandy'de aynı anda en fazla 12 medya ekranını izleyin. Güç kullanıcıları, yaratıcı kurulumlar veya daha fazlasını görmek isteyen herkes için mükemmel - aynı anda sadece 12 kedi videosu olsa bile."
+          },
+          "title": "Birden fazla ekran",
+          "description": "Çoklu ekran özelliği, aynı anda kaç ortam panelini görüntülemek istediğinizi seçmenizi sağlar - 12'ye kadar, hepsi bir cihazda.",
+          "overview": {
+            "title": "Birden fazla ekran nedir?",
+            "headline": "Daha fazlasını gör, daha fazlasını yap",
+            "description": "Braincandy'de, optimize edilmiş bir ızgarada (4x3 gibi) düzenlenmiş 12 ekran (ortam panelleri) yan yana kullanabilirsiniz. Bu, nihai çoklu görev veya sürükleyici deneyimi isteyen masaüstü ve dizüstü bilgisayar kullanıcıları için mükemmeldir. Mobil cihazlarda, en iyi görünüm için peyzaj modunda en fazla 3 ekran kullanmanızı öneririz, ancak gerçekten istiyorsanız 12'ye kadar gidebilirsiniz-sadece unutmayın, ne kadar çok ekran, her biri o kadar küçük olur (ve Wi-Fi'de değilseniz daha fazla veri)."
+          },
+          "benefits": {
+            "title": "Temel avantajlar",
+            "headline": "Neden birden fazla ekran kullanıyorsunuz?",
+            "description": "Birden fazla ekran Braincandy'i gerçekten benzersiz kılar:",
+            "items": {
+              "1": "Aynı anda en fazla 12 medya ekranını görüntüleyin",
+              "2": "Alanın en iyi kullanımı için optimize edilmiş ızgara düzenleri (örneğin, masaüstünde 4x3)",
+              "3": "Çoklu görev, yaratıcı kurulumlar veya içeriği karşılaştırma için mükemmel",
+              "4": "Mobil dostu: En iyi sonuçlar için en fazla 3 ekran kullanın veya daha fazla",
+              "5": "Ekran sayısını cihazınıza ve ruh halinize uyacak şekilde kolayca ayarlayın",
+              "6": "Daha fazla ekran, daha fazla medya ve daha fazla kedi videosu anlamına gelir, eğer bu sizin işinizse"
+            }
+          },
+          "how_to_use": {
+            "title": "Birden çok ekran nasıl kullanılır",
+            "headline": "Başlarken",
+            "description": "Braincandy düzeninizi özelleştirmek için bu adımları izleyin:",
+            "steps": {
+              "1": "Braincandy'deki yapılandırma sayfasına gidin.",
+              "2": "Kaç ekran kullanmak istediğinizi seçin (12'ye kadar).",
+              "3": "Masaüstünde, geniş bir ızgara düzeninin tadını çıkarın; Mobil olarak, 3 ekran (veya daha fazlası) için peyzaj modunu deneyin.",
+              "4": "Unutmayın: Daha fazla ekran, aynı anda daha fazla medya yüklenir, bu da daha fazla veri kullanabilir - özellikle mobil cihazlarda.",
+              "5": "Şimdi nihayet bir düzine kedi videosunu yan yana izleyebilirsiniz. Sadece patronunuzun (veya kedinizin) sizi yakalamasına izin vermeyin."
+            }
+          },
+          "faq": {
+            "title": "SSS",
+            "headline": "Sık sorulan sorular",
+            "description": "Braincandy'deki birden fazla ekranla ilgili yaygın soruların cevapları:",
+            "items": {
+              "1": {
+                "question": "Aynı anda kaç ekran kullanabilirim?",
+                "answer": "Cihazdan bağımsız olarak en fazla 12 ekran kullanabilirsiniz - ancak mobil cihazlar için en iyi görünürlük için 3'e kadar öneririz."
+              },
+              "2": {
+                "question": "Daha fazla ekran kullanmak daha fazla veri kullanıyor mu?",
+                "answer": "Evet. Her ekran kendi ortamını yükler, bu nedenle daha fazla ekran, özellikle mobil bağlantılarda daha fazla veri kullanımı anlamına gelir."
+              },
+              "3": {
+                "question": "Izgara düzeni otomatik mi?",
+                "answer": "Evet! Braincandy, masaüstü, dizüstü bilgisayar veya mobil cihazlarda olun, ekranlarınızı otomatik olarak en uygun şekilde düzenler."
+              }
+            }
+          }
+        },
+        "speed": {
+          "meta": {
+            "title": "Hız | Fapstats Braincandy",
+            "description": "Braincandy'in otomatik olarak bir sonraki medyaya ne kadar hızlı atladığını ayarlayın. Tam kontrol ile kendi slayt gösterisi deneyiminizi oluşturun."
+          },
+          "title": "Hız",
+          "description": "Hız özelliği, Braincandy'in otomatik olarak bir sonraki medyaya ne kadar hızlı atlandığını kontrol etmenizi sağlar. Özel bir görüntüleme deneyimi için tercih ettiğiniz aralığı ayarlayın.",
+          "overview": {
+            "title": "Hız nedir?",
+            "headline": "Oturumunuzun hızını kontrol edin",
+            "description": "Yapılandırma sayfasındaki hız kaydırıcısıyla, bir sonraki ortama ne kadar hızlı bir şekilde Braincandy otomatik kaymalarına karar verebilirsiniz. Hızlı tempolu bir slayt gösterisi mi yoksa yavaş, rahat bir görüntüleme mi istiyorsunuz? O size kalmış. Not: Hız ayarları yalnızca görüntüleri, GIF'leri ve Redgif'leri etkiler - MP4 videoları her zaman sonuna kadar veya bunları manuel olarak atlayana kadar oynar."
+          },
+          "benefits": {
+            "title": "Temel avantajlar",
+            "headline": "Neden Hız Kullanın?",
+            "description": "Hız, medya akışınız üzerinde tam kontrol sağlar:",
+            "items": {
+              "1": "Otomatik atlama için tam aralığı ayarlayın (örneğin, her 10 saniyede bir)",
+              "2": "{link-play-pause} kullanarak herhangi bir zamanda otomatik atlama duraklama",
+              "3": "Görüntüler, GIF'ler ve Redgif'ler için bir slayt gösterisi efekti oluşturun",
+              "4": "Güçlü parti görüntüleme için {link-multiple-screens} ve {link-local-files} ile birleştirin (tatil fotoğrafları için mükemmel!)",
+              "5": "Daha hızlı hızlar, mobil cihazlarda daha fazla veri kullanabilen daha fazla medya yükleyin"
+            }
+          },
+          "how_to_use": {
+            "title": "Hız nasıl kullanılır",
+            "headline": "Başlarken",
+            "description": "Braincandy'de tercih ettiğiniz hızı ayarlamak için bu adımları izleyin:",
+            "steps": {
+              "1": "Yapılandırma sayfasına gidin ve hız kaydırıcısını bulun.",
+              "2": "Kaydırıcıyı, Braincandy'in bir sonraki ortama ne kadar hızlı otomatik atması gerektiğini ayarlayın.",
+              "3": "Unutmayın: MP4 videoları etkilenmez ve her zaman sonuna kadar veya bunları manuel olarak atlayana kadar oynar.",
+              "4": "{link-play-pause} özelliği ile herhangi bir zamanda otomatik atlamayı duraklatın veya devam ettirin."
+            }
+          },
+          "faq": {
+            "title": "SSS",
+            "headline": "Sık sorulan sorular",
+            "description": "Braincandy'de hız hakkında yaygın soruların cevapları:",
+            "items": {
+              "1": {
+                "question": "Hangi medya türleri hızdan etkilenir?",
+                "answer": "Speed, görüntüler, GIF'ler ve Redgif'ler için otomatik atlama kontrollerini kontrol eder. MP4 videoları etkilenmez."
+              },
+              "2": {
+                "question": "Otomatik atlamayı duraklatabilir miyim?",
+                "answer": "Evet! İstediğiniz zaman otomatik atlamayı duraklatmak veya devam ettirmek için Play/Duraklama özelliğini kullanın."
+              },
+              "3": {
+                "question": "Daha hızlı hız daha fazla veri kullanıyor mu?",
+                "answer": "Evet. Hız ne kadar hızlı olursa, özellikle mobil cihazlarda veri kullanımını artırabilecek daha fazla ortam yüklenir."
+              },
+              "4": {
+                "question": "Birden çok ekran ve yerel dosyalarla hızı kullanabilir miyim?",
+                "answer": "Kesinlikle! Hız birden fazla ekran ve yerel dosyalarla harika çalışır - tatil fotoğrafları için bile güçlü slayt gösterileri için mükemmeldir."
+              }
+            }
+          }
+        },
+        "media_types": {
+          "meta": {
+            "title": "Medya Türleri | Fapstats Braincandy",
+            "description": "Brain Candy'de tam olarak hangi medya türlerini görmek istediğinizi seçin. Mükemmel deneyim için görüntüleri, GIF'leri, videoları ve GIF'leri değiştirin."
+          },
+          "title": "Medya Türleri",
+          "description": "Medya türleri özelliği ile Braincandy'de tam olarak ne tür medya gösterildiğini kontrol edebilirsiniz. Tercihlerinize uyacak şekilde görüntüleri, GIF'leri, videoları ve redgifleri açın ve performansı artırın.",
+          "overview": {
+            "title": "Medya türleri nelerdir?",
+            "headline": "Medya deneyiminizi özelleştirin",
+            "description": "Medya türleri, Braincandy'de hangi içeriğin göründüğüne karar vermenizi sağlar. Yalnızca videolar ister misiniz? Görüntüleri ve Redgif'leri mi tercih ediyorsunuz? Görüntüleri, GIF'leri, videoları ve redgifleri istediğiniz zaman etkinleştirmek veya devre dışı bırakmak için geçişleri kullanın. Bu özellik, görmek istediğiniz şeylere odaklanmanıza yardımcı olur - ve Braincandy'i daha pürüzsüz hale getirebilir."
+          },
+          "benefits": {
+            "title": "Temel avantajlar",
+            "headline": "Neden medya türlerini kullanıyorsunuz?",
+            "description": "Medya türleri size tam kontrol ve daha iyi performans sağlar:",
+            "items": {
+              "1": "Yalnızca istediğiniz medya türlerini gösterin: resimler, gifler, videolar veya redgifs",
+              "2": "GIF'ler gibi ağır formatları devre dışı bırakarak performansı artırın",
+              "3": "Redgifs, geleneksel GIF'lere hızlı, modern bir alternatiftir",
+              "4": "Daha kişiselleştirilmiş ve keyifli bir izleme deneyimi yaratın"
+            }
+          },
+          "how_to_use": {
+            "title": "Medya Türleri Nasıl Kullanılır",
+            "headline": "Başlarken",
+            "description": "Medya oynatma işleminizi özelleştirmek için bu adımları izleyin:",
+            "steps": {
+              "1": "Yapılandırma sayfasındaki medya türleri ayarlarına gidin.",
+              "2": "Görüntüleri, gifleri, videoları ve redgifleri istediğiniz gibi açın.",
+              "3": "En iyi performans için, GIF'lerin devre dışı bırakılması önerilir - tarayıcıda işlemek için talep edebilirler.",
+              "4": "Redgif'ler hız için optimize edilmiştir ve animasyonlu içerik için en iyi seçimdir."
+            }
+          },
+          "faq": {
+            "title": "SSS",
+            "headline": "Sık sorulan sorular",
+            "description": "Braincandy'deki medya türleri hakkında yaygın soruların cevapları:",
+            "items": {
+              "1": {
+                "question": "Yalnızca videolar mı yoksa sadece resimler mi gösterebilir miyim?",
+                "answer": "Evet! Tam olarak ne istediğinizi görmek için medya türlerinin herhangi bir kombinasyonunu etkinleştirebilir veya devre dışı bırakabilirsiniz."
+              },
+              "2": {
+                "question": "GIF'leri neden devre dışı bırakmalıyım?",
+                "answer": "GIF'ler çok performans yoğun olabilir, çünkü tarayıcı her kareyi yeniden oluşturmalıdır. Daha pürüzsüz bir deneyim için, bunun yerine Redgifs kullanmak en iyisidir."
+              },
+              "3": {
+                "question": "Redgifler nedir?",
+                "answer": "Redgifs, animasyonlu içerik için modern, yüksek performanslı bir formattır. Geleneksel GIF'lerden çok daha hızlı yükler ve oynarlar."
+              }
+            }
+          }
+        },
+        "reddit_presets": {
+          "meta": {
+            "title": "Reddit Ön Ayarlar | Fapstats Braincandy",
+            "description": "Braincandy Reddit ön ayarları ile 60'ın üzerinde kategoriye ve 370'den fazla yetişkin alt bölümüne hızla göz atın. Anında yeni içeriğin tadını çıkarın ve tadını çıkarın."
+          },
+          "title": "Reddit ön ayarları",
+          "description": "Reddit ön ayarları, Reddit'ten yetişkin içeriğinin keşfedilmesini ve tadını çıkarmayı kolaylaştırır. Hepsi sizin için düzenlenen 60'ın üzerinde kategoriye ve 370'den fazla alt bölüme anında erişin.",
+          "overview": {
+            "title": "Reddit ön ayarları nedir?",
+            "headline": "Anında keşif kategorileri",
+            "description": "Reddit ön ayarlarıyla, her biri seçilmiş yetişkin alt sınıfları içeren 60'tan fazla hazır kategoriden seçebilirsiniz. Alt ayaltımları tek tek eklemeye gerek yok - sadece bir ön ayar seçin ve izlemeye başlayın. Braincandy ile başlamanın en hızlı yolu ve bilmediğiniz yeni alt bölümleri keşfetmenin harika bir yolu."
+          },
+          "benefits": {
+            "title": "Temel avantajlar",
+            "headline": "Neden Reddit ön ayarlarını kullanıyor?",
+            "description": "Reddit ön ayarları Braincandy deneyiminizi daha kolay ve daha heyecan verici hale getirir:",
+            "items": {
+              "1": "Anında 60+ ön ayarı ve 370'den fazla yetişkin alt dizisine erişin",
+              "2": "Altlık eklemeye gerek yok - sadece bir ön ayar seçin",
+              "3": "Kaçırmış olabileceğiniz yeni alt bölümleri ve içeriği keşfedin",
+              "4": "Braincandy'i sıfır kurulumla hemen kullanmaya başlayın",
+              "5": "Ruh halinize uyacak şekilde farklı kategoriler arasında kolayca geçiş yapın"
+            }
+          },
+          "how_to_use": {
+            "title": "Reddit ön ayarları nasıl kullanılır",
+            "headline": "Başlarken",
+            "description": "Braincandy'deki Reddit ön ayarlarını keşfetmek için bu adımları izleyin:",
+            "steps": {
+              "1": "Braincandy'deki Reddit ön ayarları bölümünü açın.",
+              "2": "Mevcut kategorilerin listesine göz atın.",
+              "3": "All All Alt Saklamaları anında yüklemek için bir veya daha fazla ön ayar seçin.",
+              "4": "Seçtiğiniz kategorilerden hemen medya izlemeye başlayın."
+            }
+          },
+          "faq": {
+            "title": "SSS",
+            "headline": "Sık sorulan sorular",
+            "description": "Braincandy'deki Reddit ön ayarlarıyla ilgili yaygın soruların cevapları:",
+            "items": {
+              "1": {
+                "question": "Kaç kategori ve alt bölüm ekleniyor?",
+                "answer": "370'den fazla yetişkin alt bölümünü kapsayan 60'tan fazla kategori var."
+              },
+              "2": {
+                "question": "Aynı anda birden çok ön ayar kullanabilir miyim?",
+                "answer": "Evet! İstediğiniz kadar ön ayar seçebilirsiniz ve dahil edilen tüm alt bölümler birlikte yüklenecektir."
+              },
+              "3": {
+                "question": "Kendi alt bölümlerimi ekleyebilir miyim?",
+                "answer": "Kesinlikle. Ön ayarları kullanmanın yanı sıra her zaman bireysel alt bölümleri manuel olarak ekleyebilirsiniz."
+              }
+            }
+          }
+        },
+        "subreddits": {
+          "meta": {
+            "title": "Alt Reklamlar | Fapstats Braincandy",
+            "description": "Braincandy'de istediğiniz herhangi bir alt bölüm kullanın - 370'den fazla ön ayar arasından seçim yapın veya nihai esneklik için kendinizi ekleyin."
+          },
+          "title": "Alt bölümler",
+          "description": "Braincandy ile, istediğiniz herhangi bir alt bölümden medya yükleyebilir ve izleyebilirsiniz. Büyük listemizden seçim yapın veya toplam özgürlük için kendiniz ekleyin.",
+          "overview": {
+            "title": "Alt aygıtlar nelerdir?",
+            "headline": "İçeriğinizi Seçme Özgürlüğü",
+            "description": "Fapstats Braincandy, keşfetmeniz için 370'den fazla alt bölüm içerir - hepsi yetişkin içeriğine odaklanmıştır. Ancak listemizle sınırlı değilsiniz: Ön ayarlarımızda olmasa bile istediğiniz herhangi bir alt bölüm ekleyebilirsiniz. Bu, tam olarak görmek istediğiniz Reddit ortamını yüklemeniz için maksimum esneklik sağlar."
+          },
+          "benefits": {
+            "title": "Temel avantajlar",
+            "headline": "Neden alt dizileri kullanmalısınız?",
+            "description": "Alt ayaltımlar size yeni içerik keşfetmek için sonsuz seçenekler sunar:",
+            "items": {
+              "1": "370'den fazla alt bölümden seçim yapın",
+              "2": "Listemizde olmasa bile istediğiniz herhangi bir alt bölüm ekleyin",
+              "3": "Popüler kategorilere anında erişim için {link-reddit-presets} ile birleştirin",
+              "4": "Her gün yeni toplulukları ve medyayı keşfedin",
+              "5": "Braincandy'de ne izlediğiniz üzerinde tam kontrol"
+            }
+          },
+          "how_to_use": {
+            "title": "Altlıklar Nasıl Kullanılır",
+            "headline": "Başlarken",
+            "description": "Braincandy'de alt bölümleri kullanmak için bu adımları izleyin:",
+            "steps": {
+              "1": "Braincandy'deki Alt Reklamlar bölümünü açın.",
+              "2": "370'den fazla alt bölüm listemize göz atın veya kendi alt bölümlerinizi girin.",
+              "3": "Özel bir deneyim için birden fazla alt bölümden birleştirin.",
+              "4": "Popüler kategorilere kolay erişim için {link-reddit-presets} ile kullanın."
+            }
+          },
+          "faq": {
+            "title": "SSS",
+            "headline": "Sık sorulan sorular",
+            "description": "Braincandy'deki alt raporlar hakkında yaygın soruların cevapları:",
+            "items": {
+              "1": {
+                "question": "Herhangi bir alt bölüm kullanabilir miyim?",
+                "answer": "Evet! Sadece listemizdeki kişiler değil, istediğiniz alt bölümleri ekleyebilirsiniz."
+              },
+              "2": {
+                "question": "Kaç tane alt bölüm ekleyebilirim?",
+                "answer": "Sınır yok - mükemmel karışım için istediğiniz kadar ekleyin."
+              },
+              "3": {
+                "question": "Alt raporlar ve Reddit ön ayarları arasındaki fark nedir?",
+                "answer": "Reddit ön ayarları alt bölüm koleksiyonlarıdır. Alt dizilerle istediğiniz zaman istediğiniz her şeyi ekleyebilirsiniz."
+              }
+            }
+          }
+        },
+        "reddit_settings": {
+          "meta": {
+            "title": "Reddit Ayarları | Fapstats Braincandy",
+            "description": "Braincandy'de Reddit içeriğine nasıl göz attığınızı özelleştirin. Mükemmel deneyim için sıralama, zaman aralığı ve daha fazlasını filtreleyin."
+          },
+          "title": "Reddit Ayarları",
+          "description": "Reddit ayarları, Braincandy'deki alt bölümlerden içeriğe nasıl göz attığınızı ve yüklediğinizi ince ayarlamanıza izin verir. Sıralama, zaman aralığı ve daha fazlasını filtreleyin.",
+          "overview": {
+            "title": "Reddit ayarları nelerdir?",
+            "headline": "Reddit deneyiminizi özelleştirin",
+            "description": "Reddit ayarlarıyla, Braincandy'ye yüklediğiniz alt bölümlerden içeriği filtreleyebilir ve sıralayabilirsiniz. Mesajların nasıl sıralandığını seçin (sıcak, yükselen, üst, tartışmalı), belirli bir zaman aralığını seçin (geçmiş saatten her zamana) ve içeriğin nasıl görüntülendiğine ilişkin sıralama modunu ayarlayın. Bu ayarlar ayrıca daha kolay bir başlangıç ​​için Reddit ön ayarlarıyla mükemmel çalışır."
+          },
+          "benefits": {
+            "title": "Temel avantajlar",
+            "headline": "Neden Reddit ayarlarını kullanıyor?",
+            "description": "Reddit ayarları, istediğiniz içeriği tam olarak bulmanıza yardımcı olur:",
+            "items": {
+              "1": "Sıcak, Yükselen, Üst veya Tartışmalı",
+              "2": "Zaman aralığına göre filtre: Geçtiğimiz saat, 24 saat, hafta, ay, yıl veya tüm zamanlar",
+              "3": "Sıralama Modunu Seçin: Kaynak Döndürme veya Tüm Karışık",
+              "4": "Kategorilere anında erişim için {link-reddit-presets} ile birleştirin",
+              "5": "'Üst' veya 'Sıcak' ve 'Tüm Zamanlar' Ayarları ile En İyi, En Upvoted İçeriği Alın",
+              "6": "En yeni yayınlar için 'Son 24 Saat' ile taze, her zaman değişen medyaya bakın"
+            }
+          },
+          "how_to_use": {
+            "title": "Reddit ayarları nasıl kullanılır",
+            "headline": "Başlarken",
+            "description": "Braincandy'de Reddit Göz atmanızı özelleştirmek için bu adımları izleyin:",
+            "steps": {
+              "1": "Alt sınıflar eklerken veya göz atarken Reddit Ayarları bölümüne gidin.",
+              "2": "Tercih ettiğiniz sıralamayı seçin: sıcak, yükselen, üst veya tartışmalı.",
+              "3": "Geçmiş saatten her zamana kadar bir zaman aralığı seçin.",
+              "4": "Sıralama modunuzu seçin: Kaynak dönüş veya hepsi karışık.",
+              "5": "Hızlı tarama için {link-reddit-presets} ile birleştirin."
+            }
+          },
+          "faq": {
+            "title": "SSS",
+            "headline": "Sık sorulan sorular",
+            "description": "Braincandy'deki Reddit ayarları hakkında yaygın soruların cevapları:",
+            "items": {
+              "1": {
+                "question": "Her sıralama seçeneği ne anlama geliyor?",
+                "answer": "'Hot' trend yayınları gösterir, 'Yükselen' hızlı bir şekilde popüler yayınları vurgular, upvotes tarafından 'üst' sıralamalar ve 'tartışmalı' karışık reaksiyonlara sahip yayınları gösterir."
+              },
+              "2": {
+                "question": "Zaman aralığı filtresi nasıl çalışır?",
+                "answer": "Gönderileri daha alakalı veya klasik içerik için son saat, gün, hafta, ay, yıl veya tüm zamanlardan itibarenlerle sınırlandırabilirsiniz."
+              },
+              "3": {
+                "question": "Kaynak rotasyonu ile hepsi karışık arasındaki fark nedir?",
+                "answer": "Kaynak rotasyon her bir alt sıradan birer birer birer döngüdür, tüm karışıklar seçilen tüm alt bölümlerden gelen tüm yayınları birlikte karıştırır."
+              },
+              "4": {
+                "question": "Neden 'tüm zaman' ile 'üst' veya 'sıcak' kullanıyor?",
+                "answer": "Bu kombinasyon size şimdiye kadar paylaşılan en büyük ve topluluk onaylı yayınları verir ve en iyi içeriği bulmayı kolaylaştırır."
+              },
+              "5": {
+                "question": "Neden 'Geçmiş 24 Saat' kullanıyorsunuz?",
+                "answer": "Bu sadece en yeni yayınları gösterir, bu yüzden her zaman taze, değiştirme içeriği her gün görürsünüz."
+              }
+            }
+          }
+        },
+        "local_files": {
+          "meta": {
+            "title": "Yerel Dosyalar | Fapstats Braincandy",
+            "description": "Fapstats Braincandy ile doğrudan cihazınızdan özel medya klasörlerinizi izleyin. Yükleme yok, uzlaşma yok - sadece toplam gizlilik ve rahatlık."
+          },
+          "title": "Yerel dosyalar",
+          "description": "Yerel dosyalar özelliği ile, cihazınızdaki tüm klasörleri seçebilir ve doğrudan Braincandy'de bulunan tüm medyayı izleyebilirsiniz. Özel medyanız cihazınızda kalır - hiçbir şey yüklenmez.",
+          "overview": {
+            "title": "Yerel dosyalar nelerdir?",
+            "headline": "Kendi medyanızı izleyin - özel olarak",
+            "description": "Yerel dosyalar, cihazınızdan herhangi bir klasör seçmenizi ve içindeki tüm videoları ve resimleri Braincandy'deki görüntülemenizi sağlar. Dosyalarınız asla yüklenmez; Yalnızca tarayıcınızda yerel olarak kullanılırlar. Bu, hiçbir şey yüklemek veya gizlilik konusunda endişelenmek zorunda kalmadan Braincandy'nin tüm özellikleriyle en özel medyanızın tadını çıkarabileceğiniz anlamına gelir. (Ve evet, bu nihayet sonsuz kedi videolarını tamamen barış içinde izleyebileceğiniz anlamına gelir!)"
+          },
+          "benefits": {
+            "title": "Temel avantajlar",
+            "headline": "Neden Yerel Dosyaları Kullanın?",
+            "description": "Yerel dosyalar size toplam kontrol ve gizlilik sağlar:",
+            "items": {
+              "1": "Herhangi bir yere yüklemeden tüm klasörlerden özel videoları ve resimleri izleyin",
+              "2": "Kendi medyanızla tüm Braincandy özelliklerinin tadını çıkarın",
+              "3": "Maksimum Gizlilik - Dosyalarınız Cihazınızdan Asla Ayrılmadan",
+              "4": "Bir sunucuya yüklemeye veya senkronize olmaya gerek yok",
+              "5": "Hassas veya kişisel içerik için ideal",
+              "6": "Kolay toplu görüntüleme için tüm klasörlerle çalışır"
+            }
+          },
+          "how_to_use": {
+            "title": "Yerel dosyalar nasıl kullanılır",
+            "headline": "Başlarken",
+            "description": "Braincandy ile yerel medyanızı izlemek için bu adımları izleyin:",
+            "steps": {
+              "1": "Braincandy'deki 'Yerel Dosyalar' düğmesini tıklayın.",
+              "2": "Cihazınızdan bir klasör seçin.",
+              "3": "Doğrudan Braincandy'de bu klasörden tüm medyaya göz atın ve çalın - hiçbir şey yüklenmez.",
+              "4": "Hiçbir kısıtlama olmadan tüm özelliklerin, gizlilik ve hatta kedi videolarının tadını çıkarın."
+            }
+          },
+          "faq": {
+            "title": "SSS",
+            "headline": "Sık sorulan sorular",
+            "description": "Braincandy'deki yerel dosyalar hakkında yaygın soruların cevapları:",
+            "items": {
+              "1": {
+                "question": "Dosyalarım bir sunucuya yüklendi mi?",
+                "answer": "Hayır. Tüm dosyalar cihazınızda kalır ve asla yüklenmez veya paylaşılmaz."
+              },
+              "2": {
+                "question": "Hangi tarayıcılar yerel dosyaları destekler?",
+                "answer": "Şu anda, bu özellik en iyi Chrome ve diğer krom bazlı tarayıcılarda çalışıyor. Gelecekte daha fazla tarayıcı desteği eklenebilir."
+              },
+              "3": {
+                "question": "Bireysel dosyaları seçebilir miyim?",
+                "answer": "Hayır, yalnızca tüm klasörleri seçebilirsiniz. Klasörün içindeki desteklenen tüm medya dosyaları Braincandy'de mevcut olacaktır."
+              },
+              "4": {
+                "question": "Kaç dosya izleyebileceğimin bir sınırı var mı?",
+                "answer": "Hayır, istediğiniz kadar dosya izleyebilirsiniz - isterseniz saatlerce kedi videoları bile!"
+              }
+            }
+          }
+        },
+        "playlists": {
+          "meta": {
+            "title": "Oynatma listeleri | Fapstats Braincandy",
+            "description": "Fapstats Braincandy ile kamu medyasının özel çalma listelerini oluşturun, paylaşın ve çalın. Nihai esneklik için kendi JSON veya XSPF dosyalarınızı kullanın."
+          },
+          "title": "Çalma listeleri",
+          "description": "Braincandy çalma listeleriyle, web'in herhangi bir yerinden özel medya koleksiyonları çalabilirsiniz. Sadece bir çalma listesi dosyası yükleyin ve izlemeye başlayın!",
+          "playlist_generator": "Çalma Listesi Jeneratörü",
+          "overview": {
+            "title": "Çalma listeleri nedir?",
+            "headline": "Özel medya koleksiyonları kolaylaştırılmış",
+            "description": "Braincandy çalma listeleri, medya URL'leri listeleri içeren özel JSON veya XSPF dosyalarıdır. Her URL, desteklenen bir dosya türü (.mp4 gibi) ile bitmelidir, böylece halka açık herhangi bir medyayı tek bir çalma listesinde birleştirebilir ve Braincandy'de oynatabilirsiniz. Braincandy Playlist Jeneratörümüzü kullanarak kendi çalma listelerinizi kolayca oluşturabilirsiniz."
+          },
+          "benefits": {
+            "title": "Temel avantajlar",
+            "headline": "Neden çalma listeleri kullanıyorsunuz?",
+            "description": "Çalma listeleri size maksimum esneklik ve paylaşım seçenekleri sunar:",
+            "items": {
+              "1": "Herhangi bir genel medyayı tek bir çalma listesi dosyasında birleştirin",
+              "2": "JSON ve XSPF formatları için destek",
+              "3": "Çalma listelerinizi sosyal medyada veya arkadaşlarınızla kolayca paylaşın",
+              "4": "Çalma listeleri, {link-local-files} ve {link-subreddits} ile birlikte Braincandy'de medya yüklemenin üçüncü bir yoludur.",
+              "5": "Dosyaları kendiniz yüklemeye veya barındırmaya gerek yok - sadece genel url'leri kullanın"
+            }
+          },
+          "how_to_use": {
+            "title": "Çalma listeleri nasıl kullanılır",
+            "headline": "Başlarken",
+            "description": "Braincandy'de çalma listeleri oluşturmak ve kullanmak için bu adımları izleyin:",
+            "steps": {
+              "1": "{link-playlist-generator} veya manuel olarak JSON/XSPF biçiminde bir çalma listesi dosyası oluşturun.",
+              "2": "Çalma listesindeki tüm URL'lerin desteklenen bir medya türü (.mp4 gibi) ile bittiğinden emin olun.",
+              "3": "İzlemeye başlamak için çalma listenizi Braincandy'e yükleyin.",
+              "4": "Oynatma listesi dosyanızı başkalarıyla paylaşın veya sosyal medyada yayınlayın."
+            }
+          },
+          "faq": {
+            "title": "SSS",
+            "headline": "Sık sorulan sorular",
+            "description": "Braincandy'deki çalma listeleri hakkında yaygın soruların cevapları:",
+            "items": {
+              "1": {
+                "question": "Çalma listeleri için hangi dosya formatları desteklenir?",
+                "answer": "JSON veya XSPF dosyalarını kullanabilirsiniz. Her biri, desteklenen bir dosya türü ile biten geçerli medya URL'leri içermelidir."
+              },
+              "2": {
+                "question": "Çalma listelerimi başkalarıyla paylaşabilir miyim?",
+                "answer": "Evet! Çalma listesi dosyaları sosyal medyada kolayca paylaşılabilir veya arkadaşlara gönderilebilir."
+              },
+              "3": {
+                "question": "Braincandy'de medyayı başka hangi yollar yükleyebilirim?",
+                "answer": "Çalma listelerine ek olarak, cihazınızdan medya izlemek için yerel dosyaları kullanabilir veya doğrudan Reddit'ten içerik yüklemek için ön ayarları ve alt bölümleri kullanabilirsiniz."
+              }
+            }
+          }
+        },
+        "statistics": {
+          "meta": {
+            "title": "İstatistikler | Fapstats Braincandy",
+            "description": "Braincandy oturumunuzun tam bir özetine bakın: zamanlayıcılar, medya sayıları, atlamalar ve favoriler. Etkinliğinizi izlemek için mükemmeldir."
+          },
+          "title": "İstatistik",
+          "description": "Her Braincandy oturumunun sonunda, etkinliğinizin ayrıntılı bir özetini alırsınız. Tam olarak ne kadar süre harcadığınızı, ne kadar izlediğinizi ve neyi favori yaptığınızı görün.",
+          "overview": {
+            "title": "Oturum istatistikleri nedir?",
+            "headline": "Bir bakışta seansınız",
+            "description": "İstatistik sayfası mevcut Braincandy oturumunuza tam bir genel bakış göstermektedir. Toplam, aktif ve duraklatılmış zaman için zamanlayıcılar, her medya türü, atlama sayısı ve favorileriniz için sayımlar göreceksiniz. Oturumunuzu Fapstats uygulamasında bir etkinlik olarak günlüğe kaydetmek istiyorsanız, bu istatistikler süreyi ve diğer ayrıntıları kopyalamayı kolaylaştırır. Unutmayın: istatistikler oturum tabanlıdır ve sayfadan ayrıldığınızda kaybolacaktır."
+          },
+          "benefits": {
+            "title": "Temel avantajlar",
+            "headline": "Neden Oturum İstatistikleri kullanıyor?",
+            "description": "Oturum İstatistikleri Braincandy deneyiminizi izlemenize ve hatırlamanıza yardımcı olur:",
+            "items": {
+              "1": "Bir bakışta toplam, aktif ve duraklatılmış oturum sürelerini görün",
+              "2": "Görüntüler, GIF'ler, Videolar ve Total Media için Sayımlar",
+              "3": "Seansınız sırasında atlama sayısını ve {link-favourites}",
+              "4": "Fapstats uygulamasında bir etkinlik girişi oluşturmak için istatistiklerinizi hızlı bir şekilde kopyalayın",
+              "5": "Oturumunuzla ilgili anında geri bildirim-Tüm veriler oturum tabanlı ve özeldir"
+            }
+          },
+          "how_to_use": {
+            "title": "İstatistik nasıl kullanılır",
+            "headline": "Başlarken",
+            "description": "Oturum istatistiklerinizden en iyi şekilde yararlanmak için bu adımları izleyin:",
+            "steps": {
+              "1": "İstatistik özetinizi görmek için Braincandy'de bir oturum doldurun.",
+              "2": "Zamanlayıcılarınızı gözden geçirin: Toplam, aktif ve duraklatılmış zaman.",
+              "3": "Medya sayımlarınızı kontrol edin: görüntüler, GIF'ler, videolar ve toplam medya.",
+              "4": "Kaç tane atlama ve {link-favourites} yaptığınızı görün.",
+              "5": "{link-app} 'da doğru bir etkinlik girişi oluşturulmasına yardımcı olmak için istatistikleri kopyalayın."
+            }
+          },
+          "faq": {
+            "title": "SSS",
+            "headline": "Sık sorulan sorular",
+            "description": "Braincandy'deki oturum istatistikleri hakkında yaygın soruların cevapları:",
+            "items": {
+              "1": {
+                "question": "Sayfadan ayrıldığımda istatistiklerime ne olacak?",
+                "answer": "İstatistikler oturum tabanlıdır ve sayfayı kapattığınızda veya yeniden yüklediğinizde kaybolacaktır."
+              },
+              "2": {
+                "question": "Oturum istatistiklerimi kaydedebilir veya dışa aktarabilir miyim?",
+                "answer": "İstatistiklerinizi Fapstats uygulamasında veya başka bir yerde kullanmak için manuel olarak kopyalayabilirsiniz."
+              },
+              "3": {
+                "question": "İstatistiklerim özel mi?",
+                "answer": "Evet. Tüm istatistikler oturumunuz için yereldir ve asla yüklenmez veya paylaşılmaz."
+              }
+            }
+          }
+        },
+        "favourites": {
+          "meta": {
+            "title": "Favoriler | Fapstats Braincandy",
+            "description": "En sevdiğiniz medyayı tek bir tıklama ile işaretleyin ve Fapstats Braincandy'deki her oturumdan sonra bunları inceleyin veya paylaşın."
+          },
+          "title": "Favoriler",
+          "description": "Fapstats Braincandy ile, herhangi bir medyayı favori olarak kolayca işaretleyebilirsiniz. Mevcut ortamı favorilerinize eklemek için herhangi bir ekranın sağ üst köşesindeki kalp simgesini tıklamanız yeterlidir.",
+          "overview": {
+            "title": "Favoriler nelerdir?",
+            "headline": "En iyi medyanızı kaydedin ve tekrar ziyaret edin",
+            "description": "Favoriler özelliği, en çok keyif aldığınız medyayı hızlı bir şekilde işaretlemenizi sağlar. Bir video, resim veya gif olsun, izlerken kalp simgesine dokunun. Favorileriniz oturum için toplanır ve oturum özetinde tekrar gösterilir, böylece bunları daha sonra kaydedebilir veya paylaşabilirsiniz."
+          },
+          "benefits": {
+            "title": "Temel avantajlar",
+            "headline": "Neden favoriler kullanıyorsunuz?",
+            "description": "Favoriler, oturumlarınızdaki en iyi anları hatırlamayı ve tekrar gözden geçirmeyi kolaylaştırır:",
+            "items": {
+              "1": "Herhangi bir medyayı tek bir tıklamayla favori olarak hızlı bir şekilde işaretleyin",
+              "2": "Özette her oturumun sonunda tüm favorilerinizi görün",
+              "3": "Favorilerinizi gelecekteki oturumlar için kaydedin",
+              "4": "En sevdiğiniz medyayı başkalarıyla kolayca paylaşın",
+              "5": "Keşfettiğiniz en iyi içeriği asla kaybetmeyin"
+            }
+          },
+          "how_to_use": {
+            "title": "Favoriler nasıl kullanılır",
+            "headline": "Başlarken",
+            "description": "Favoriler özelliğinden en iyi şekilde yararlanmak için bu adımları izleyin:",
+            "steps": {
+              "1": "Medya izlerken, favorilerinize eklemek için herhangi bir ekranın sağ üst köşesindeki kalp simgesini tıklayın.",
+              "2": "Oturumunuzun sonunda, oturum özetinde tüm favorilerinizi inceleyin.",
+              "3": "Favorilerinizi cihazınıza kaydedin veya istediğiniz gibi paylaşın."
+            }
+          },
+          "faq": {
+            "title": "SSS",
+            "headline": "Sık sorulan sorular",
+            "description": "Braincandy'deki favorilerle ilgili yaygın soruların cevapları:",
+            "items": {
+              "1": {
+                "question": "Herhangi bir medyayı favori yapabilir miyim?",
+                "answer": "Evet! Videoları, resimleri, GIF'leri ve desteklenen diğer tüm içerikleri favori yapabilirsiniz."
+              },
+              "2": {
+                "question": "Bir seanstan sonra favorilerimi nerede bulabilirim?",
+                "answer": "Oturumdaki tüm favorileriniz, kaydedebileceğiniz veya paylaşabileceğiniz oturum özetinde gösterilmiştir."
+              },
+              "3": {
+                "question": "Önceki oturumlardan favorilere erişebilir miyim?",
+                "answer": "Seans başına favoriler toplanır. Daha sonra favorileri tutmak için, özeti bitirmeden önce bunları cihazınıza kaydedin veya paylaşın."
+              }
+            }
+          }
+        },
+        "play_pause": {
+          "meta": {
+            "title": "Oynat/Duraklama | Fapstats Braincandy",
+            "description": "Seansınızı Braincandy'de istediğiniz zaman duraklatın. Tamamen kişiselleştirilmiş bir deneyim için oynatma, zamanlayıcılar ve otomatik atlama."
+          },
+          "title": "Oynat/Duraklama",
+          "description": "Braincandy'deki Play/Duraklama özelliği ile, tüm oturumunuzu istediğiniz zaman duraklatabilirsiniz - işler çok hızlı hareket ediyorsa veya belirli bir medyaya odaklanmak istiyorsanız mükemmel.",
+          "overview": {
+            "title": "Oyun/duraklama nedir?",
+            "headline": "Seansınız üzerinde tam kontrol",
+            "description": "Oynat/Duraklat düğmesi, medyayı manuel olarak atlamanıza ve görüntülemenize izin verirken tüm otomatik oynatma ve atlamayı durdurmanıza olanak tanır. Oturumunuzu tek bir tıklamayla duraklatabilir veya devam ettirebilir veya klavyenizdeki boşluk çubuğuna basabilirsiniz. MP4 videoları ayrıca oynatıcı ile otomatik olarak duraklatılır veya devam eder, ancak duraklama modunda bile bireysel videoları izlemeye devam edebilirsiniz."
+          },
+          "benefits": {
+            "title": "Temel avantajlar",
+            "headline": "Neden Oynat/Duraklama Kullanalım?",
+            "description": "Oynat/Duraklama size esnek kontrol ve daha iyi izleme sağlar:",
+            "items": {
+              "1": "Tüm otomatik oynatma ve tek bir tıklamayla atlama",
+              "2": "Duraklatılırken medyayı kendi hızınızda manuel olarak atlayın ve görüntüleyin",
+              "3": "Masaüstünde uzay çubuğunu anında oynat/duraklat",
+              "4": "MP4 videoları oyuncunun oynatma/duraklatma durumunu takip eder, ancak ayrı ayrı devam edebilir",
+              "5": "Aktif zamanlayıcı duraklamaları, duraklama zamanlayıcısı devam eder ve toplam zamanlayıcı etkilenmez",
+              "6": "{link-statistics-page} 'da aktif, duraklatılmış ve toplam oturum sürelerinizi görün"
+            }
+          },
+          "how_to_use": {
+            "title": "Oyun/Duraklama Nasıl Kullanılır",
+            "headline": "Başlarken",
+            "description": "Oyun/Duraklama En iyi şekilde yararlanmak için bu adımları izleyin:",
+            "steps": {
+              "1": "Oturumunuzu duraklatmak veya devam ettirmek için oyuncu denetimlerindeki Oynat/Duraklat düğmesini tıklayın.",
+              "2": "Hızlı Play/Duraklama Değişimi için PC'nizdeki boşluk çubuğunu kullanın.",
+              "3": "Duraklatılırken, yine de bir sonraki medyaya manuel olarak atlayabilir veya istediğiniz kadar video izleyebilirsiniz.",
+              "4": "Aktif, duraklatılmış ve toplamda ne kadar zaman geçirdiğinizi görmek için oturum istatistiklerinizi daha sonra kontrol edin."
+            }
+          },
+          "faq": {
+            "title": "SSS",
+            "headline": "Sık sorulan sorular",
+            "description": "Braincandy'de Oyun/Duraklama Hakkında Yaygın Soruların Cevapları:",
+            "items": {
+              "1": {
+                "question": "Oynat/duraklama tüm medyayı durdurur mu?",
+                "answer": "MP4 videolarının otomatik atlamasını ve çalmayı durdurur, ancak yine de medyayı istediğiniz gibi manuel olarak görüntüleyebilir veya atlayabilirsiniz."
+              },
+              "2": {
+                "question": "Oynat/duraklama zamanlayıcıları nasıl etkiler?",
+                "answer": "Aktif zamanlayıcı duraklar, duraklama zamanlayıcısı devam eder ve toplam zamanlayıcı çalışır durumda. Tüm bu zamanları oturum istatistiklerinizde göreceksiniz."
+              },
+              "3": {
+                "question": "Klavyemle oynat/duraklatabilir miyim?",
+                "answer": "Evet! Anında oynamayı/duraklatmak için PC'nizdeki boşluk çubuğuna basmanız yeterlidir."
+              },
+              "4": {
+                "question": "Duraklattığımda videolara ne oluyor?",
+                "answer": "MP4 videoları, oynatıcı ile otomatik olarak duraklatır veya devam eder, ancak oturum durdurulurken bile herhangi bir videoyu ayrı ayrı oynatabilirsiniz."
+              }
+            }
+          }
+        },
+        "no_limits": {
+          "meta": {
+            "title": "Sınır yok | Fapstats Braincandy",
+            "description": "Fapstats Braincandy ile, ne, ne kadar veya ne kadar süre izleyebileceğiniz konusunda herhangi bir sınır yoktur. Reddit, çalma listeleri veya yerel dosyalardan sınırsız medyanın tadını çıkarın - tamamen ücretsiz, sonsuza dek!"
+          },
+          "title": "Sınır yok",
+          "description": "Fapstats Braincandy, ihtiyacınız olan tek medya oynatıcıdır - ve kesinlikle sınırsızdır. İstediğiniz kadar istediğiniz her şeyi istediğiniz kadar izleyin.",
+          "overview": {
+            "title": "'Sınır yok' ne anlama geliyor?",
+            "headline": "Gerçekten sınırsız medya oynatma",
+            "description": "Deneyiminizi kısıtlayan veya abonelik gerektiren diğer medya oyuncularının aksine, Braincandy sınırsız medyanın tadını çıkarmanıza izin verir: Reddit'ten, kendi çalma listeleriniz veya yerel dosyalar. Neyi izleyebileceğiniz, kaç ekran kullandığınız (12'ye kadar 12'ye kadar!) Veya Braincandy'i ne kadar kullandığınız konusunda herhangi bir kısıtlama yoktur. 24 saat düz izlemek ister misiniz? Devam etmek! Her ekranı kedi resimleriyle doldurmak ister misiniz? Sizi durdurmayacağız - arkadaşlarınız sizi yargılayabilse bile."
+          },
+          "benefits": {
+            "title": "Temel avantajlar",
+            "headline": "Neden Braincandy'i seçmelisiniz?",
+            "description": "Braincandy size medya deneyiminiz üzerinde tamamen özgürlük ve kontrol sağlar:",
+            "items": {
+              "1": "Reddit, özel çalma listeleri veya yerel dosyalardan sınırsız medya izleyin",
+              "2": "Süre, dosya boyutu veya oturum sayısı kısıtlaması yok",
+              "3": "En fazla 12 ekranın yan yana keyfini çıkarın - çoklu görev veya yaratıcı kurulumlar için mükemmel",
+              "4": "İstediğiniz herhangi bir içeriği oynayın - hatta kedi resimleri, eğer bu senin işinse",
+              "5": "Abonelik yok, ödeme duvarı yok, gizli maliyet yok -",
+              "6": "Yetişkin içeriği için tasarlanmış, ancak izlemeyi sevdiğiniz her şeye açık"
+            }
+          },
+          "how_to_use": {
+            "title": "Sınırsız Braincandy'in tadını nasıl çıkarılır",
+            "headline": "Başlarken",
+            "description": "Braincandy kullanmak basit ve her zaman ücretsizdir:",
+            "steps": {
+              "1": "Seçtiğiniz bir tarayıcıda Braincandy'i açın.",
+              "2": "Reddit, çalma listeleriniz veya yerel dosyalardan medya ekleyin.",
+              "3": "İstediğiniz gibi en fazla 12 ekran seçin.",
+              "4": "Sıfır kısıtlamalarla istediğiniz kadar istediğiniz kadar izleyin."
+            }
+          },
+          "faq": {
+            "title": "SSS",
+            "headline": "Sık sorulan sorular",
+            "description": "Braincandy ve sınırsız özellikleri hakkında yaygın soruların cevapları:",
+            "items": {
+              "1": {
+                "question": "Braincandy gerçekten özgür mü?",
+                "answer": "Evet! Braincandy, abonelik, ödeme duvarları veya gizli ücretler olmadan kullanmak tamamen ücretsizdir."
+              },
+              "2": {
+                "question": "Neler izleyebileceğim konusunda herhangi bir kısıtlama var mı?",
+                "answer": "Hayır. İçerik cihazınızda veya herkese açık olarak erişilebilir olduğu sürece, herhangi bir şey izleyebilirsiniz - hatta sonsuz kedi videoları."
+              },
+              "3": {
+                "question": "12 ekranın hepsini aynı anda kullanabilir miyim?",
+                "answer": "Kesinlikle! Her ekranı istediğiniz şeyle doldurun - tek sınır hayal gücünüzdür (ve belki de cihazınızın performansı)."
+              },
+              "4": {
+                "question": "Braincandy sadece yetişkin içeriği için mi?",
+                "answer": "Braincandy, yetişkinler göz önünde bulundurularak tasarlanmıştır, ancak hoşunuza giden herhangi bir medya için kullanabilirsiniz."
+              }
+            }
+          }
+        }
+      },
+      "changelog": {
+        "meta": {
+          "title": "@:pages.index.title @:pages.braincandy._ @:common.changelog",
+          "description": "Fapstats Braincandy ile ilgili en son güncellemeleri ve iyileştirmeleri keşfedin. Gelişmiş bir deneyim için en yeni özelliklerimiz hakkında bilgi sahibi olun."
+        },
+        "navigation": {
+          "title": "@:common.changelog",
+          "description": "@:pages.braincandy.changelog.description"
+        },
+        "title": "@:pages.index.title @:pages.braincandy._ @:common.changelog",
+        "headline": "@:common.whats_new",
+        "description": "Fapstats Braincandy'de Yeni Güncellemeler ve İyileştirmeler",
+        "no_changelog": "@:common.no_changelog"
+      }
+    },
+    "ovulation_calculator": {
+      "_": "Yumurtlama hesap makinesi",
+      "meta": {
+        "title": "@:pages.ovulation_calculator.title · @:pages.index.title",
+        "description": "En verimli olacağınızı, ne zaman hamilelik testi yapacağınızı, bir sonraki döneminizin ne zaman ödenmesi ve son tarihinizin ne olacağını öğrenmek için yumurtlama hesap makinemizi deneyin."
+      },
+      "navigation": {
+        "title": "@:pages.ovulation_calculator._",
+        "description": "@:pages.ovulation_calculator.meta.description"
+      },
+      "title": "Yumurtlama ve dönem hesap makinesi",
+      "description": "Yumurtlama ve dönem hesap makinemiz, adet döngünüz ve doğurganlığınızla ilgili temel tarihleri ​​belirlemenize yardımcı olur. İster yumurtlamayı izleyin, ister bir sonraki döneminizi tahmin edin, ister verimli pencerenizi tanımlayın, hesap makinemiz doğru sonuçlar sağlar. Sadece bilgilerinizi girin ve hesap makinemizin gerisini yapmasına izin verin.",
+      "prev_month": "Önceki Ay",
+      "next_month": "Gelecek ay",
+      "last_period": {
+        "title": "Son dönem",
+        "description": "En son adet çemberinizin başlangıç ​​tarihini seçin."
+      },
+      "cycle_length": {
+        "title": "Döngü uzunluğu",
+        "description": "Menstrüel döngünüzdeki gün sayısını girin."
+      },
+      "quick_selections": "Hızlı Seçimler",
+      "reset": {
+        "title": "Baştan çıkarmak",
+        "description": "Formu kolaylıkla sıfırlayın ve basit bir tıklamayla yeniden başlayın!"
+      },
+      "step1": {
+        "title": "1. adım",
+        "description": "Aşağıdaki verileri hesaplamak için son döneminizin başlangıç ​​tarihini ve döngü sürenizi girin."
+      },
+      "calculation_instructions": "Nasıl hesaplanır",
+      "fertile_window": {
+        "title": "Verimli pencere",
+        "description": "Verimli pencere, bir kadının genellikle yumurtlama zamanında meydana gelen gebe kalma olasılığı yüksektir.",
+        "calculation": "Verimli pencere, gebe kalma olasılığınız en yüksek olan zamandır. Yumurtlamadan 5 gün önce başlar ve yumurtlamadan 1 gün sonra biter. Verimli pencerenizi hesaplamak için yumurtlama tarihinize 5 gün ekleyin. Örneğin, yumurtlama tarihiniz 14. Gün ise, verimli pencereniz 9. günden 15. güne kadar olacaktır."
+      },
+      "ovulation_date": {
+        "title": "Yumurtlama tarihi",
+        "description": "Yumurtlama tarihi, yumurtalıktan bir yumurta serbest bırakıldığında ve potansiyel olarak döllenebildiğinde bir kadının adet döngüsünde gündür.",
+        "calculation": "Yumurtlama tarihini hesaplamak için döngü uzunluğunuzu bilmeniz gerekir. Ortalama döngü uzunluğu 28 gündür, ancak kişiden kişiye değişebilir. Yumurtlama tarihinizi hesaplamak için, döngünüz uzunluğundan 14 gün çıkarın. Örneğin, döngünüz 28 gün ise, yumurtlama tarihiniz 14. gün olacaktır."
+      },
+      "next_period_date": {
+        "title": "Sonraki Dönem Tarihi",
+        "description": "Bir sonraki dönem tarihi, bir kadın adet döngüsünün bir önceki dönemden sonra tekrar başlaması beklenen tarihtir.",
+        "calculation": "Bir sonraki dönem tarihinizi hesaplamak için, döngü uzunluğunuzu son döneminizin başlangıç ​​tarihine eklemeniz yeterlidir. Örneğin, son döneminiz 1. günde başlarsa ve döngü uzunluğunuz 28 gün ise, bir sonraki döneminiz 29. günde başlayacaktır."
+      },
+      "pregnancy_test_date": {
+        "title": "Gebelik Test Tarihi",
+        "description": "Hamilelik testi tarihi, bir kadının hamile olup olmadığını belirlemek için hamilelik testi yaptığı tarihi ifade eder.",
+        "calculation": "Bir hamilelik testi genellikle kaçırılan bir dönemden sonra hamileliği tespit edebilir. Ne zaman hamilelik testi yapacağınızı hesaplamak için verimli pencerenizin sonuna 14 gün ekleyin. Örneğin, verimli pencereniz 15. günde sona ererse, 29. günde hamilelik testi yaparsınız."
+      },
+      "expected_due_date": {
+        "title": "Beklenen Son Tarih",
+        "description": "Beklenen bitiş tarihi (EDD), hamile bir kadının bebeğin doğması bekleniyor. Gerçek bitiş tarihi birkaç gün veya haftaya göre değişebilir.",
+        "calculation": "Beklenen vadeli tarihinizi hesaplamak için, son döneminizin ilk gününe 280 gün (40 hafta) ekleyin. Örneğin, son döneminiz 1. günde başlarsa, beklenen vadeli tarihiniz 281. günde 180 gün sonra olacaktır."
+      }
+    },
+    "xp_level_calculator": {
+      "_": "XP / Seviye Hesap Makinesi",
+      "meta": {
+        "title": "@:pages.xp_level_calculator._ · @:pages.index.title",
+        "description": "@:pages.xp_level_calculator.description"
+      },
+      "navigation": {
+        "title": "@:pages.xp_level_calculator._",
+        "description": "@:pages.xp_level_calculator.description"
+      },
+      "title": "XP ve Seviye Hesap Makinesi",
+      "description": "Seviyenizi XP'nize göre hesaplayın veya tam tersi. Aşağıdaki tüm seviye eşiklerini görüntüleyin!",
+      "level": "Seviyesi",
+      "xp_to_level": "XP seviyesine",
+      "enter_xp": "XP girin",
+      "level_to_xp": "XP'ye seviye",
+      "enter_level": "Seviye Gir",
+      "xp_required_for_level_x": "{level} seviye için gerekli XP",
+      "xp_to_next_level": "XP Sonraki Seviyeye",
+      "progress_in_this_level": "Bu seviyedeki ilerleme",
+      "difficulty": "Zorluk",
+      "estimated_time_to_reach_this_level": "Bu seviyeye ulaşmak için tahmini süre",
+      "estimated_time_disclaimer": "Sıfırdan başladığınızı ve günde {xp} xp kazandığınızı varsayarsak",
+      "difficulty_stages": {
+        "very_easy": "Çok kolay",
+        "easy": "Kolay",
+        "moderate": "Ilıman",
+        "challenging": "Zorlu",
+        "hard": "Zor",
+        "very_hard": "Çok zor",
+        "extreme": "Aşırı",
+        "insane": "İnanılmaz",
+        "legendary": "Efsanevi",
+        "mythical": "Efsanevi",
+        "impossible": "İmkansız"
+      },
+      "level_list": "Seviye listesi"
+    },
+    "blog": {
+      "_": "Blog",
+      "meta": {
+        "title": "@:pages.blog.title: @:pages.blog.description",
+        "description": "Fapstats bloguyla cinsel sağlık ve sağlıklı yaşam hakkında bilgi sahibi olun. Cinsel refahınızı optimize etmek için en son araştırmalar, ipuçları ve eğilimler konusunda güncel kalın"
+      },
+      "navigation": {
+        "title": "@:pages.blog._",
+        "description": "@:pages.blog.description"
+      },
+      "title": "@:pages.index.title @:pages.blog._",
+      "description": "Seks, aşk ve sağlık hakkında her şey",
+      "no_articles": "Diliniz için herhangi bir makale yok"
+    },
+    "about": {
+      "_": "Hakkında",
+      "meta": {
+        "title": "@:pages.about._ · @:pages.index.title",
+        "description": "Fapstats, günlük cinsel yaşamınız için çözüm ve araçlar sağlamak için tasarlanmış bir uygulama ve web sitesi ekosistemidir."
+      },
+      "navigation": {
+        "title": "@:pages.about._",
+        "description": "Bizim ve hikayemiz hakkında daha fazla bilgi edinin"
+      },
+      "title": "Fapstats tanış",
+      "description": "Fapstats, günlük cinsel yaşamınız için çözümler ve araçlar sağlamak için tasarlanmış bir uygulama ve web sitesi ekosistemidir.\n\nMisyonumuz, seksten sekmeyi kırmaktır. Cinsellik hakkında açık ve dürüst konuşmaların önemli olduğuna ve yanlış anlamaları kaldırmaya ve sağlıklı bir cinsel ilişki kurmaya yardımcı olabileceğine inanıyoruz.",
+      "story": {
+        "title": "Hikayemiz",
+        "headline": "Her şey nasıl başladı",
+        "description": "Fapstats, Şubat 2023'te küçük, eğlenceli bir yan proje olarak kuruldu. Basit bir fikir olarak başlayan şey, hızla genişleyen bir kullanıcı tabanı ile hızla başarılı bir platforma dönüştü."
+      },
+      "timeline": {
+        "1": {
+          "title": "Başlangıç",
+          "headline": "Selam Dünya!",
+          "time": "Şubat 2023",
+          "items": {
+            "1": "Fapstats kuruldu",
+            "2": "İlk Web Gösterge Tablosu'nun geliştirilmesi başlıyor"
+          }
+        },
+        "2": {
+          "title": "İyileştirmeler",
+          "headline": "Her seferinde bir adım",
+          "time": "Mart 2023",
+          "items": {
+            "1": "Geliştirilmiş tasarım ve kullanıcı deneyimi",
+            "2": "Daha ayrıntılı istatistikler eklendi"
+          }
+        },
+        "3": {
+          "title": "Görsel olarak hoş",
+          "headline": "Grafikler daha iyi görünüyor",
+          "time": "Nis 2023",
+          "items": {
+            "1": "İlk görsel grafikleri başlattı",
+            "2": "Platformun görsel çekiciliğini geliştirdi"
+          }
+        },
+        "4": {
+          "title": "Daha fazlasına ihtiyacımız var",
+          "headline": "Daha Fazla Grafikler",
+          "time": "Aralık 2023",
+          "items": {
+            "1": "Ek grafikler ve analitikler tanıtıldı",
+            "2": "Daha kişiselleştirilmiş geri bildirimler için bir yıldız derecelendirme sistemi eklendi"
+          }
+        },
+        "5": {
+          "title": "Farklı bir şey deneyelim",
+          "headline": "Daha büyük grafikler, daha iyi okunabilirlik",
+          "time": "Ocak 2024",
+          "items": {
+            "1": "Daha büyük, daha okunabilir grafiklere yükseltildi",
+            "2": "Daha iyi bir kullanıcı deneyimi için genel tasarımı rafine etti"
+          }
+        },
+        "6": {
+          "title": "Her Şey YENİ",
+          "headline": "Tamamen yeniden işlenmiş gösterge paneli",
+          "time": "Mart 2024",
+          "items": {
+            "1": "Tamamen Gösterge Tablosu Revizyon",
+            "2": "Geliştirilmiş düzen ve kullanılabilirlik",
+            "3": "Fapstats.dev'den fapstats.com'a etki alanı değişimi"
+          }
+        },
+        "7": {
+          "title": "İyileştirmeler yapmak",
+          "headline": "Mobil uygulama",
+          "time": "Temmuz 2024",
+          "items": {
+            "1": "1,5 yıl sonra web gösterge panosunun sonlandırılmış geliştirilmesi",
+            "2": "{link-app} 'in gelişimine başladı"
+          }
+        },
+        "8": {
+          "title": "Yeni Yıl patlaması",
+          "headline": "Sayılar patlıyor",
+          "time": "2025'in başlarında",
+          "items": {
+            "1": "Patlayıcı Büyüme: Birkaç ay içinde {link-global-stats} üzerinden",
+            "2": "Kendi medya oynatıcımız {link-braincandy} geliştirmeye başladı"
+          }
+        }
+      }
+    },
+    "branding": {
+      "_": "Marka",
+      "meta": {
+        "title": "@:pages.branding._ · @:pages.index.title",
+        "description": "Fapstats'ta Markalaşma: Profesyonel bir markaya değer veriyoruz"
+      },
+      "navigation": {
+        "title": "@:pages.branding._",
+        "description": "Marka kurallarımız, renkler, logolar, yazı tipleri ve daha fazlası"
+      },
+      "title": "@:pages.branding._",
+      "description": "Fapstats, saygılı bir yaklaşımı sürdürürken cinsel sağlık, öz farkındalık ve refaha değer veren bir markadır. Kullanıcılarımıza en iyi deneyimi sunmaya öncelik veriyoruz. Tasarımızı veya içeriğimizi kullanmak istiyorsanız, stil ve istek tabanlı işbirliğini teşvik ediyoruz.",
+      "colors": "Renk",
+      "logo": {
+        "title": "@:common.logo",
+        "description": "Unutulmaz logomuz, bir çubuk grafik ve çeşitli vücut sıvıları anlamına gelen bir damlacık temsil eden üç çubuktan oluşur. Basit ama parlak!"
+      },
+      "spacing": {
+        "title": "Boşluk",
+        "description": "Fapstats logosunun kendisi, 'x' olarak adlandırdığımız temel ölçüm birimimizi temsil eder. Logomuza göre tüm boşluk ve boyutlandırma bu X değerine dayanmaktadır.\n\nLogomuzun öne çıkmasını sağlamak için, çevresinde her tarafta 1/2x'e eşit minimum net bir alana ihtiyacımız var. Bu alan diğer grafik öğelerinden veya metnlerden uzak kalmalıdır.\n\nLogomuzla ilişkili metnin yazı tipi boyutu, logo yüksekliğine göre 3/4x olarak boyutlandırılmalıdır. Bu oran logo ve metin arasında uyumlu bir denge sağlar.\n\nLütfen Fapstats logosunu düzenlemeyin, değiştirmeyin, bozmayın, yeniden çözmeyin veya yeniden yapılandırmayın."
+      },
+      "fonts": {
+        "title": "Yazı tipleri",
+        "description": "Belirtilen renkler karanlık mod için geçerlidir!",
+        "preheader": "Ön baş",
+        "headline": "Başlık",
+        "paragraph": "Paragraf",
+        "link": "Bağlantı"
+      }
+    }
+  }
+}

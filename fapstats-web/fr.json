@@ -1,0 +1,1881 @@
+{
+  "common": {
+    "buttons": {
+      "read_more": "En savoir plus",
+      "reset": "Réinitialiser",
+      "open": {
+        "_": "Ouvrir",
+        "x": "@:common.buttons.open._ {name}",
+        "x_in_browser": "@:common.buttons.open._ {name} dans le navigateur",
+        "app": "@:common.buttons.open._ @:pages.app._",
+        "braincandy": "@:common.buttons.open._ @:pages.braincandy._",
+        "sidebar": "@:Common.buttons.open._ Barre latérale"
+      },
+      "download": {
+        "_": "Télécharger",
+        "x_for_android": "@:common.buttons.download._ {name} pour Android"
+      }
+    },
+    "changelog": "Changelog",
+    "whats_new": "Quoi de neuf?",
+    "overview": "Aperçu",
+    "screenshots": "Captures d'écran",
+    "language": "Langue",
+    "legal": "Légal",
+    "tools": "Outils",
+    "company": "Entreprise",
+    "flag": "Drapeau",
+    "logo": "Logo",
+    "confirmed_users": "Utilisateurs confirmés",
+    "created_partners": "Partenaires créés",
+    "created_toys": "Jouets créés",
+    "tracked_activities": "Activités à suivi",
+    "no_changelog": "Le journal des modifications n'est pas disponible dans votre langue.",
+    "faq": "FAQ",
+    "frequently_asked_questions": "Questions fréquemment posées",
+    "feature": "Fonctionnalité",
+    "imprint": "Imprimer",
+    "privacy_policy": "Confidentialité",
+    "terms_of_service": "Conditions de service",
+    "made_with_love_in_germany": "Fait avec {love} en Allemagne",
+    "love": "Mensonge",
+    "join_our_discord": "Rejoignez notre discorde"
+  },
+  "languages": {
+    "de": "Allemand",
+    "en": "Anglais",
+    "es": "Espagnol",
+    "fr": "Français",
+    "it": "Italien",
+    "pl": "Polonais",
+    "ru": "Russe",
+    "tr": "Turc"
+  },
+  "weekdays": {
+    "mon": "Lun",
+    "tue": "Mar",
+    "wed": "Mer",
+    "thu": "Jeu",
+    "fri": "Ven",
+    "sat": "Sam",
+    "sun": "Dim"
+  },
+  "months": {
+    "january": "Janvier",
+    "february": "Février",
+    "march": "Mars",
+    "april": "Avril",
+    "may": "Peut",
+    "june": "Juin",
+    "july": "Juillet",
+    "august": "Août",
+    "september": "Septembre",
+    "october": "Octobre",
+    "november": "Novembre",
+    "december": "Décembre"
+  },
+  "time": {
+    "day": "jour",
+    "days": "jours",
+    "week": "semaine",
+    "weeks": "semaines",
+    "month": "mois",
+    "months": "mois",
+    "year": "année",
+    "years": "années",
+    "more_than_decade": "plus d'une décennie",
+    "more_than_lifetime": "plus que votre vie"
+  },
+  "genders": {
+    "male": "Mâle",
+    "female": "Femelle",
+    "diverse": "Divers"
+  },
+  "pages": {
+    "index": {
+      "meta": {
+        "title": "@:pages.index.title · @:pages.index.headline",
+        "description": "@:pages.index.description"
+      },
+      "navigation": {
+        "title": "Page d'accueil"
+      },
+      "title": "Fapstats",
+      "headline": "Solutions et outils pour votre vie sexuelle quotidienne",
+      "description": "Avec Fapstats, vous obtenez un excellent écosystème fournissant tout ce dont vous avez besoin.",
+      "mission": {
+        "title": "Notre mission",
+        "headline": "Le sexe ne devrait pas être un sujet tabou",
+        "description": "Notre mission à Fapstats est de briser le tabou autour du sexe. Nous croyons fermement que les conversations ouvertes et honnêtes sur la sexualité sont importantes et peuvent aider à supprimer les malentendus et à construire une relation sexuelle saine.\n\nAvec Fapstats, nous voulons créer un endroit qui permet aux couples et aux célibataires de suivre, analyser et améliorer leur vie sexuelle tout en les encourageant à parler ouvertement de leurs désirs, de leurs besoins et de leurs fantasmes.\n\nNotre espoir est que Fapstats créera une impulsion pour briser le silence et encourager la conversation sur le sexe pour créer un monde où le sexe n'est plus un sujet tabou."
+      },
+      "software": {
+        "title": "Logiciel",
+        "headline": "@:pages.index.title écosystème"
+      },
+      "tools": {
+        "title": "@:common.tools",
+        "headline": "Nos calculatrices"
+      }
+    },
+    "app": {
+      "_": "Appliquer",
+      "meta": {
+        "title": "@:pages.index.title @:pages.app._ · @:pages.app.headline",
+        "description": ""
+      },
+      "navigation": {
+        "title": "@:common.overview",
+        "description": "@:pages.app.headline"
+      },
+      "title": "@:pages.index.title @:pages.app._",
+      "headline": "Sexe, masturbation et tracker de chasteté",
+      "description": "L'application Fapstats est pour suivre le sexe, la masturbation et la chasteté. Il vous donne beaucoup de statistiques pour tant de choses différentes comme vos partenaires sexuels ou vos jouets. Vous pouvez débloquer les réalisations, définir des dossiers personnels et plus encore!",
+      "features": {
+        "title": "Certaines des principales fonctionnalités",
+        "headline": "Fonctionnalités que vous aimez",
+        "description": "Libérez le plein potentiel de l'application Fapstats et améliorez votre santé sexuelle",
+        "statistics": {
+          "meta": {
+            "title": "",
+            "description": ""
+          },
+          "title": "Statistiques",
+          "description": "Obtenez des statistiques détaillées sur votre désir sexuel et vos partenaires.",
+          "overview": {
+            "title": "@:common.overview",
+            "headline": "Vos progrès, visualisés",
+            "description": "La page statistique vous donne une image complète de votre désir et de votre activité sexuelle. Voir instantanément les tendances, comparer différentes périodes et découvrir des modèles qui vous aident à mieux comprendre vous-même et vos habitudes. Toutes vos données sont magnifiquement visualisées et faciles à explorer."
+          },
+          "benefits": {
+            "title": "Pourquoi utiliser des statistiques?",
+            "headline": "Déverrouiller les informations avec des analyses puissantes",
+            "description": "La fonctionnalité de statistiques est conçue pour vous aider à rester motivé et informé. Voici comment cela améliore votre expérience:",
+            "items": {
+              "1": "Voir instantanément vos progrès et vos tendances au cours des jours, des semaines ou des mois.",
+              "2": "Découvrez les modèles et découvrez ce qui influence votre désir ou votre motivation.",
+              "3": "Comparez facilement vos statistiques avec les périodes précédentes.",
+              "4": "Personnalisez les statistiques que vous souhaitez voir - cachez tout ce qui n'est pas pertinent pour vous.",
+              "5": "Exportez et partagez vos statistiques pour une analyse plus approfondie (dans la version de l'application)."
+            }
+          },
+          "screenshots": {
+            "title": "@:common.screenshots",
+            "headline": "Jeter un œil à l'intérieur",
+            "description": "Voici à quoi ressemble la page statistiques en action."
+          },
+          "how_to_use": {
+            "title": "Comment utiliser",
+            "headline": "Début avec les statistiques",
+            "description": "Pour afficher vos statistiques, ouvrez simplement l'application et appuyez sur l'icône des «statistiques» dans la navigation inférieure (c'est le deuxième bouton de la gauche). Une fois sur la page, vous verrez tout de suite toutes vos statistiques et tendances. Si vous souhaitez exporter vos données, utilisez l'option d'exportation dans l'application. Au bas de la page, vous trouverez également un bouton pour configurer les statistiques affichées - vous ne voyez donc que ce qui compte le plus pour vous."
+          },
+          "faq": {
+            "title": "@:common.faq",
+            "headline": "@:common.frequently_asked_questions",
+            "description": "Vous avez des questions sur la fonctionnalité des statistiques? Voici quelques réponses rapides.",
+            "items": {
+              "1": {
+                "question": "Puis-je exporter mes statistiques?",
+                "answer": "Oui! Vous pouvez exporter vos statistiques directement à partir de l'application. Veuillez noter: l'exportation n'est disponible que dans la version de l'application, pas sur le Web. Sur le Web, vous pouvez prendre une capture d'écran, mais ce n'est pas une véritable exportation."
+              },
+              "2": {
+                "question": "Puis-je cacher certaines statistiques?",
+                "answer": "Absolument. Faites défiler simplement vers le bas de la page Statistiques et appuyez sur «Personnaliser cette page! bouton. Vous pouvez choisir les statistiques à afficher ou à masquer, de sorte que votre tableau de bord affiche uniquement ce qui est pertinent pour vous."
+              },
+              "3": {
+                "question": "À quelle fréquence mes statistiques sont-elles mises à jour?",
+                "answer": "Vos statistiques sont mises à jour en temps réel lorsque vous utilisez l'application. Pas besoin de vous actualiser - vérifiez simplement à tout moment pour voir vos dernières données."
+              }
+            }
+          }
+        },
+        "partners": {
+          "meta": {
+            "title": "",
+            "description": "Suivez vos partenaires réels et les principaux propriétaires dans Fapstats. Connectez les comptes, analysez les activités et découvrez des informations uniques."
+          },
+          "title": "Partenaires et porteurs de clés",
+          "description": "Ajoutez vos partenaires sexuels réels ou vos porte-clés de chasteté à Fapstats pour débloquer des statistiques détaillées et spécifiques au partenaire. Connectez éventuellement le compte Fapstats de votre partenaire pour le suivi partagé.",
+          "overview": {
+            "title": "Qu'est-ce qu'un partenaire Fapstats?",
+            "headline": "Créer et gérer les profils partenaires",
+            "description": "Un partenaire Fapstats est un profil de données pour un partenaire réel ou un détenteur de clés. Chaque profil peut contenir un nom, un sexe, un type de relation, un anniversaire et un code d'ami facultatif pour la connexion du compte et les activités partagées."
+          },
+          "benefits": {
+            "title": "Que pouvez-vous faire avec les partenaires?",
+            "headline": "Caractéristiques puissantes pour chaque relation",
+            "description": "Fapstats PARTENS vous laissez:",
+            "items": {
+              "1": "Suivre toutes les activités avec chaque partenaire, y compris les dénombrements totaux et annuels",
+              "2": "Voir la date de votre dernière activité ensemble",
+              "3": "Voir XP gagné avec ce partenaire",
+              "4": "Obtenez un aperçu de la notation des étoiles pour les activités impliquant ce partenaire",
+              "5": "Vérifier l'état de la connexion du compte si lié via un code ami",
+              "6": "Voir la compatibilité du zodiac si les anniversaires sont définis",
+              "7": "Analyser un graphique à barres d'activités par an",
+              "8": "Définir un partenaire comme inactif (par exemple, après une rupture ou un contact perdu)"
+            }
+          },
+          "relations": {
+            "lover": "Amoureux",
+            "friend": "Ami",
+            "stranger": "Étranger",
+            "other": "Autre"
+          },
+          "screenshots": {
+            "title": "Captures d'écran",
+            "headline": "Voir le profil partenaire en action",
+            "description": "Gérez tous les détails du partenaire et affichez les statistiques en un coup d'œil."
+          },
+          "how_to_use": {
+            "title": "Comment ajouter et utiliser des partenaires",
+            "headline": "Commencer",
+            "description": "L'ajout d'un partenaire est rapide et facile:",
+            "steps": {
+              "1": "Cliquez sur «Ajouter un partenaire» dans votre tableau de bord.",
+              "2": "Entrez le nom, le sexe, la relation et l'anniversaire du partenaire.",
+              "3": "Ajouter éventuellement un code ami pour connecter des comptes pour {link-shared-activities}.",
+              "4": "Commencez à suivre les activités et profitez de vos statistiques personnalisées!"
+            }
+          },
+          "faq": {
+            "title": "@:common.faq",
+            "headline": "@:common.frequently_asked_questions",
+            "description": "Tout ce que vous devez savoir sur les partenaires Fapstats:",
+            "items": {
+              "1": {
+                "question": "À quoi sert le code d'ami?",
+                "answer": "Le Code Friend vous permet de connecter votre partenaire Fapstats avec le compte de votre partenaire RealLife, permettant des activités partagées."
+              },
+              "2": {
+                "question": "Que se passe-t-il si je définis un partenaire comme inactif?",
+                "answer": "Les partenaires inactifs restent dans votre histoire, mais sont cachés dans les listes de sélection en fonction de vos paramètres de préférence."
+              }
+            }
+          }
+        },
+        "toys": {
+          "meta": {
+            "title": "",
+            "description": "Suivez vos statistiques d'utilisation des jouets sexuels. Analyser la fréquence, les préférences et partager des données avec des partenaires connectés."
+          },
+          "title": "Jouets et accessoires",
+          "description": "Enregistrez vos jouets sexuels et vos accessoires pour analyser les modèles d'utilisation, suivre les gains XP et partager des statistiques avec des partenaires connectés.",
+          "overview": {
+            "title": "Pourquoi suivre les jouets?",
+            "headline": "Analyse des jouets intelligents",
+            "description": "Une entrée de jouets Fapstats représente un jouet sexuel ou un accessoire réel. Suivez la fréquence d'utilisation, les préférences et l'efficacité au fil du temps."
+          },
+          "benefits": {
+            "title": "Avantages clés",
+            "headline": "Pourquoi suivre vos jouets?",
+            "description": "Maximisez votre analyse de plaisir:",
+            "items": {
+              "1": "Suivre les statistiques d'utilisation totales et annuelles",
+              "2": "Afficher la dernière date d'occasion pour chaque jouet",
+              "3": "Voir XP gagné grâce à l'utilisation des jouets",
+              "4": "Obtenez des notes d'étoiles pour l'efficacité des jouets",
+              "5": "Analyser les tendances d'utilisation avec des graphiques à barres annuels",
+              "6": "Partagez les données des jouets avec les partenaires connectés",
+              "7": "Comparez l'utilisation entre différents jouets",
+              "8": "Voir quelles activités et partenaires sont le plus souvent liés à chaque jouet"
+            }
+          },
+          "screenshots": {
+            "title": "Démo visuel",
+            "headline": "Interface d'analyse de jouets",
+            "description": "Gérez votre collection de jouets et affichez des statistiques d'utilisation détaillées."
+          },
+          "how_to_use": {
+            "title": "Commencer",
+            "headline": "4 étapes simples",
+            "description": "Commencez à suivre les jouets en quelques minutes:",
+            "steps": {
+              "1": "Accédez à «Mes jouets» dans votre tableau de bord",
+              "2": "Cliquez sur «Ajouter un nouveau jouet» et entrez le nom du jouet",
+              "3": "Lien éventuellement lié aux activités partagées avec des partenaires",
+              "4": "Sélectionnez des jouets lors de l'exploitation de nouvelles activités"
+            }
+          },
+          "faq": {
+            "title": "@:common.faq",
+            "headline": "@:common.frequently_asked_questions",
+            "description": "Réponses aux questions courantes:",
+            "items": {
+              "1": {
+                "question": "Mes données de jouets sont-elles privées?",
+                "answer": "Les détails des jouets ne sont visibles que pour vous et les partenaires avec lesquels vous partagez explicitement des activités."
+              },
+              "2": {
+                "question": "Puis-je partager l'utilisation des jouets avec un partenaire?",
+                "answer": "Oui! Si vous êtes connecté via FriendCode et enregistrez une activité partagée, le jouet sera visible dans les statistiques de votre partenaire pour cette activité."
+              }
+            }
+          }
+        },
+        "tags": {
+          "meta": {
+            "title": "",
+            "description": "Créez et gérez des balises personnalisées pour classer vos activités. Utilisez des balises automatisées pour le suivi sans effort et déverrouillez les réalisations personnalisées."
+          },
+          "title": "Tags personnalisés",
+          "description": "Les balises dans Fapstats sont des étiquettes flexibles que vous pouvez utiliser pour classer vos activités. Créez des balises personnalisées, configurez des règles automatisées et analysez votre expérience en détail.",
+          "overview": {
+            "title": "Que sont les balises?",
+            "headline": "Catégorisation flexible pour chaque activité",
+            "description": "Les balises sont des étiquettes entièrement personnalisables. Chaque balise a un nom, un paramètre «automatisé» en option et des mots clés séparés par des virgules. Des balises automatisées sont ajoutées aux activités si leur nom ou leurs mots clés apparaissent dans les notes d'activité, même rétroactivement."
+          },
+          "benefits": {
+            "title": "Avantages clés",
+            "headline": "Pourquoi utiliser des balises?",
+            "description": "Les balises déverrouillent de nouvelles façons d'analyser et d'organiser vos données:",
+            "items": {
+              "1": "Catégorisez les activités avec des balises personnalisées",
+              "2": "Automatiser l'affectation des balises à l'aide de mots clés dans les notes d'activité",
+              "3": "Appliquer rétroactivement des balises automatisées aux activités existantes",
+              "4": "Suivre les dénombrements d'activités totales et annuelles par balise",
+              "5": "Voir la dernière date d'activité et XP gagné pour chaque balise",
+              "6": "Analyser les cotes d'étoiles et les graphiques à barres annuels pour chaque étiquette",
+              "7": "Obtenez des suggestions de balises en fonction de vos notes d'activité",
+              "8": "Créer une personnalité {link-achievements} en fonction de l'utilisation des balises"
+            }
+          },
+          "screenshots": {
+            "title": "Captures d'écran",
+            "headline": "Interface de gestion des balises",
+            "description": "Voyez à quel point il est facile de gérer les balises et d'analyser leur impact."
+          },
+          "how_to_use": {
+            "title": "Comment utiliser les balises",
+            "headline": "Commencer",
+            "description": "Suivez ces étapes pour tirer le meilleur parti des étiquettes:",
+            "steps": {
+              "1": "Accédez à la section «Tags» de votre tableau de bord.",
+              "2": "Cliquez sur «Ajouter une balise», entrez un nom et activez éventuellement le mode automatisé.",
+              "3": "Ajoutez des mots clés (séparés par des virgules) pour automatiser l'affectation de balises.",
+              "4": "Examiner les balises suggérées en fonction de vos notes d'activité.",
+              "5": "Créez des {link-achievements} personnalisés pour vos balises et définissez l'utilisation requise pour chaque étape."
+            }
+          },
+          "faq": {
+            "title": "@:common.faq",
+            "headline": "@:common.frequently_asked_questions",
+            "description": "Réponses aux questions courantes sur les étiquettes:",
+            "items": {
+              "1": {
+                "question": "Qu'est-ce qu'une balise automatisée?",
+                "answer": "Une balise automatisée est automatiquement attribuée aux activités si son nom ou ses mots clés se trouvent dans les notes d'activité, ce qui rend le marquage sans effort et rétroactif."
+              },
+              "2": {
+                "question": "Comment fonctionnent les suggestions de balises?",
+                "answer": "Fapstats analyse vos notes d'activité et suggère de nouvelles balises basées sur des mots fréquemment utilisés. Vous pouvez désactiver les suggestions dans vos préférences."
+              }
+            }
+          }
+        },
+        "calendar": {
+          "meta": {
+            "title": "",
+            "description": "Obtenez un aperçu mensuel clair de toutes vos activités sexuelles dans le calendrier Fapstats."
+          },
+          "title": "Calendrier",
+          "description": "Vos activités en un coup d'œil - tous les mois, tous les jours.",
+          "overview": {
+            "title": "Aperçu",
+            "headline": "Voir vos activités mois par mois",
+            "description": "Le calendrier vous donne un aperçu clair et codé en couleur de toutes vos activités sexuelles. Les points violets marquent le sexe, les points bleus Mark Masturbation. Les tendances et les modèles reposent instantanément sur des mois en un coup d'œil."
+          },
+          "benefits": {
+            "title": "Avantages clés",
+            "headline": "Pourquoi utiliser le calendrier?",
+            "description": "Le calendrier vous aide à rester organisé et motivé:",
+            "items": {
+              "1": "Visualisez votre historique d'activité en un coup d'œil",
+              "2": "Trouvez rapidement des jours avec l'activité la plus ou le moins",
+              "3": "Ajouter, modifier ou revoir les notes pour chaque jour",
+              "4": "Tend les tendances et les stries dans vos habitudes",
+              "5": "Filtre par type d'activité, partenaire ou balise",
+              "6": "Accéder aux activités partagées des partenaires connectés",
+              "7": "Sautez directement aux statistiques détaillées pour n'importe quel jour"
+            }
+          },
+          "screenshots": {
+            "title": "Captures d'écran",
+            "headline": "Voir le calendrier en action",
+            "description": "Explorez comment le calendrier vous aide à suivre, analyser et réfléchir à vos activités."
+          },
+          "how_to_use": {
+            "title": "Comment utiliser le calendrier",
+            "headline": "Commencer",
+            "description": "Suivez ces étapes pour tirer le meilleur parti de votre calendrier:",
+            "steps": {
+              "1": "Ouvrez le calendrier de votre tableau de bord.",
+              "2": "Cliquez sur n'importe quelle date pour afficher les activités.",
+              "3": "Ajouter des notes ou modifier les entrées existantes pour de meilleures informations.",
+              "4": "Passez en revue vos tendances mensuelles et annuelles."
+            }
+          },
+          "faq": {
+            "title": "@:common.faq",
+            "headline": "@:common.frequently_asked_questions",
+            "description": "Réponses aux questions courantes sur le calendrier:",
+            "items": {
+              "1": {
+                "question": "Que signifient les points colorés?",
+                "answer": "Les points violets représentent les activités sexuelles, les points bleus représentent les activités de masturbation."
+              },
+              "2": {
+                "question": "Puis-je modifier ou supprimer des activités du calendrier?",
+                "answer": "Oui, cliquez simplement sur l'activité dans la vue du calendrier et choisissez de modifier ou de supprimer au besoin."
+              },
+              "3": {
+                "question": "Puis-je voir des activités des mois précédents?",
+                "answer": "Absolument. Utilisez les flèches pour naviguer entre des mois et revoir votre historique complet."
+              }
+            }
+          }
+        },
+        "fucketlist": {
+          "meta": {
+            "title": "Fucketlist | Application fapstats",
+            "description": "Créez votre liste de bucket personnelle d'expériences agréables et suivez vos progrès en transformant vos désirs les plus intimes en réalité."
+          },
+          "title": "Bucketlist",
+          "description": "Créez votre liste de bucket personnelle d'expériences agréables et suivez vos progrès en transformant vos désirs les plus intimes en réalité.",
+          "overview": {
+            "title": "Qu'est-ce que la liste Fucket?",
+            "headline": "Votre liste sexuelle",
+            "description": "The Fucketlist est votre liste de seaux ou la liste de tâches personnelles pour les expériences sexuelles que vous voulez essayer. Ajoutez, modifiez, supprimez et cochez les éléments lorsque vous explorez vos désirs."
+          },
+          "benefits": {
+            "title": "Avantages clés",
+            "headline": "Pourquoi utiliser une bucketlist?",
+            "description": "Une bucketlist vous aide à découvrir, planifier et célébrer vos aventures sexuelles:",
+            "items": {
+              "1": "Clarifier et donner la priorité à vos souhaits et fantasmes sexuels",
+              "2": "Restez motivé pour essayer de nouvelles expériences",
+              "3": "Célébrez vos progrès et vos articles terminés",
+              "4": "Utilisez la liste comme inspiration pour vous et votre partenaire",
+              "5": "Ajouter facilement, modifier, supprimer et cocher les éléments",
+              "6": "Réfléchissez à votre voyage et fixez de nouveaux objectifs à tout moment"
+            }
+          },
+          "screenshots": {
+            "title": "Captures d'écran",
+            "headline": "Fucketlist en action",
+            "description": "Voyez comment créer, gérer et compléter votre liste de bucket personnelle dans Fapstats."
+          },
+          "how_to_use": {
+            "title": "Comment utiliser la bucketlist",
+            "headline": "Commencer",
+            "description": "Suivez ces étapes pour tirer le meilleur parti de votre bucketlist:",
+            "steps": {
+              "1": "Ouvrez la bucketlist de votre tableau de bord.",
+              "2": "Ajoutez de nouveaux éléments pour les expériences que vous souhaitez essayer.",
+              "3": "Modifiez ou supprimez les éléments à mesure que vos intérêts changent.",
+              "4": "Découvrez les articles lorsque vous les complétez.",
+              "5": "Passez en revue vos tâches et ajoutez de nouveaux objectifs à tout moment."
+            }
+          },
+          "faq": {
+            "title": "@:common.faq",
+            "headline": "@:common.frequently_asked_questions",
+            "description": "Réponses à des questions courantes sur la bucketlist:",
+            "items": {
+              "1": {
+                "question": "Que se passe-t-il lorsque je coche un article?",
+                "answer": "Les articles vérifiés sont marqués comme terminés, vous pouvez donc célébrer vos progrès et revenir sur vos aventures."
+              },
+              "2": {
+                "question": "Puis-je modifier ou supprimer des éléments plus tard?",
+                "answer": "Absolument! Vous pouvez modifier ou supprimer n'importe quel élément sur votre liste à tout moment."
+              }
+            }
+          }
+        },
+        "chastity_tracker": {
+          "meta": {
+            "title": "Chastetity Tracker | Application fapstats",
+            "description": "Suivez vos séances de chasteté, vos relations de portefeuille et vos statistiques détaillées. Partagez vos sessions avec votre partenaire et analysez votre historique de chasteté au fil du temps."
+          },
+          "title": "Chasteté tracker",
+          "description": "Le tracker de chasteté est conçu pour tous ceux qui aiment pratiquer la chasteté, que ce soit en solo ou avec un partenaire. Enregistrez vos séances de chasteté, sélectionnez un détenteur de clés et partagez vos progrès avec un partenaire connecté.",
+          "overview": {
+            "title": "Qu'est-ce que le tracker de chasteté?",
+            "headline": "Suivre, partager et analyser les séances de chasteté",
+            "description": "Avec la fonction de suivi de chasteté, vous pouvez enregistrer lorsque vous démarrez et terminez une session de chasteté, choisissez un partenaire comme porte-clés et partagez éventuellement la session si votre partenaire est connecté via FriendCode. Cela permet aux couples de profiter du jeu de chasteté sur n'importe quelle distance, le porte-clés est toujours capable de voir leur statut actif. Chaque session peut recevoir une raison finale, et vous pouvez revoir toutes les sessions passées et un graphique annuel montrant votre temps total de chasteté."
+          },
+          "benefits": {
+            "title": "Avantages clés",
+            "headline": "Pourquoi utiliser le tracker de chasteté?",
+            "description": "Le tracker Chastity propose des fonctionnalités uniques pour les utilisateurs et les couples en solo:",
+            "items": {
+              "1": "Les temps de début et de fin du journal pour chaque session de chasteté",
+              "2": "Attribuez un partenaire comme votre porte-clés pour chaque session",
+              "3": "Partagez des sessions avec votre partenaire en utilisant {link-shared-activities}",
+              "4": "Ajoutez une raison lors de la fin d'une session pour un meilleur suivi",
+              "5": "Afficher une liste complète de toutes les séances passées",
+              "6": "Analysez votre histoire de chasteté avec des graphiques annuels détaillés",
+              "7": "Profitez du jeu de chasteté à distance - Votre partenaire connecté peut toujours voir le statut de session de chasteté"
+            }
+          },
+          "screenshots": {
+            "title": "Captures d'écran",
+            "headline": "Chastetity tracker en action",
+            "description": "Découvrez comment enregistrer les séances, attribuer des porte-clés et analyser vos statistiques de chasteté dans l'application Fapstats."
+          },
+          "how_to_use": {
+            "title": "Comment utiliser le tracker de chasteté",
+            "headline": "Commencer",
+            "description": "Suivez ces étapes pour suivre et partager vos séances de chasteté:",
+            "steps": {
+              "1": "Ouvrez le tracker Chastity depuis votre tableau de bord.",
+              "2": "Démarrez une nouvelle session et sélectionnez votre détenteur de clés (facultatif).",
+              "3": "Terminez la session lorsque vous avez terminé et ajoutez une raison si vous le souhaitez.",
+              "4": "Partagez votre session avec votre partenaire si vous êtes connecté via FriendCode.",
+              "5": "Passez en revue l'historique de votre session et les statistiques annuelles."
+            }
+          },
+          "faq": {
+            "title": "@:common.faq",
+            "headline": "@:common.frequently_asked_questions",
+            "description": "Réponses aux questions courantes sur le tracker de chasteté:",
+            "items": {
+              "1": {
+                "question": "Puis-je utiliser le tracker de chasteté seul?",
+                "answer": "Absolument! Vous pouvez suivre toutes vos sessions en solo, mais vous pouvez également attribuer un partenaire comme votre porte-clés si vous le souhaitez."
+              },
+              "2": {
+                "question": "Comment partager une session avec mon partenaire?",
+                "answer": "Si votre partenaire est connecté via FriendCode, sélectionnez-le simplement comme porte-clés. Ils verront la session et leur statut de portefeuille en temps réel."
+              },
+              "3": {
+                "question": "Quelle est la raison finale?",
+                "answer": "Lors de la fin d'une session, vous pouvez ajouter une note expliquant pourquoi la session s'est terminée. Cela vous aide à garder un dossier détaillé de votre parcours de chasteté."
+              }
+            }
+          }
+        },
+        "leaderboard": {
+          "meta": {
+            "title": "Classement | Application fapstats",
+            "description": "Voir les meilleurs utilisateurs classés par XP et Niveau. Suivez vos progrès, comparez avec les autres et gérez la visibilité de votre profil dans le classement Fapstats."
+          },
+          "title": "Classement",
+          "description": "Le classement Fapstats classe les utilisateurs par XP gagnés à partir d'activités, de durée d'activité, de durée de chasteté, etc. Voir les 10 meilleurs utilisateurs et votre propre zone de classement, avec des statistiques détaillées et des contrôles de confidentialité.",
+          "overview": {
+            "title": "Comment fonctionne le classement?",
+            "headline": "Suivez votre classement et vos progrès",
+            "description": "XP est attribué pour les activités suivis, la durée des activités, la durée de la chasteté, etc. Le classement affiche les 10 meilleurs utilisateurs par XP, ainsi que votre propre gamme à 10 utilisateurs (par exemple, si vous êtes classé 33, vous voyez les rangs 31 à 40). Vous pouvez contrôler la visibilité de votre profil dans vos paramètres."
+          },
+          "benefits": {
+            "title": "Avantages clés",
+            "headline": "Pourquoi utiliser le classement?",
+            "description": "Le classement vous aide à rester motivé et à célébrer vos réalisations:",
+            "items": {
+              "1": "Voir les 10 meilleurs utilisateurs avec le plus XP",
+              "2": "Consultez votre propre zone de classement parmi les utilisateurs similaires",
+              "3": "Suivez votre niveau actuel et le XP total",
+              "4": "Surveillez vos gains XP et niveau pour la semaine en cours (lundi - dimanche)",
+              "5": "Voir une barre de progression montrant votre position dans votre niveau actuel",
+              "6": "Lire des descriptions publiques «à propos de moi» des utilisateurs avec des profils publics",
+              "7": "Contrôlez votre visibilité: afficher avec un profil public, en tant qu'utilisateur privé ou masquer complètement au classement",
+              "8": "Accédez instantanément à votre page d'édition de profil"
+            }
+          },
+          "screenshots": {
+            "title": "Captures d'écran",
+            "headline": "Classement en action",
+            "description": "Découvrez comment le classement affiche les classements, XP, les niveaux et les profils d'utilisateurs dans Fapstats."
+          },
+          "how_to_use": {
+            "title": "Comment utiliser le classement",
+            "headline": "Commencer",
+            "description": "Suivez ces étapes pour tirer le meilleur parti du classement:",
+            "steps": {
+              "1": "Ouvrez le classement depuis votre tableau de bord.",
+              "2": "Vérifiez les 10 meilleurs utilisateurs et votre propre zone de classement.",
+              "3": "Cliquez sur votre profil pour modifier votre nom d'affichage, vos paramètres de confidentialité ou la description de «À propos de moi».",
+              "4": "Suivez vos progrès XP et niveau pour la semaine en cours.",
+              "5": "Ajustez la visibilité de votre profil comme vous le souhaitez."
+            }
+          },
+          "faq": {
+            "title": "@:common.faq",
+            "headline": "@:common.frequently_asked_questions",
+            "description": "Réponses aux questions courantes sur le classement:",
+            "items": {
+              "1": {
+                "question": "Comment XP est-il calculé pour le classement?",
+                "answer": "XP est récompensé pour les activités suivis, la durée des activités, la durée de la chasteté et d'autres actions dans Fapstats."
+              },
+              "2": {
+                "question": "Que signifie mon niveau?",
+                "answer": "Votre niveau est basé sur votre XP total. Au fur et à mesure que vous gagnez plus XP, vous montez en niveau et augmentez plus haut dans le classement."
+              },
+              "3": {
+                "question": "Comment fonctionne les progrès hebdomadaires?",
+                "answer": "Le classement montre vos gains XP et niveau pour la semaine en cours (du lundi au dimanche), vous aidant à suivre vos progrès récents."
+              },
+              "4": {
+                "question": "Puis-je cacher mon profil au classement?",
+                "answer": "Oui! Vous pouvez choisir d'afficher avec un profil public, en tant qu'utilisateur privé ou masquer complètement votre profil au classement dans vos paramètres de profil."
+              },
+              "5": {
+                "question": "Que signifie mon pourcentage de classement?",
+                "answer": "Votre pourcentage de classement montre quelle part du Total Fapstats XP que vous avez, sur la base du XP combiné de tous les utilisateurs."
+              }
+            }
+          }
+        },
+        "shared_activities": {
+          "meta": {
+            "title": "",
+            "description": "Partagez facilement les activités avec vos partenaires connectés dans Fapstats. Les activités comptent pour les deux comptes et apparaissent dans toutes les statistiques."
+          },
+          "title": "Activités partagées",
+          "description": "Les activités partagées vous permettent de partager automatiquement des activités avec un partenaire connecté. Lorsque vous liez un partenaire via FriendCode, les activités que vous connectez à ce partenaire apparaîtront sur leur compte avec une note indiquant le créateur d'origine. Cela permet aux couples ou aux amis proches de enregistrer facilement les expériences partagées une seule fois plutôt que sur chaque compte.",
+          "overview": {
+            "title": "Comment fonctionnent les activités partagées",
+            "headline": "Synchronisation sans effort",
+            "description": "Si votre partenaire est lié via FriendCode, toute activité que vous leur attribuez est automatiquement partagée avec son compte. Sur la page du calendrier, votre partenaire verra une note montrant qui a créé l'activité à l'origine."
+          },
+          "benefits": {
+            "title": "Avantages clés",
+            "headline": "Pourquoi utiliser des activités partagées?",
+            "description": "Les activités partagées font du suivi collaboratif sans couture:",
+            "items": {
+              "1": "Les activités partagées du journal une seule fois - aucune double entrée requise",
+              "2": "Les activités partagées comptent pour les deux partenaires XP et les statistiques",
+              "3": "Toutes les statistiques et graphiques incluent des activités partagées pour les deux comptes",
+              "4": "Voir facilement le créateur original d'une activité partagée sur la page {link-calendar}",
+              "5": "Fonctionne de manière transparente avec tous les {link-partners} connectés"
+            }
+          },
+          "screenshots": {
+            "title": "Captures d'écran",
+            "headline": "Activités partagées en action",
+            "description": "Voyez comment les activités partagées sont affichées et gérées pour les deux partenaires connectés. Suivre, éditer et passer en revue sans effort vos expériences conjointes en un seul endroit."
+          },
+          "how_to_use": {
+            "title": "Comment utiliser des activités partagées",
+            "headline": "Commencer",
+            "description": "Suivez ces étapes pour commencer à partager les activités:",
+            "steps": {
+              "1": "Connectez votre compte à un partenaire via FriendCode sur la page {link-partners}.",
+              "2": "Lorsque vous enregistrez une activité, affectez votre partenaire connecté.",
+              "3": "L'activité apparaîtra automatiquement sur le compte de votre partenaire comme une activité partagée.",
+              "4": "Les deux comptes peuvent voir, modifier et suivre l'activité partagée dans leur {link-calendar}."
+            }
+          },
+          "faq": {
+            "title": "@:common.faq",
+            "headline": "@:common.frequently_asked_questions",
+            "description": "Réponses aux questions courantes sur les activités partagées:",
+            "items": {
+              "1": {
+                "question": "Les activités partagées comptent-elles pour mon XP et mes statistiques?",
+                "answer": "Oui! Les activités partagées sont entièrement incluses dans XP et toutes les statistiques pour les deux comptes."
+              },
+              "2": {
+                "question": "Les deux partenaires peuvent-ils modifier ou supprimer des activités partagées?",
+                "answer": "Seul le créateur de l'activité peut modifier et supprimer l'activité partagée. La gestion de l'autorisation est visible sur la page de détail du partenaire."
+              }
+            }
+          }
+        },
+        "achievements": {
+          "meta": {
+            "title": "Réalisations | Application fapstats",
+            "description": "Déverrouiller les réalisations en atteignant les étapes et en relevant des défis. Suivez vos progrès et créez vos propres réalisations personnalisées en fonction de vos balises."
+          },
+          "title": "Réalisations",
+          "description": "Les réalisations sont des jalons que vous pouvez débloquer en atteignant des objectifs spécifiques ou en remplissant certains défis. Chaque réalisation a trois étapes, représentées par des étoiles. Lorsqu'une étoile est remplie, l'étape correspondante est terminée. Vous pouvez également créer vos propres réalisations en fonction des balises personnalisées.",
+          "overview": {
+            "title": "Quelles sont les réalisations?",
+            "headline": "Suivez vos progrès et mes jalons",
+            "description": "Les réalisations sont des objectifs prédéfinis qui vous récompensent pour vos progrès. Chaque réalisation a trois étapes. Au fur et à mesure que vous avancez, de plus en plus d'étoiles s'allument pour montrer vos progrès. Vous pouvez également configurer vos propres réalisations à l'aide de balises personnalisées."
+          },
+          "benefits": {
+            "title": "Avantages clés",
+            "headline": "Pourquoi utiliser les réalisations?",
+            "description": "Les réalisations vous aident à rester motivé et à célébrer vos progrès:",
+            "items": {
+              "1": "Déverrouiller les réalisations prédéfinies en atteignant les étapes",
+              "2": "Créez des réalisations personnalisées en fonction de votre {link-tags}",
+              "3": "Chaque réalisation a trois étapes, chacune représentée par une étoile",
+              "4": "Visualisez votre progression avec un système claire basé sur des étoiles",
+              "5": "Restez motivé en suivant vos réalisations terminées et en cours"
+            }
+          },
+          "screenshots": {
+            "title": "Captures d'écran",
+            "headline": "Voir les réalisations en action",
+            "description": "Consultez vos réalisations déverrouillées, suivez vos progrès et inspirez-vous par vos jalons."
+          },
+          "how_to_use": {
+            "title": "Comment utiliser les réalisations",
+            "headline": "Commencer",
+            "description": "Suivez ces étapes pour débloquer et gérer les réalisations:",
+            "steps": {
+              "1": "Ouvrez la page des réalisations de votre tableau de bord.",
+              "2": "Parcourez la liste des réalisations prédéfinies et voyez vos progrès.",
+              "3": "Créez vos propres réalisations en fonction de {link-tags}.",
+              "4": "Suivez vos progrès et célébrez vos réalisations terminées."
+            }
+          },
+          "faq": {
+            "title": "@:common.faq",
+            "headline": "@:common.frequently_asked_questions",
+            "description": "Réponses aux questions courantes sur les réalisations:",
+            "items": {
+              "1": {
+                "question": "Comment débloquer une réussite?",
+                "answer": "Vous débloquez une réussite en atteignant le jalon requis ou en terminant le défi spécifié. Chaque étape est marquée par une étoile."
+              },
+              "2": {
+                "question": "Puis-je créer mes propres réalisations?",
+                "answer": "Oui! Vous pouvez créer des réalisations personnalisées en fonction de vos propres balises. Accédez à la fonctionnalité des balises personnalisées pour commencer."
+              },
+              "3": {
+                "question": "Que signifient les étoiles?",
+                "answer": "Chaque réalisation a trois étapes. Chaque étoile remplie représente une étape terminée. Lorsque toutes les étoiles sont remplies, la réussite est entièrement terminée."
+              }
+            }
+          }
+        },
+        "records": {
+          "meta": {
+            "title": "Records | Application fapstats",
+            "description": "Découvrez vos pics de plaisir personnels: vos meilleurs jours, mois et dossiers de tous les temps pour les activités, les partenaires, les jouets, etc."
+          },
+          "title": "Enregistrements",
+          "description": "Vos sommets de plaisir! Ici, vous trouverez vos records personnels pour des jours, des mois ou d'autres périodes - qu'il s'agisse de la plupart des activités, des durées les plus longues, de la plupart des partenaires ou plus. Chaque enregistrement affiche la date pertinente, la plage de dates ou le nom d'un partenaire ou d'un jouet.",
+          "overview": {
+            "title": "Que sont les enregistrements?",
+            "headline": "Suivez vos records personnels",
+            "description": "Les enregistrements dans Fapstats mettent en évidence vos réalisations les plus élevées - comme la plupart des activités en un jour ou par mois, des séquences les plus longues ou votre partenaire ou votre jouet le plus fréquent. La liste est toujours à jour et comprend automatiquement tous les nouveaux types d'enregistrements que nous ajoutons à l'avenir.\n\nQuelques exemples de dossiers que vous pourriez voir: la plupart des relations sexuelles en une journée, la plupart des masturbations en un mois, la plupart des partenaires différents en un mois, la plus longue séquence, le partenaire ou le jouet le plus fréquent, la plus longue séance de chasteté, la durée de la plus haute activité, et plus encore. De nouveaux types d'enregistrements peuvent être ajoutés automatiquement."
+          },
+          "benefits": {
+            "title": "Avantages clés",
+            "headline": "Pourquoi utiliser des enregistrements?",
+            "description": "Les enregistrements vous aident à célébrer vos étapes et à voir vos progrès en un coup d'œil:",
+            "items": {
+              "1": "Découvrez vos records personnels pour chaque activité et période de temps",
+              "2": "Voir les informations détaillées pour chaque enregistrement, y compris la date, la gamme ou le nom",
+              "3": "Soyez inspiré pour définir de nouveaux dossiers personnels"
+            }
+          },
+          "screenshots": {
+            "title": "Captures d'écran",
+            "headline": "Records en action",
+            "description": "Découvrez comment vos meilleures performances et jalons sont affichés dans Fapstats."
+          },
+          "how_to_use": {
+            "title": "Comment utiliser les enregistrements",
+            "headline": "Commencer",
+            "description": "Suivez ces étapes pour explorer vos dossiers personnels:",
+            "steps": {
+              "1": "Ouvrez la page des enregistrements depuis votre tableau de bord.",
+              "2": "Parcourez vos meilleures performances pour chaque activité et période de temps.",
+              "3": "Cliquez sur n'importe quel enregistrement pour plus de détails sur la date, la gamme ou le partenaire ou le jouet impliqué.",
+              "4": "Mettez-vous au défi de battre vos propres records!"
+            }
+          },
+          "faq": {
+            "title": "@:common.faq",
+            "headline": "@:common.frequently_asked_questions",
+            "description": "Réponses aux questions courantes sur les enregistrements:",
+            "items": {
+              "1": {
+                "question": "Puis-je ajouter mes propres enregistrements personnalisés?",
+                "answer": "Non, tous les enregistrements sont prédéfinis et mis à jour automatiquement en fonction de vos données d'activité."
+              },
+              "2": {
+                "question": "Quelles informations sont indiquées pour chaque enregistrement?",
+                "answer": "Chaque enregistrement affiche la date pertinente, la plage de dates ou le nom d'un partenaire ou d'un jouet, ainsi que la valeur de vos meilleures performances."
+              },
+              "3": {
+                "question": "Les nouveaux types d'enregistrements seront-ils ajoutés?",
+                "answer": "Oui! À mesure que Fapstats évolue, de nouveaux types d'enregistrements peuvent être introduits et apparaîtront automatiquement dans votre liste d'enregistrements."
+              }
+            }
+          }
+        },
+        "no_limits": {
+          "meta": {
+            "title": "Aucune limite | Application fapstats",
+            "description": "Fapstats est entièrement gratuit et n'a pas de limites. Suivez les activités illimitées, les partenaires, les jouets, les étiquettes et plus encore - sans jamais frapper un mur de paiement."
+          },
+          "title": "Pas de limites",
+          "description": "Fapstats est entièrement gratuit et n'a pas de limites. Contrairement à de nombreuses autres applications, vous pouvez suivre des activités illimitées, des partenaires, des jouets, des balises et plus encore - sans jamais être obligé de mettre à niveau ou de payer.",
+          "overview": {
+            "title": "Que signifie «pas de limites»?",
+            "headline": "Suivi vraiment illimité",
+            "description": "De nombreuses autres applications de suivi du sexe restreignent votre expérience avec Paywall: après un certain nombre d'activités, de partenaires ou de jouets, vous devez payer un abonnement ou une mise à niveau unique. Fapstats est différent - il n'y a pas de limites, pas de coûts cachés et pas de mises à niveau forcées. Vous pouvez ajouter autant de données que vous le souhaitez, complètement gratuites."
+          },
+          "benefits": {
+            "title": "Avantages clés",
+            "headline": "Pourquoi choisir Fapstats?",
+            "description": "Fapstats vous donne plus de liberté et de fonctionnalités que toute autre application:",
+            "items": {
+              "1": "Suivre les activités illimitées, les partenaires, les jouets, les étiquettes et plus encore",
+              "2": "Pas de murs payants ou de mises à niveau forcées - jamais",
+              "3": "Accéder gratuitement à l'ensemble des fonctionnalités complètes",
+              "4": "Profitez de fonctionnalités uniques que vous ne trouverez pas dans d'autres applications de Sex Tracker",
+              "5": "Bénéficier d'une conception moderne et d'une interface utilisateur intuitive",
+              "6": "Restez à contrôler vos données sans restrictions"
+            }
+          },
+          "how_to_use": {
+            "title": "Comment profiter des fapstats sans limites",
+            "headline": "Commencer",
+            "description": "L'utilisation de fapstats est simple et toujours gratuite:",
+            "steps": {
+              "1": "Inscrivez-vous et commencez à suivre - aucune carte de crédit requise",
+              "2": "Ajoutez autant d'activités, de partenaires, de jouets et de balises que vous le souhaitez",
+              "3": "Explorez toutes les fonctionnalités sans aucune restriction",
+              "4": "Invitez des amis ou des partenaires à vous rejoindre - tout le monde a un accès illimité"
+            }
+          },
+          "faq": {
+            "title": "@:common.faq",
+            "headline": "@:common.frequently_asked_questions",
+            "description": "Réponses aux questions courantes sur Fapstats et ses fonctionnalités illimitées:",
+            "items": {
+              "1": {
+                "question": "Fapstats est-il vraiment gratuit?",
+                "answer": "Oui! Fapstats est entièrement libre à utiliser. Il n'y a pas de coûts cachés, d'abonnements ou de murs de paiement."
+              },
+              "2": {
+                "question": "Y a-t-il des limites à combien je peux suivre?",
+                "answer": "Non"
+              },
+              "3": {
+                "question": "Comment les Fapstats se comparent-ils aux autres applications de suivi du sexe?",
+                "answer": "Fapstats propose plus de fonctionnalités, pas de restrictions et une meilleure expérience utilisateur que la plupart des applications concurrentes."
+              }
+            }
+          }
+        }
+      },
+      "changelog": {
+        "meta": {
+          "title": "@:pages.index.title @:pages.app._ @:common.changelog",
+          "description": "Explorez les dernières mises à jour et améliorations sur l'application Fapstats. Restez informé de nos dernières fonctionnalités pour une expérience améliorée."
+        },
+        "navigation": {
+          "title": "@:common.changelog",
+          "description": "@:pages.app.changelog.description"
+        },
+        "title": "@:pages.index.title @:pages.app._ @:common.changelog",
+        "headline": "@:common.whats_new",
+        "description": "Nouvelles mises à jour et améliorations de l'application Fapstats",
+        "no_changelog": "@:common.no_changelog"
+      },
+      "global_statistics": {
+        "_": "Statistiques mondiales",
+        "meta": {
+          "title": "",
+          "description": "Explorez les statistiques mondiales sur les Fapstats et donnez un aperçu des tendances et des modèles des activités sexuelles de nos utilisateurs. Données complètement anonymisées pour votre vie privée."
+        },
+        "navigation": {
+          "title": "@:pages.app.global_statistics._",
+          "description": "Statistiques globales complètement anonymisées de l'application Fapstats"
+        },
+        "title": "@:pages.app.global_statistics._",
+        "description": "Fapstats a actuellement un total des utilisateurs {users} confirmés qui ont créé des activités {activities} au cours du dernier mois (30 derniers jours).\n\nLes données affichées sont une agrégation de toutes les données utilisateur et ne peuvent pas être retracées aux utilisateurs individuels.\nCela garantit la confidentialité des données tout en fournissant des informations sur les statistiques.",
+        "month_summary": {
+          "title": "Beaucoup de choses se sont passées le mois dernier",
+          "description": "Nous avons résumé ce que nos utilisateurs ont réalisé.",
+          "items": {
+            "1": "Nous avons accueilli les nouveaux utilisateurs {users} sur notre plateforme.",
+            "2": "Nous avions {users} utilisateurs actifs",
+            "3": "Le nombre d'activités a augmenté de {activities}",
+            "4": "{partners} Des partenaires ont été créés",
+            "5": "{toys} Des jouets ont été ajoutés"
+          }
+        },
+        "total_users": "Total utilisateurs",
+        "new_users": "Nouveaux utilisateurs",
+        "monthly_users": "Utilisateurs mensuels",
+        "total_xp": "Total XP",
+        "new_xp": "Nouveau XP",
+        "user_count": "Nombre d'utilisateurs",
+        "users_by_gender": {
+          "title": "Utilisateurs par sexe",
+          "description": "Inclut uniquement les utilisateurs avec un sexe spécifié"
+        },
+        "user_growth": {
+          "title": "Croissance de l'utilisateur",
+          "description": "Inclut uniquement les utilisateurs avec une adresse e-mail confirmée"
+        },
+        "active_users": {
+          "title": "Utilisateurs actifs",
+          "description": "Les utilisateurs qui ont créé au moins une activité ou ont commencé / terminé la chasteté au cours du mois spécifique"
+        },
+        "total_fapstats_xp_growth": "Croissance totale de Fapstats XP",
+        "users_by_age_group": {
+          "title": "Utilisateurs par groupe d'âge",
+          "description": "Inclut uniquement les utilisateurs avec un anniversaire spécifié"
+        }
+      }
+    },
+    "braincandy": {
+      "_": "Braincandy",
+      "meta": {
+        "title": "@:pages.index.title @:pages.braincandy._ · @:pages.braincandy.headline",
+        "description": "@:pages.braincandy.description"
+      },
+      "navigation": {
+        "title": "@:common.overview",
+        "description": "@:pages.braincandy.headline"
+      },
+      "title": "@:pages.index.title @:pages.braincandy._",
+      "headline": "Le seul lecteur multimédia dont vous avez besoin",
+      "description": "Avec jusqu'à 12 écrans côte à côte, l'intégration Reddit et la possibilité d'afficher des fichiers multimédias locaux, Fapstats Braincandy est le meilleur - et seulement - le lecteur multimédia dont vous aurez besoin!",
+      "features": {
+        "title": "Caractéristiques",
+        "headline": "Tout ce dont vous avez besoin",
+        "description": "Libérer le plein potentiel de la cervelle fapstats",
+        "multiple_screens": {
+          "meta": {
+            "title": "Plusieurs écrans | Fapstats craincandy",
+            "description": "Surveillez jusqu'à 12 écrans de média à la fois dans Braincandy. Parfait pour les utilisateurs de puissance, les configurations créatives ou toute personne qui veut en voir plus - même si ce n'est que 12 vidéos de chat en même temps."
+          },
+          "title": "Plusieurs écrans",
+          "description": "La fonctionnalité multiple des écrans vous permet de choisir le nombre de panneaux multimédias que vous souhaitez afficher en même temps - jusqu'à 12, le tout sur un seul appareil.",
+          "overview": {
+            "title": "Quels sont les écrans multiples?",
+            "headline": "Voir plus, faire plus",
+            "description": "Dans Braincandy, vous pouvez utiliser jusqu'à 12 écrans (panneaux multimédias) côte à côte, disposés dans une grille optimisée (comme 4x3). Ceci est parfait pour les utilisateurs de bureau et d'ordinateur portable qui souhaitent l'expérience multitâche ou immersive ultime. Sur les appareils mobiles, nous vous recommandons d'utiliser jusqu'à 3 écrans en mode paysage pour la meilleure vue, mais vous pouvez aller jusqu'à 12 si vous le souhaitez - rappelez-vous simplement, plus il y a d'écrans, plus chacun devient petit (et plus vous utiliserez de données si vous n'êtes pas sur Wi-Fi)."
+          },
+          "benefits": {
+            "title": "Avantages clés",
+            "headline": "Pourquoi utiliser plusieurs écrans?",
+            "description": "Plusieurs écrans rendent la cerveau de cerveau vraiment unique:",
+            "items": {
+              "1": "Voir jusqu'à 12 écrans multimédias en même temps",
+              "2": "Disposages de grille optimisés pour la meilleure utilisation de l'espace (par exemple, 4x3 sur le bureau)",
+              "3": "Parfait pour le multitâche, les configurations créatives ou la comparaison du contenu",
+              "4": "Convivial: utiliser jusqu'à 3 écrans pour de meilleurs résultats, ou se déchaîner avec plus",
+              "5": "Ajustez facilement le nombre d'écrans pour s'adapter à votre appareil et à votre humeur",
+              "6": "Plus d'écrans signifie plus de médias - et plus de vidéos de chat, si c'est votre truc"
+            }
+          },
+          "how_to_use": {
+            "title": "Comment utiliser plusieurs écrans",
+            "headline": "Commencer",
+            "description": "Suivez ces étapes pour personnaliser votre disposition de la Craincandy:",
+            "steps": {
+              "1": "Accédez à la page de configuration dans Braincandy.",
+              "2": "Choisissez le nombre d'écrans que vous souhaitez utiliser (jusqu'à 12).",
+              "3": "Sur le bureau, profitez d'une disposition de grille spacieuse; Sur mobile, essayez le mode paysage pour jusqu'à 3 écrans (ou plus).",
+              "4": "N'oubliez pas: plus d'écrans signifie plus de médias chargés à la fois, ce qui peut utiliser plus de données - en particulier sur le mobile.",
+              "5": "Maintenant, vous pouvez enfin regarder une douzaine de vidéos de chats côte à côte. Ne laissez pas votre patron (ou votre chat) vous attraper."
+            }
+          },
+          "faq": {
+            "title": "FAQ",
+            "headline": "Questions fréquemment posées",
+            "description": "Réponses aux questions courantes sur plusieurs écrans de la Craincandy:",
+            "items": {
+              "1": {
+                "question": "Combien d'écrans puis-je utiliser en même temps?",
+                "answer": "Vous pouvez utiliser jusqu'à 12 écrans simultanément, quel que soit l'appareil - mais pour mobile, nous recommandons jusqu'à 3 pour la meilleure visibilité."
+              },
+              "2": {
+                "question": "L'utilisation de plus d'écrans utilise-t-elle plus de données?",
+                "answer": "Oui. Chaque écran charge ses propres supports, donc plus d'écrans signifient plus d'utilisation des données, en particulier sur les connexions mobiles."
+              },
+              "3": {
+                "question": "La disposition de la grille est-elle automatique?",
+                "answer": "Oui! Braincandy organise automatiquement vos écrans pour le meilleur ajustement, que vous soyez sur le bureau, l'ordinateur portable ou le mobile."
+              }
+            }
+          }
+        },
+        "speed": {
+          "meta": {
+            "title": "Vitesse | Fapstats craincandy",
+            "description": "Ajustez la rapidité avec laquelle Braincandy saute automatiquement vers le média suivant. Créez votre propre expérience de diaporama avec un contrôle total."
+          },
+          "title": "Vitesse",
+          "description": "La fonction de vitesse vous permet de contrôler la vitesse à laquelle Braincandy saute automatiquement vers le support suivant. Définissez votre intervalle préféré pour une expérience de visualisation personnalisée.",
+          "overview": {
+            "title": "Qu'est-ce que la vitesse?",
+            "headline": "Contrôlez le rythme de votre session",
+            "description": "Avec le curseur de vitesse dans la page de configuration, vous pouvez décider de la rapidité avec laquelle Braincandy est en train de se séparer des médias suivants. Vous voulez un diaporama à rythme rapide ou une vision lente et détendue? C'est à vous. Remarque: Les paramètres de vitesse affectent uniquement les images, les GIF et les redGIFS - les vidéos MP4 jouent toujours jusqu'à la fin ou jusqu'à ce que vous les ignoriez manuellement."
+          },
+          "benefits": {
+            "title": "Avantages clés",
+            "headline": "Pourquoi utiliser la vitesse?",
+            "description": "La vitesse vous donne un contrôle total sur votre flux médiatique:",
+            "items": {
+              "1": "Définissez l'intervalle exact pour le saut automatique (par exemple toutes les 10 secondes)",
+              "2": "Pause Auto-Skipping à tout moment en utilisant le {link-play-pause}",
+              "3": "Créez un effet de diaporama pour les images, les gifs et les redgifs",
+              "4": "Combinez avec {link-multiple-screens} et {link-local-files} pour une visualisation de lots puissante (parfait pour les photos de vacances!)",
+              "5": "Les vitesses plus rapides chargent plus de supports, ce qui peut utiliser plus de données sur les appareils mobiles"
+            }
+          },
+          "how_to_use": {
+            "title": "Comment utiliser la vitesse",
+            "headline": "Commencer",
+            "description": "Suivez ces étapes pour définir votre vitesse préférée dans Braincandy:",
+            "steps": {
+              "1": "Accédez à la page de configuration et trouvez le curseur de vitesse.",
+              "2": "Ajustez le curseur pour définir la rapidité avec laquelle la Craincandy devrait se faire automatiquement vers le support suivant.",
+              "3": "N'oubliez pas: les vidéos MP4 ne sont pas affectées et joueront toujours jusqu'à la fin ou jusqu'à ce que vous les ignoriez manuellement.",
+              "4": "Pause ou reprendre le saut de saut automatique à tout moment avec la fonction {link-play-pause}."
+            }
+          },
+          "faq": {
+            "title": "FAQ",
+            "headline": "Questions fréquemment posées",
+            "description": "Réponses aux questions courantes sur la vitesse dans la cerveau de cerveau:",
+            "items": {
+              "1": {
+                "question": "Quels types de supports sont affectés par la vitesse?",
+                "answer": "Contrôles de vitesse Auto-sapipping pour les images, les GIF et les redgifs. Les vidéos MP4 ne sont pas affectées."
+              },
+              "2": {
+                "question": "Puis-je faire une pause automatiquement?",
+                "answer": "Oui! Utilisez la fonction Play / Pause pour faire une pause ou reprendre le saut automatique à tout moment."
+              },
+              "3": {
+                "question": "La vitesse plus rapide utilise-t-elle plus de données?",
+                "answer": "Oui. Plus la vitesse est rapide, plus les supports sont chargés, ce qui peut augmenter l'utilisation des données, en particulier sur les appareils mobiles."
+              },
+              "4": {
+                "question": "Puis-je utiliser la vitesse avec plusieurs écrans et fichiers locaux?",
+                "answer": "Absolument! La vitesse fonctionne très bien avec plusieurs écrans et fichiers locaux - il est parfait pour les diaporamas puissants, même pour les photos de vacances."
+              }
+            }
+          }
+        },
+        "media_types": {
+          "meta": {
+            "title": "Types de médias | Fapstats craincandy",
+            "description": "Choisissez exactement les types de médias que vous souhaitez voir dans les bonbons du cerveau. Basculez des images, des GIF, des vidéos et des GIF pour l'expérience parfaite."
+          },
+          "title": "Types de médias",
+          "description": "Avec la fonctionnalité des types de supports, vous pouvez contrôler exactement les types de supports indiqués dans Braincandy. Basculez les images, les GIF, les vidéos et les redgifs sur ou désactiver pour faire correspondre vos préférences et augmenter les performances.",
+          "overview": {
+            "title": "Que sont les types de médias?",
+            "headline": "Personnalisez votre expérience médiatique",
+            "description": "Les types de médias vous permet de décider quel contenu apparaît dans Braincandy. Vous voulez seulement des vidéos? Vous préférez les images et les redgifs? Utilisez simplement les bascules pour activer ou désactiver les images, les gifs, les vidéos et les redgifs à tout moment. Cette fonctionnalité vous aide à vous concentrer sur ce que vous voulez voir - et peut rendre la Craincandy encore plus fluide."
+          },
+          "benefits": {
+            "title": "Avantages clés",
+            "headline": "Pourquoi utiliser les types de médias?",
+            "description": "Les types de médias vous donnent un contrôle total et de meilleures performances:",
+            "items": {
+              "1": "Afficher uniquement les types de médias que vous souhaitez: images, gifs, vidéos ou redgifs",
+              "2": "Améliorer les performances en désactivant les formats lourds comme les GIF",
+              "3": "Les RedGifs sont une alternative rapide et moderne aux GIF traditionnels",
+              "4": "Créez une expérience de vision plus personnalisée et plus agréable"
+            }
+          },
+          "how_to_use": {
+            "title": "Comment utiliser les types de médias",
+            "headline": "Commencer",
+            "description": "Suivez ces étapes pour personnaliser votre lecture multimédia:",
+            "steps": {
+              "1": "Accédez aux paramètres des types de supports sur la page de configuration.",
+              "2": "Basculez les images, les GIF, les vidéos et les redgifs sur ou désactiver comme vous le souhaitez.",
+              "3": "Pour les meilleures performances, il est recommandé de garder les GIF handicapés - ils peuvent exiger de rendre dans le navigateur.",
+              "4": "Les RedGIF sont optimisés pour la vitesse et sont le meilleur choix pour le contenu animé."
+            }
+          },
+          "faq": {
+            "title": "FAQ",
+            "headline": "Questions fréquemment posées",
+            "description": "Réponses aux questions courantes sur les types de médias dans la Craincandy:",
+            "items": {
+              "1": {
+                "question": "Puis-je afficher uniquement des vidéos ou seulement des images?",
+                "answer": "Oui! Vous pouvez activer ou désactiver n'importe quelle combinaison de types de médias pour voir exactement ce que vous voulez."
+              },
+              "2": {
+                "question": "Pourquoi devrais-je désactiver les GIF?",
+                "answer": "Les GIF peuvent être très à forte performance car le navigateur doit renvoyer chaque cadre. Pour une expérience plus fluide, il est préférable d'utiliser des Redgifs à la place."
+              },
+              "3": {
+                "question": "Que sont les RedGifs?",
+                "answer": "Les RedGifs sont un format moderne et haute performance pour le contenu animé. Ils se chargent et jouent beaucoup plus vite que les GIF traditionnels."
+              }
+            }
+          }
+        },
+        "reddit_presets": {
+          "meta": {
+            "title": "Reddit Presets | Fapstats craincandy",
+            "description": "Parcourez rapidement plus de 60 catégories et plus de 370 subreddits adultes avec des préréglages Reddit de Craincandy Reddit. Découvrez instantanément et profitez instantanément de contenu."
+          },
+          "title": "Préréglages Reddit",
+          "description": "Les préréglages Reddit facilitent l'exploration et le contenu adulte de Reddit. Accédez instantanément à plus de 60 catégories et plus de 370 subreddits, tous organisés pour vous.",
+          "overview": {
+            "title": "Que sont les préréglages Reddit?",
+            "headline": "Catégories de découverte instantanée",
+            "description": "Avec les préréglages Reddit, vous pouvez sélectionner parmi plus de 60 catégories prêtes à l'emploi, chacune contenant des subreddits adultes triés sur le volet. Pas besoin d'ajouter des subreddits un par un - choisissez simplement un préréglage et commencez à regarder. C'est le moyen le plus rapide de commencer avec Braincandy et un excellent moyen de découvrir de nouveaux sous-marins que vous ne connaissez peut-être pas."
+          },
+          "benefits": {
+            "title": "Avantages clés",
+            "headline": "Pourquoi utiliser Reddit Presets?",
+            "description": "Les préréglages Reddit facilitent et plus excitants votre expérience de la carréfilance:",
+            "items": {
+              "1": "Accédez instantanément à plus de 60 préréglages et plus de 370 subreddits pour adultes",
+              "2": "Pas besoin d'ajouter manuellement des sous-verres - il suffit de choisir un préréglage",
+              "3": "Découvrez de nouveaux subreddits et du contenu que vous avez peut-être manqué",
+              "4": "Commencez tout de suite à utiliser Braincandy avec une configuration zéro",
+              "5": "Basculer facilement entre différentes catégories pour correspondre à votre humeur"
+            }
+          },
+          "how_to_use": {
+            "title": "Comment utiliser les préréglages Reddit",
+            "headline": "Commencer",
+            "description": "Suivez ces étapes pour explorer les préréglages Reddit dans Braincandy:",
+            "steps": {
+              "1": "Ouvrez la section des préréglages Reddit dans Braincandy.",
+              "2": "Parcourez la liste des catégories disponibles.",
+              "3": "Sélectionnez un ou plusieurs préréglages pour charger instantanément tous les sous-verres inclus.",
+              "4": "Commencez immédiatement à regarder les médias à partir de vos catégories sélectionnées."
+            }
+          },
+          "faq": {
+            "title": "FAQ",
+            "headline": "Questions fréquemment posées",
+            "description": "Réponses aux questions courantes sur les préréglages Reddit dans Braincandy:",
+            "items": {
+              "1": {
+                "question": "Combien de catégories et de sous-verres sont inclus?",
+                "answer": "Il y a plus de 60 catégories, couvrant plus de 370 subreddits adultes."
+              },
+              "2": {
+                "question": "Puis-je utiliser plusieurs préréglages en même temps?",
+                "answer": "Oui! Vous pouvez sélectionner autant de préréglages que vous le souhaitez et tous les subreddits inclus seront chargés ensemble."
+              },
+              "3": {
+                "question": "Puis-je ajouter mes propres subreddits?",
+                "answer": "Absolument. Vous pouvez toujours ajouter manuellement des sous-verddits individuels en plus d'utiliser des préréglages."
+              }
+            }
+          }
+        },
+        "subreddits": {
+          "meta": {
+            "title": "Subdreddits | Fapstats craincandy",
+            "description": "Utilisez n'importe quel subreddit que vous souhaitez dans Braincandy - choisissez parmi plus de 370 préréglages ou ajoutez le vôtre pour une flexibilité ultime."
+          },
+          "title": "Subreddits",
+          "description": "Avec Braincandy, vous pouvez charger et regarder les médias à partir de tout subreddit que vous aimez. Choisissez parmi notre énorme liste ou ajoutez la vôtre pour une liberté totale.",
+          "overview": {
+            "title": "Que sont les subreddits?",
+            "headline": "Liberté totale de choisir votre contenu",
+            "description": "Fapstats Braincandy comprend plus de 370 subreddits à explorer - tous axés sur le contenu des adultes. Mais vous n'êtes pas limité à notre liste: vous pouvez ajouter n'importe quel sous-trède que vous souhaitez, même s'il n'est pas dans nos préréglages. Cela vous donne une flexibilité maximale pour charger exactement les supports Reddit que vous souhaitez voir."
+          },
+          "benefits": {
+            "title": "Avantages clés",
+            "headline": "Pourquoi utiliser des subreddits?",
+            "description": "Les subreddits vous offrent des options infinies pour découvrir de nouveaux contenus:",
+            "items": {
+              "1": "Choisissez parmi plus de 370 subreddits",
+              "2": "Ajoutez n'importe quel subreddit que vous souhaitez - même si ce n'est pas dans notre liste",
+              "3": "Combinez avec {link-reddit-presets} pour un accès instantané aux catégories populaires",
+              "4": "Découvrez tous les jours de nouvelles commonautés et médias",
+              "5": "Contrôle total sur ce que vous regardez dans Braincandy"
+            }
+          },
+          "how_to_use": {
+            "title": "Comment utiliser les sous-verres",
+            "headline": "Commencer",
+            "description": "Suivez ces étapes pour utiliser des sous-verres en cerveau de cerveau:",
+            "steps": {
+              "1": "Ouvrez la section Subdreddits dans Braincandy.",
+              "2": "Parcourez notre liste de plus de 370 subreddits ou entrez vos propres subreddits.",
+              "3": "Combinez plusieurs subreddits pour une expérience personnalisée.",
+              "4": "Utilisez avec {link-reddit-presets} pour un accès facile aux catégories populaires."
+            }
+          },
+          "faq": {
+            "title": "FAQ",
+            "headline": "Questions fréquemment posées",
+            "description": "Réponses à des questions courantes sur les sous-verres dans la cerveau de cerveau:",
+            "items": {
+              "1": {
+                "question": "Puis-je utiliser un subreddit?",
+                "answer": "Oui! Vous pouvez ajouter n'importe quel subreddit que vous aimez, pas seulement ceux de notre liste."
+              },
+              "2": {
+                "question": "Combien de subreddits puis-je ajouter?",
+                "answer": "Il n'y a pas de limite - ajoutez autant que vous le souhaitez pour le mélange parfait."
+              },
+              "3": {
+                "question": "Quelle est la différence entre les sous-verres et les préréglages Reddit?",
+                "answer": "Les préréglages Reddit sont des collections de subreddits. Avec les subreddits, vous pouvez ajouter tout ce que vous voulez, à tout moment."
+              }
+            }
+          }
+        },
+        "reddit_settings": {
+          "meta": {
+            "title": "Paramètres Reddit | Fapstats craincandy",
+            "description": "Personnalisez la façon dont vous parcourez le contenu Reddit dans Braincandy. Filtrez par le tri, la durée du temps et plus encore pour l'expérience parfaite."
+          },
+          "title": "Paramètres Reddit",
+          "description": "Les paramètres de Reddit vous permettent de définir la façon dont vous parcourez et chargez du contenu à partir de subreddits dans Braincandy. Filtrez par tri, dans le temps et plus encore.",
+          "overview": {
+            "title": "Que sont les paramètres Reddit?",
+            "headline": "Personnalisez votre expérience Reddit",
+            "description": "Avec les paramètres Reddit, vous pouvez filtrer et trier le contenu à partir de tous les sous-verres que vous chargez dans Braincandy. Choisissez comment les messages sont triés (chaud, montant, haut, controversé), sélectionnez une plage de temps spécifique (de l'heure passée à tous les temps) et ajustez le mode de tri pour la façon dont le contenu est affiché. Ces paramètres fonctionnent également parfaitement avec les préréglages Reddit pour un démarrage encore plus facile."
+          },
+          "benefits": {
+            "title": "Avantages clés",
+            "headline": "Pourquoi utiliser les paramètres Reddit?",
+            "description": "Les paramètres Reddit vous aident à trouver exactement le contenu que vous souhaitez:",
+            "items": {
+              "1": "Trier les messages par chaud, montant, haut ou controversé",
+              "2": "Filtre par plage de temps: heure passée, 24 heures, semaine, mois, année ou tous les temps",
+              "3": "Choisissez le mode de tri: rotation de la source ou tous mixés",
+              "4": "Combinez avec {link-reddit-presets} pour un accès instantané aux catégories",
+              "5": "Obtenez le meilleur contenu le plus voté avec des paramètres «top» ou «chauds» et «tous les temps»",
+              "6": "Voir des médias frais et toujours en train de changer les «dernières 24 heures» pour les nouveaux messages"
+            }
+          },
+          "how_to_use": {
+            "title": "Comment utiliser les paramètres Reddit",
+            "headline": "Commencer",
+            "description": "Suivez ces étapes pour personnaliser votre navigation Reddit dans Braincandy:",
+            "steps": {
+              "1": "Accédez à la section des paramètres Reddit lors de l'ajout ou de la navigation de sous-verddits.",
+              "2": "Choisissez votre tri préféré: chaud, montant, haut ou controversé.",
+              "3": "Sélectionnez une plage de temps, de l'heure passée à tous les temps.",
+              "4": "Choisissez votre mode de tri: rotation de la source ou tous mélangés.",
+              "5": "Combinez avec {link-reddit-presets} pour la navigation rapide."
+            }
+          },
+          "faq": {
+            "title": "FAQ",
+            "headline": "Questions fréquemment posées",
+            "description": "Réponses aux questions courantes sur les paramètres de Reddit dans Braincandy:",
+            "items": {
+              "1": {
+                "question": "Que signifie chaque option de tri?",
+                "answer": "`` Hot '' montre des messages tendance, «Rising» met en évidence des messages rapidement populaires, des tricons «TOP» par les votes up, et «controversé» montre des messages avec des réactions mitigées."
+              },
+              "2": {
+                "question": "Comment fonctionne le filtre de plage de temps?",
+                "answer": "Vous pouvez limiter les publications à ceux de la dernière heure, du jour, de la semaine, du mois, de l'année ou de la totalité du contenu plus pertinent ou classique."
+              },
+              "3": {
+                "question": "Quelle est la différence entre la rotation de la source et tous les mixtes?",
+                "answer": "La rotation de la source passe par chaque subreddit une à la fois, tandis que tous les mélanges mélangent tous les poteaux de tous les sous-verres sélectionnés ensemble."
+              },
+              "4": {
+                "question": "Pourquoi utiliser «top» ou «chaud» avec «tous les temps»?",
+                "answer": "Cette combinaison vous donne les articles les plus votés et les plus approuvés par la commonauté jamais partagés, ce qui facilite la recherche du meilleur contenu."
+              },
+              "5": {
+                "question": "Pourquoi utiliser «24 heures passées»?",
+                "answer": "Cela ne montre que les nouveaux articles, vous voyez donc toujours un contenu frais et changeant chaque jour."
+              }
+            }
+          }
+        },
+        "local_files": {
+          "meta": {
+            "title": "Fichiers locaux | Fapstats craincandy",
+            "description": "Surveillez vos dossiers de médias privés directement à partir de votre appareil avec Fapstats Braincandy. Pas de téléchargement, pas de compromis - juste une confidentialité et une commodité totales."
+          },
+          "title": "Fichiers locaux",
+          "description": "Avec la fonction de fichiers locaux, vous pouvez sélectionner des dossiers entiers à partir de votre appareil et regarder tous les supports inclus directement dans Braincandy. Vos médias privés restent sur votre appareil - rien n'est jamais téléchargé.",
+          "overview": {
+            "title": "Quels sont les fichiers locaux?",
+            "headline": "Surveillez vos propres médias - en privé",
+            "description": "Les fichiers locaux vous permet de choisir n'importe quel dossier dans votre appareil et d'afficher toutes les vidéos et images à l'intérieur dans Braincandy. Vos fichiers ne sont jamais téléchargés; Ils ne sont utilisés localement que dans votre navigateur. Cela signifie que vous pouvez profiter de vos médias les plus privés avec toutes les fonctionnalités de Braincandy, sans jamais avoir à télécharger quoi que ce soit ou de vous soucier de la vie privée. (Et oui, cela signifie que vous pouvez enfin regarder des vidéos de chat sans fin en paix totale!)"
+          },
+          "benefits": {
+            "title": "Avantages clés",
+            "headline": "Pourquoi utiliser des fichiers locaux?",
+            "description": "Les fichiers locaux vous donnent un contrôle total et une confidentialité:",
+            "items": {
+              "1": "Regardez des vidéos privées et des images de dossiers entiers sans les télécharger n'importe où",
+              "2": "Profitez de toutes les fonctionnalités de la Craincandy avec vos propres médias",
+              "3": "Confidentialité maximale - vos fichiers ne quittent jamais votre appareil",
+              "4": "Pas besoin de télécharger ou de se synchroniser avec un serveur",
+              "5": "Idéal pour le contenu sensible ou personnel",
+              "6": "Fonctionne avec des dossiers entiers pour une visualisation de lots faciles"
+            }
+          },
+          "how_to_use": {
+            "title": "Comment utiliser les fichiers locaux",
+            "headline": "Commencer",
+            "description": "Suivez ces étapes pour regarder vos médias locaux avec Braincandy:",
+            "steps": {
+              "1": "Cliquez sur le bouton «Fichiers locaux» dans Braincandy.",
+              "2": "Sélectionnez un dossier dans votre appareil.",
+              "3": "Parcourez et jouez tous les médias de ce dossier directement dans Braincandy - rien n'est téléchargé.",
+              "4": "Profitez de toutes les fonctionnalités, de l'intimité et même des vidéos de chat, sans restrictions."
+            }
+          },
+          "faq": {
+            "title": "FAQ",
+            "headline": "Questions fréquemment posées",
+            "description": "Réponses aux questions courantes sur les fichiers locaux dans Braincandy:",
+            "items": {
+              "1": {
+                "question": "Mes fichiers sont-ils téléchargés sur un serveur?",
+                "answer": "Non. Tous les fichiers restent sur votre appareil et ne sont jamais téléchargés ou partagés."
+              },
+              "2": {
+                "question": "Quels navigateurs prennent en charge les fichiers locaux?",
+                "answer": "Actuellement, cette fonctionnalité fonctionne mieux dans Chrome et d'autres navigateurs à base de chrome. Une prise en charge de plus de navigateurs peut être ajoutée à l'avenir."
+              },
+              "3": {
+                "question": "Puis-je sélectionner des fichiers individuels?",
+                "answer": "Non, vous ne pouvez sélectionner que des dossiers entiers. Tous les fichiers multimédias pris en charge à l'intérieur du dossier seront disponibles dans Braincandy."
+              },
+              "4": {
+                "question": "Y a-t-il une limite à combien de fichiers je peux regarder?",
+                "answer": "Non, vous pouvez regarder autant de fichiers que vous le souhaitez - même des heures de vidéos de chat si vous le souhaitez!"
+              }
+            }
+          }
+        },
+        "playlists": {
+          "meta": {
+            "title": "Listes de lecture | Fapstats craincandy",
+            "description": "Créez, partagez et jouez des listes de lecture personnalisées des médias publics avec Fapstats Braincandy. Utilisez vos propres fichiers JSON ou XSPF pour la flexibilité ultime."
+          },
+          "title": "Playlists",
+          "description": "Avec Braincandy Playlists, vous pouvez lire des collections personnalisées de médias de n'importe où sur le Web. Chargez simplement un fichier de playlist et commencez à regarder!",
+          "playlist_generator": "Générateur de playlist",
+          "overview": {
+            "title": "Que sont les listes de lecture?",
+            "headline": "Les collections de médias personnalisés sont facilitées",
+            "description": "Les listes de lecture Braincandy sont des fichiers JSON ou XSPF spéciaux qui contiennent des listes d'URL multimédias. Chaque URL doit se terminer avec un type de fichier pris en charge (comme .mp4), vous pouvez donc combiner tous les supports accessibles au public en une seule liste de lecture et le jouer dans Braincandy. Vous pouvez créer vos propres listes de lecture facilement en utilisant notre générateur de playlist Braincandy."
+          },
+          "benefits": {
+            "title": "Avantages clés",
+            "headline": "Pourquoi utiliser des listes de lecture?",
+            "description": "Les listes vous donnent une flexibilité et des options de partage maximales:",
+            "items": {
+              "1": "Combinez tous les médias publics dans un seul fichier de playlist",
+              "2": "Prise en charge des formats JSON et XSPF",
+              "3": "Partagez facilement vos listes de lecture sur les réseaux sociaux ou avec des amis",
+              "4": "Les listes de lecture sont une troisième façon de charger les médias dans Braincandy - aux côtés de {link-local-files} et {link-subreddits}",
+              "5": "Pas besoin de télécharger ou d'héberger les fichiers vous-même - utilisez simplement des URL publiques"
+            }
+          },
+          "how_to_use": {
+            "title": "Comment utiliser les listes de lecture",
+            "headline": "Commencer",
+            "description": "Suivez ces étapes pour créer et utiliser des listes de lecture dans Braincandy:",
+            "steps": {
+              "1": "Créez un fichier de playlist à l'aide de notre {link-playlist-generator} ou manuellement au format JSON / XSPF.",
+              "2": "Assurez-vous que toutes les URL de la liste de lecture se terminent avec un type de support pris en charge (comme .mp4).",
+              "3": "Chargez votre liste de lecture dans Braincandy pour commencer à regarder.",
+              "4": "Partagez votre fichier de playlist avec d'autres ou publiez-le sur les réseaux sociaux."
+            }
+          },
+          "faq": {
+            "title": "FAQ",
+            "headline": "Questions fréquemment posées",
+            "description": "Réponses aux questions courantes sur les listes de lecture dans la Craincandy:",
+            "items": {
+              "1": {
+                "question": "Quels formats de fichiers sont pris en charge pour les listes de lecture?",
+                "answer": "Vous pouvez utiliser des fichiers JSON ou XSPF. Chacun doit contenir des URL de support valides se terminant par un type de fichier pris en charge."
+              },
+              "2": {
+                "question": "Puis-je partager mes listes de lecture avec les autres?",
+                "answer": "Oui! Les fichiers de playlist peuvent être facilement partagés sur les réseaux sociaux ou envoyés à des amis."
+              },
+              "3": {
+                "question": "De quelles autres façons puis-je charger les médias dans la Craincandy?",
+                "answer": "En plus des listes de lecture, vous pouvez utiliser des fichiers locaux pour regarder les supports à partir de votre appareil ou utiliser des préréglages et des sous-verres pour charger du contenu directement à partir de Reddit."
+              }
+            }
+          }
+        },
+        "statistics": {
+          "meta": {
+            "title": "Statistiques | Fapstats craincandy",
+            "description": "Voir un résumé complet de votre session de la Craincandy: minuteries, dénombrements de médias, sauts et favoris. Parfait pour suivre votre activité."
+          },
+          "title": "Statistiques",
+          "description": "À la fin de chaque session de la Craincandy, vous obtenez un résumé détaillé de votre activité. Voyez exactement combien de temps vous avez passé, combien vous avez regardé et ce que vous avez favorisé.",
+          "overview": {
+            "title": "Que sont les statistiques de session?",
+            "headline": "Votre session en un coup d'œil",
+            "description": "La page Statistics montre un aperçu complet de votre session actuelle de cerveau de cerveau. Vous verrez des minuteries pour le temps total, actif et interrompu, compte pour chaque type de support, le nombre de sauts et vos favoris. Si vous souhaitez enregistrer votre session en tant qu'activité dans l'application Fapstats, ces statistiques facilitent la copie de la durée et des autres détails. N'oubliez pas: les statistiques sont basées sur des sessions et seront perdues lorsque vous quittez la page."
+          },
+          "benefits": {
+            "title": "Avantages clés",
+            "headline": "Pourquoi utiliser les statistiques de session?",
+            "description": "Les statistiques de session vous aident à suivre et à vous souvenir de votre expérience de la Craincandy:",
+            "items": {
+              "1": "Voir les heures de session totales, actives et interrompues en un coup d'œil",
+              "2": "Voir les comptes pour les images, les GIF, les vidéos et les médias totaux",
+              "3": "Suivez le nombre de sauts et {link-favourites} pendant votre session",
+              "4": "Copiez rapidement vos statistiques pour créer une entrée d'activité dans l'application Fapstats",
+              "5": "Feedback instantané sur votre session - toutes les données sont basées sur la session et privées"
+            }
+          },
+          "how_to_use": {
+            "title": "Comment utiliser les statistiques",
+            "headline": "Commencer",
+            "description": "Suivez ces étapes pour tirer le meilleur parti de vos statistiques de session:",
+            "steps": {
+              "1": "Terminez une session dans Braincandy pour voir votre résumé de statistiques.",
+              "2": "Passez en revue vos minuteries: temps total, actif et interrompu.",
+              "3": "Vérifiez vos comptes de médias: images, GIF, vidéos et médias totaux.",
+              "4": "Voyez combien de sauts et {link-favourites} vous avez fait.",
+              "5": "Copiez les statistiques pour aider à créer une entrée d'activité précise dans le {link-app}."
+            }
+          },
+          "faq": {
+            "title": "FAQ",
+            "headline": "Questions fréquemment posées",
+            "description": "Réponses aux questions courantes sur les statistiques de session dans Braincandy:",
+            "items": {
+              "1": {
+                "question": "Qu'arrive-t-il à mes statistiques lorsque je quitte la page?",
+                "answer": "Les statistiques sont basées sur des sessions et seront perdues lorsque vous fermerez ou rechargez la page."
+              },
+              "2": {
+                "question": "Puis-je enregistrer ou exporter mes statistiques de session?",
+                "answer": "Vous pouvez copier manuellement vos statistiques pour les utiliser dans l'application Fapstats ou ailleurs."
+              },
+              "3": {
+                "question": "Mes statistiques sont-elles privées?",
+                "answer": "Oui. Toutes les statistiques sont locales à votre session et ne sont jamais téléchargées ou partagées."
+              }
+            }
+          }
+        },
+        "favourites": {
+          "meta": {
+            "title": "Favoris | Fapstats craincandy",
+            "description": "Marquez vos médias préférés en un seul clic et révisez-les ou partagez-les après chaque session dans Fapstats Braincandy."
+          },
+          "title": "Favoris",
+          "description": "Avec Fapstats Braincandy, vous pouvez facilement marquer tous les médias comme favori. Cliquez simplement sur l'icône du cœur dans le coin supérieur droit de n'importe quel écran pour ajouter les supports actuels à vos favoris.",
+          "overview": {
+            "title": "Que sont les favoris?",
+            "headline": "Enregistrez et revisitez vos meilleurs médias",
+            "description": "La fonctionnalité des favoris vous permet de marquer rapidement les médias que vous appréciez le plus. Qu'il s'agisse d'une vidéo, d'une image ou d'un GIF, appuyez simplement sur l'icône du cœur en regardant. Vos favoris sont collectés pour la session et affichés à nouveau dans le résumé de la session, vous pouvez donc les enregistrer ou les partager plus tard."
+          },
+          "benefits": {
+            "title": "Avantages clés",
+            "headline": "Pourquoi utiliser les favoris?",
+            "description": "Les favoris facilitent l'imagination et revisitent les meilleurs moments de vos séances:",
+            "items": {
+              "1": "Marquez rapidement tous les médias comme un favori en un clic",
+              "2": "Voir tous vos favoris à la fin de chaque session dans le résumé",
+              "3": "Enregistrez vos favoris pour les séances futures",
+              "4": "Partagez facilement vos médias préférés avec les autres",
+              "5": "Ne perdez jamais la trace du meilleur contenu que vous découvrirez"
+            }
+          },
+          "how_to_use": {
+            "title": "Comment utiliser les favoris",
+            "headline": "Commencer",
+            "description": "Suivez ces étapes pour tirer le meilleur parti de la fonctionnalité des favoris:",
+            "steps": {
+              "1": "En regardant les médias, cliquez sur l'icône du cœur dans le coin supérieur droit de n'importe quel écran pour l'ajouter à vos favoris.",
+              "2": "À la fin de votre session, passez en revue tous vos favoris dans le résumé de la session.",
+              "3": "Enregistrez vos favoris sur votre appareil ou partagez-les comme vous le souhaitez."
+            }
+          },
+          "faq": {
+            "title": "FAQ",
+            "headline": "Questions fréquemment posées",
+            "description": "Réponses aux questions courantes sur les favoris dans la Craincandy:",
+            "items": {
+              "1": {
+                "question": "Puis-je préféré n'importe quel type de média?",
+                "answer": "Oui! Vous pouvez les vidéos, images, GIF préférées et tout autre contenu pris en charge."
+              },
+              "2": {
+                "question": "Où puis-je trouver mes favoris après une session?",
+                "answer": "Tous vos favoris de la session sont affichés dans le résumé de la session, où vous pouvez les enregistrer ou les partager."
+              },
+              "3": {
+                "question": "Puis-je accéder aux favoris des sessions précédentes?",
+                "answer": "Les favoris sont collectés par session. Pour garder les favoris pour plus tard, enregistrez-les sur votre appareil ou partagez-les avant de terminer le résumé."
+              }
+            }
+          }
+        },
+        "play_pause": {
+          "meta": {
+            "title": "Jouer / pause | Fapstats craincandy",
+            "description": "Pause votre session à tout moment dans Braincandy. Contrôlez la lecture, les minuteries et le saut automatique pour une expérience entièrement personnalisée."
+          },
+          "title": "Jouer / faire une pause",
+          "description": "Avec la fonction Play / Pause dans Braincandy, vous pouvez suspendre toute votre session à tout moment - parfait si les choses se déplacent trop rapidement ou si vous souhaitez vous concentrer sur un support spécifique.",
+          "overview": {
+            "title": "Qu'est-ce que le jeu / pause?",
+            "headline": "Contrôle complet sur votre session",
+            "description": "Le bouton Play / Pause vous permet d'arrêter toute lecture et sauter automatiquement, tout en vous permettant de sauter et de visualiser manuellement les supports. Vous pouvez faire une pause ou reprendre votre session en un seul clic - ou simplement appuyer sur la barre d'espace de votre clavier. Les vidéos MP4 s'arrêteront ou reprendront automatiquement avec le lecteur, mais vous pouvez continuer à regarder des vidéos individuelles même en mode pause."
+          },
+          "benefits": {
+            "title": "Avantages clés",
+            "headline": "Pourquoi utiliser Play / Pause?",
+            "description": "Play / Pause vous donne un contrôle flexible et un meilleur suivi:",
+            "items": {
+              "1": "Pause toute lecture automatique et saut en un seul clic",
+              "2": "Sauter et voir manuellement les médias à votre rythme tout en arrêtant",
+              "3": "Déclencher le jeu / pause instantanément en utilisant la barre d'espace sur le bureau",
+              "4": "Les vidéos MP4 suivent l'état Play / Pause du lecteur, mais peuvent reprendre individuellement",
+              "5": "Les pauses de minuterie active, la minuterie de pause se poursuit et la minuterie totale n'est pas affectée",
+              "6": "Voir vos temps de session actifs, pauvres et totaux dans le {link-statistics-page}"
+            }
+          },
+          "how_to_use": {
+            "title": "Comment utiliser Play / Pause",
+            "headline": "Commencer",
+            "description": "Suivez ces étapes pour tirer le meilleur parti du jeu / pause:",
+            "steps": {
+              "1": "Cliquez sur le bouton Play / Pause dans les commandes du lecteur pour faire une pause ou reprendre votre session.",
+              "2": "Utilisez la barre d'espace sur votre PC pour une baisse de jeu / pause rapide.",
+              "3": "Pendant une pause, vous pouvez toujours passer manuellement vers le prochain média ou regarder n'importe quelle vidéo aussi longtemps que vous le souhaitez.",
+              "4": "Vérifiez vos statistiques de session par la suite pour voir combien de temps vous avez passé actif, une pause et au total."
+            }
+          },
+          "faq": {
+            "title": "FAQ",
+            "headline": "Questions fréquemment posées",
+            "description": "Réponses à des questions courantes sur le jeu / pause dans Braincandy:",
+            "items": {
+              "1": {
+                "question": "Play / pause arrête-t-il tous les médias?",
+                "answer": "Il arrête le saut automatique et la lecture des vidéos MP4, mais vous pouvez toujours afficher ou sauter manuellement les médias comme vous le souhaitez."
+              },
+              "2": {
+                "question": "Comment le jeu / pause affecte-t-il les minuteries?",
+                "answer": "La minuterie active s'arrête, la minuterie de pause se poursuit et la minuterie totale continue de fonctionner. Vous verrez toutes ces fois dans vos statistiques de session."
+              },
+              "3": {
+                "question": "Puis-je contrôler le jeu / pause avec mon clavier?",
+                "answer": "Oui! Appuyez simplement sur la barre d'espace sur votre PC pour basculer instantanément le jeu / pause."
+              },
+              "4": {
+                "question": "Qu'arrive-t-il aux vidéos lorsque je fais une pause?",
+                "answer": "Les vidéos MP4 s'arrêteront ou reprendront automatiquement avec le lecteur, mais vous pouvez lire n'importe quelle vidéo individuellement même si la session est interrompue."
+              }
+            }
+          }
+        },
+        "no_limits": {
+          "meta": {
+            "title": "Aucune limite | Fapstats craincandy",
+            "description": "Avec Fapstats Braincandy, il n'y a aucune limite sur quoi, combien ou combien de temps vous pouvez regarder. Profitez des médias illimités de Reddit, des listes de lecture ou des fichiers locaux - complètement gratuits, pour toujours!"
+          },
+          "title": "Pas de limites",
+          "description": "Fapstats Braincandy est le seul lecteur média dont vous aurez besoin - et il ne vient avec absolument aucune limite. Regardez tout ce que vous voulez, autant que vous le souhaitez, aussi longtemps que vous le souhaitez.",
+          "overview": {
+            "title": "Que signifie «pas de limites»?",
+            "headline": "Lecture médiatique vraiment illimitée",
+            "description": "Contrairement aux autres joueurs des médias qui restreignent votre expérience ou nécessitent des abonnements, Braincandy vous permet de profiter des médias illimitées: de Reddit, vos propres listes de lecture ou fichiers locaux. Il n'y a aucune restriction sur ce que vous pouvez regarder, le nombre d'écrans que vous utilisez (jusqu'à 12 côte à côte!), Ou combien de temps vous utilisez Braincandy. Vous voulez regarder 24 heures d'affilée? Poursuivre! Vous voulez remplir chaque écran avec des photos de chat? Nous ne vous arrêterons pas - même si vos amis pourraient vous juger."
+          },
+          "benefits": {
+            "title": "Avantages clés",
+            "headline": "Pourquoi choisir Braincandy?",
+            "description": "Braincandy vous donne une liberté totale et un contrôle sur votre expérience médiatique:",
+            "items": {
+              "1": "Regardez les médias illimités à partir de Reddit, des listes de lecture personnalisées ou des fichiers locaux",
+              "2": "Aucune restriction sur la durée, la taille du fichier ou le nombre de sessions",
+              "3": "Profitez de jusqu'à 12 écrans côte à côte - parfait pour les configurations multitâches ou créatives",
+              "4": "Jouez à n'importe quel contenu que vous voulez - même les photos de chat, si c'est votre truc",
+              "5": "Pas d'abonnements, pas de murs de paiement, pas de frais cachés - jamais",
+              "6": "Conçu pour le contenu adulte, mais ouvert à tout ce que vous aimez regarder"
+            }
+          },
+          "how_to_use": {
+            "title": "Comment profiter de la cerveau de cerveau sans limites",
+            "headline": "Commencer",
+            "description": "L'utilisation de Braincandy est simple et toujours gratuite:",
+            "steps": {
+              "1": "Open Craincandy dans un navigateur de votre choix.",
+              "2": "Ajoutez des supports de Reddit, vos listes de lecture ou des fichiers locaux.",
+              "3": "Choisissez jusqu'à 12 écrans comme vous le souhaitez.",
+              "4": "Regardez autant que vous le souhaitez, aussi longtemps que vous le souhaitez - avec des restrictions nulles."
+            }
+          },
+          "faq": {
+            "title": "FAQ",
+            "headline": "Questions fréquemment posées",
+            "description": "Réponses aux questions courantes sur la cerveau de cerveau et ses caractéristiques illimitées:",
+            "items": {
+              "1": {
+                "question": "Braincandy est-il vraiment gratuit?",
+                "answer": "Oui! Braincandy est entièrement libre à utiliser, sans abonnements, murs de paiement ou frais cachés."
+              },
+              "2": {
+                "question": "Y a-t-il des restrictions sur ce que je peux regarder?",
+                "answer": "Non. Tant que le contenu est sur votre appareil ou accessible au public, vous pouvez regarder n'importe quoi - même des vidéos de chat sans fin."
+              },
+              "3": {
+                "question": "Puis-je utiliser les 12 écrans à la fois?",
+                "answer": "Absolument! Remplissez chaque écran avec ce que vous voulez - la seule limite est votre imagination (et peut-être les performances de votre appareil)."
+              },
+              "4": {
+                "question": "La Craincandy est-elle uniquement pour le contenu des adultes?",
+                "answer": "Braincandy est conçu en pensant aux adultes, mais vous pouvez l'utiliser pour tous les médias que vous aimez."
+              }
+            }
+          }
+        }
+      },
+      "changelog": {
+        "meta": {
+          "title": "@:pages.index.title @:pages.braincandy._ @:common.changelog",
+          "description": "Explorez les dernières mises à jour et améliorations sur Fapstats Braincandy. Restez informé de nos dernières fonctionnalités pour une expérience améliorée."
+        },
+        "navigation": {
+          "title": "@:common.changelog",
+          "description": "@:pages.braincandy.changelog.description"
+        },
+        "title": "@:pages.index.title @:pages.braincandy._ @:common.changelog",
+        "headline": "@:common.whats_new",
+        "description": "Nouvelles mises à jour et améliorations à Fapstats Braincandy",
+        "no_changelog": "@:common.no_changelog"
+      }
+    },
+    "ovulation_calculator": {
+      "_": "Calculateur d'ovulation",
+      "meta": {
+        "title": "@:pages.ovulation_calculator.title · @:pages.index.title",
+        "description": "Essayez notre calculatrice d'ovulation pour savoir quand vous serez le plus fertile, quand passer un test de grossesse, lorsque votre prochaine période sera due et quelle serait votre date d'échéance."
+      },
+      "navigation": {
+        "title": "@:pages.ovulation_calculator._",
+        "description": "@:pages.ovulation_calculator.meta.description"
+      },
+      "title": "Calculatrice d'ovulation et d'époque",
+      "description": "Notre calculatrice d'ovulation et d'époque vous aide à déterminer les dates clés liées à votre cycle menstruel et à votre fertilité. Que vous suiviez l'ovulation, que vous prédisiez votre prochaine période ou que vous identifiiez votre fenêtre fertile, notre calculatrice fournit des résultats précis. Entrez simplement vos informations et laissez notre calculatrice faire le reste.",
+      "prev_month": "Le mois précédent",
+      "next_month": "Mois prochain",
+      "last_period": {
+        "title": "Dernière période",
+        "description": "Choisissez la date de début de votre cercle menstruel le plus récent."
+      },
+      "cycle_length": {
+        "title": "Longueur du cycle",
+        "description": "Entrez le nombre de jours dans votre cycle menstruel."
+      },
+      "quick_selections": "Sélections rapides",
+      "reset": {
+        "title": "Recommencer",
+        "description": "Réinitialisez le formulaire avec facilité et recommencez avec un seul clic simple!"
+      },
+      "step1": {
+        "title": "Étape 1",
+        "description": "Entrez la date de début de votre dernière période et la durée de votre cycle pour calculer les données suivantes."
+      },
+      "calculation_instructions": "Comment calculer",
+      "fertile_window": {
+        "title": "Fenêtre fertile",
+        "description": "La fenêtre fertile est la période dans laquelle une femme est la plus susceptible de concevoir, se produisant généralement à l'époque de l'ovulation.",
+        "calculation": "La fenêtre fertile est le moment où vous êtes le plus susceptible de concevoir. Il commence 5 jours avant l'ovulation et se termine 1 jour après l'ovulation. Pour calculer votre fenêtre fertile, ajoutez 5 jours à votre date d'ovulation. Par exemple, si votre date d'ovulation est le jour 14, votre fenêtre fertile serait du jour 9 au jour 15."
+      },
+      "ovulation_date": {
+        "title": "Date d'ovulation",
+        "description": "La date d'ovulation est le jour du cycle menstruel d'une femme lorsqu'un œuf est libéré de l'ovaire et peut potentiellement être fécondé.",
+        "calculation": "Pour calculer la date d'ovulation, vous devrez connaître la longueur de votre cycle. La durée moyenne du cycle est de 28 jours, mais elle peut varier d'une personne à l'autre. Pour calculer votre date d'ovulation, soustrayez 14 jours de la durée de votre cycle. Par exemple, si votre cycle est de 28 jours, votre date d'ovulation serait le jour 14."
+      },
+      "next_period_date": {
+        "title": "Date de la période suivante",
+        "description": "La date de période suivante est la date à laquelle un cycle menstruel des femmes devrait recommencer après la période précédente.",
+        "calculation": "Pour calculer votre prochaine date de période, ajoutez simplement la durée de votre cycle à la date de début de votre dernière période. Par exemple, si vos dernières règles ont commencé le jour 1 et que votre durée de cycle est de 28 jours, votre prochaine période commencerait le jour 29."
+      },
+      "pregnancy_test_date": {
+        "title": "Date de test de grossesse",
+        "description": "Une date de test de grossesse fait référence à la date à laquelle une femme passe un test de grossesse pour déterminer si elle est enceinte.",
+        "calculation": "Un test de grossesse peut généralement détecter la grossesse après une période manquée. Pour calculer quand passer un test de grossesse, ajoutez 14 jours à la fin de votre fenêtre fertile. Par exemple, si votre fenêtre fertile se termine le jour 15, vous feriez un test de grossesse le jour 29."
+      },
+      "expected_due_date": {
+        "title": "Date d'échéance attendue",
+        "description": "La date d'échéance attendue (EDD) est la date à laquelle le bébé d'une femme enceinte devrait naître. La date d'échéance réelle peut varier de quelques jours ou semaines.",
+        "calculation": "Pour calculer votre date d'échéance attendue, ajoutez 280 jours (40 semaines) au premier jour de votre dernière période. Par exemple, si votre dernière période commençait le jour 1, votre date d'échéance attendue serait de 180 jours plus tard le jour 281."
+      }
+    },
+    "xp_level_calculator": {
+      "_": "Calculatrice XP / niveau",
+      "meta": {
+        "title": "@:pages.xp_level_calculator._ · @:pages.index.title",
+        "description": "@:pages.xp_level_calculator.description"
+      },
+      "navigation": {
+        "title": "@:pages.xp_level_calculator._",
+        "description": "@:pages.xp_level_calculator.description"
+      },
+      "title": "XP et calculateur de niveau",
+      "description": "Calculez votre niveau en fonction de votre XP ou vice versa. Voir tous les seuils de niveau ci-dessous!",
+      "level": "Niveau",
+      "xp_to_level": "XP au niveau",
+      "enter_xp": "Entrez XP",
+      "level_to_xp": "Niveau à XP",
+      "enter_level": "Entrer le niveau",
+      "xp_required_for_level_x": "Xp requis pour le niveau {level}",
+      "xp_to_next_level": "XP au niveau suivant",
+      "progress_in_this_level": "Progrès dans ce niveau",
+      "difficulty": "Difficulté",
+      "estimated_time_to_reach_this_level": "Temps estimé pour atteindre ce niveau",
+      "estimated_time_disclaimer": "En supposant que vous recommencez de zéro et gagnez {xp} xp par jour",
+      "difficulty_stages": {
+        "very_easy": "Très facile",
+        "easy": "Facile",
+        "moderate": "Modéré",
+        "challenging": "Stimulant",
+        "hard": "Dur",
+        "very_hard": "Très dur",
+        "extreme": "Extrême",
+        "insane": "Fou",
+        "legendary": "Légendaire",
+        "mythical": "Mythique",
+        "impossible": "Impossible"
+      },
+      "level_list": "Liste de niveaux"
+    },
+    "blog": {
+      "_": "Blog",
+      "meta": {
+        "title": "@:pages.blog.title: @:pages.blog.description",
+        "description": "Soyez informé de la santé sexuelle et du bien-être avec le blog Fapstats. Restez à jour sur les dernières recherches, conseils et tendances pour optimiser votre bien-être sexuel"
+      },
+      "navigation": {
+        "title": "@:pages.blog._",
+        "description": "@:pages.blog.description"
+      },
+      "title": "@:pages.index.title @:pages.blog._",
+      "description": "Tout sur le sexe, l'amour et la santé",
+      "no_articles": "Il n'y a aucun article disponible pour votre langue"
+    },
+    "about": {
+      "_": "À propos",
+      "meta": {
+        "title": "@:pages.about._ · @:pages.index.title",
+        "description": "Fapstats est un écosystème d'applications et de sites Web conçus pour fournir des solutions et des outils pour votre vie sexuelle quotidienne"
+      },
+      "navigation": {
+        "title": "@:pages.about._",
+        "description": "En savoir plus sur nous et notre histoire"
+      },
+      "title": "Rencontrez Fapstats",
+      "description": "Fapstats est un écosystème d'applications et de sites Web conçus pour fournir des solutions et des outils pour votre vie sexuelle quotidienne.\n\nNotre mission est de briser le tabou autour du sexe. Nous croyons fermement que les conversations ouvertes et honnêtes sur la sexualité sont importantes et peuvent aider à supprimer les malentendus et à construire une relation sexuelle saine.",
+      "story": {
+        "title": "Notre histoire",
+        "headline": "Comment tout a commencé",
+        "description": "Fapstats a été fondée en février 2023 en tant que petit projet latéral amusant. Ce qui a commencé comme une idée simple est rapidement devenue une plate-forme prospère avec une base d'utilisateurs en pleine expansion."
+      },
+      "timeline": {
+        "1": {
+          "title": "Le début",
+          "headline": "Bonjour le monde!",
+          "time": "Février 2023",
+          "items": {
+            "1": "Fapstats a été fondé",
+            "2": "Le développement du premier tableau de bord Web commence"
+          }
+        },
+        "2": {
+          "title": "Améliorations",
+          "headline": "Une étape à la fois",
+          "time": "Mars 2023",
+          "items": {
+            "1": "Conception améliorée et expérience utilisateur",
+            "2": "Ajout de statistiques plus détaillées"
+          }
+        },
+        "3": {
+          "title": "Visuellement agréable",
+          "headline": "Les graphiques sont plus beaux",
+          "time": "Avril 2023",
+          "items": {
+            "1": "Lancé les premiers graphiques visuels",
+            "2": "A amélioré l'attrait visuel de la plate-forme"
+          }
+        },
+        "4": {
+          "title": "Nous avons besoin de plus",
+          "headline": "Plus de graphiques",
+          "time": "Déc. 2023",
+          "items": {
+            "1": "Introduit des graphiques et des analyses supplémentaires",
+            "2": "Ajout d'un système d'évaluation des étoiles pour des commentaires plus personnalisés"
+          }
+        },
+        "5": {
+          "title": "Essayons quelque chose de différent",
+          "headline": "Graphiques plus grands, meilleure lisibilité",
+          "time": "Janvier 2024",
+          "items": {
+            "1": "Amélioré en graphiques plus grands et plus lisibles",
+            "2": "Affiné la conception globale pour une meilleure expérience utilisateur"
+          }
+        },
+        "6": {
+          "title": "Tout nouveau",
+          "headline": "Tableau de bord complètement retravaillé",
+          "time": "Mars 2024",
+          "items": {
+            "1": "Révision complète du tableau de bord",
+            "2": "Amélioration de la disposition et de la convivialité",
+            "3": "Changement de domaine de fapstats.dev à fapstats.com"
+          }
+        },
+        "7": {
+          "title": "Faire des améliorations",
+          "headline": "Application mobile",
+          "time": "Juillet 2024",
+          "items": {
+            "1": "A mis fin au développement du tableau de bord Web après 1,5 ans",
+            "2": "A commencé le développement du {link-app}"
+          }
+        },
+        "8": {
+          "title": "Boom du Nouvel An",
+          "headline": "Nombres explosant",
+          "time": "Début 2025",
+          "items": {
+            "1": "Croissance explosive: sur {link-global-stats} en quelques mois seulement",
+            "2": "Développement du développement de {link-braincandy}, notre propre lecteur multimédia"
+          }
+        }
+      }
+    },
+    "branding": {
+      "_": "Marque",
+      "meta": {
+        "title": "Notre @:pages.branding._ · @:pages.index.title",
+        "description": "Branc à Fapstats: nous apprécions une marque professionnelle"
+      },
+      "navigation": {
+        "title": "@:pages.branding._",
+        "description": "Nos directives de marque, couleurs, logos, polices et plus"
+      },
+      "title": "Notre @:pages.branding._",
+      "description": "Fapstats est une marque qui valorise la santé sexuelle, la conscience de soi et le bien-être, tout en maintenant une approche respectueuse. Nous priorisons la fourniture de la meilleure expérience à nos utilisateurs. Si vous souhaitez utiliser notre conception ou notre contenu, nous encourageons le style et la collaboration basée sur les demandes.",
+      "colors": "Couleurs",
+      "logo": {
+        "title": "@:common.logo",
+        "description": "Notre logo mémorable se compose de trois barres qui représentent un graphique à barres et une gouttelette qui représente une variété de fluides corporels. Simple mais brillant!"
+      },
+      "spacing": {
+        "title": "Espacement",
+        "description": "Le logo Fapstats lui-même représente notre unité de mesure de base, que nous appelons «x». Tout espacement et dimensionnement par rapport à notre logo sont basés sur cette valeur x.\n\nPour nous assurer que notre logo se démarque, nous avons besoin d'un espace transparent minimum autour de celui-ci égal à 1/2x de tous les côtés. Cet espace doit rester exempt de tout autre élément graphique ou texte.\n\nLa taille de la police du texte associé à notre logo doit être dimensionnée à 3 / 4x par rapport à la hauteur du logo. Cette proportion garantit un équilibre harmonieux entre le logo et le texte.\n\nVeuillez ne pas modifier, changer, déformer, recolorer ou reconfigurer le logo Fapstats."
+      },
+      "fonts": {
+        "title": "Polices",
+        "description": "Les couleurs spécifiées s'appliquent au mode sombre!",
+        "preheader": "Braquier",
+        "headline": "Titre",
+        "paragraph": "Paragraphe",
+        "link": "Lien"
+      }
+    }
+  }
+}
