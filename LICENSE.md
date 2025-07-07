@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2023 [Fapstats](https://www.fapstats.com)
+Copyright (c) 2023 [Fapstats](https://www.fapstats.com)  
 Copyright (c) 2025 [Janik Rabenstein](https://www.janikrabenstein.de)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
