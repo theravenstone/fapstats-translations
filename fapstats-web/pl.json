@@ -39,7 +39,8 @@
     "terms_of_service": "Warunki usług",
     "made_with_love_in_germany": "Wykonane z {love} w Niemczech",
     "love": "Liebe",
-    "join_our_discord": "Dołącz do naszej niezgody"
+    "join_our_discord": "Dołącz do naszej niezgody",
+    "published_on": "Opublikowano"
   },
   "languages": {
     "de": "Niemiecki",

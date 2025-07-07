@@ -39,7 +39,8 @@
     "terms_of_service": "Условия обслуживания",
     "made_with_love_in_germany": "Сделано с {love} в Германии",
     "love": "Liebe",
-    "join_our_discord": "Присоединяйтесь к нашему разногласию"
+    "join_our_discord": "Присоединяйтесь к нашему разногласию",
+    "published_on": "Опубликовано"
   },
   "languages": {
     "de": "Немецкий",

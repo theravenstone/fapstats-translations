@@ -39,7 +39,8 @@
     "terms_of_service": "Nutzungs\u00ADbedingungen",
     "made_with_love_in_germany": "Mit {love} in Deutschland entwickelt",
     "love": "Liebe",
-    "join_our_discord": "Tritt unserem Discord bei"
+    "join_our_discord": "Tritt unserem Discord bei",
+    "published_on": "Veröffentlicht am"
   },
   "languages": {
     "de": "Deutsch",

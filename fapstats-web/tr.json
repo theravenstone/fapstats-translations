@@ -39,7 +39,8 @@
     "terms_of_service": "Hizmet Şartları",
     "made_with_love_in_germany": "Almanya'da {love} ile yapılmış",
     "love": "Liebe",
-    "join_our_discord": "Anlaşmazlığımıza katılın"
+    "join_our_discord": "Anlaşmazlığımıza katılın",
+    "published_on": "Yayınlanma tarihi"
   },
   "languages": {
     "de": "Almanca",

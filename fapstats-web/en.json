@@ -39,7 +39,8 @@
     "terms_of_service": "Terms of Service",
     "made_with_love_in_germany": "Made with {love} in Germany",
     "love": "Liebe",
-    "join_our_discord": "Join our Discord"
+    "join_our_discord": "Join our Discord",
+    "published_on": "Published on"
   },
   "languages": {
     "de": "German",
