@@ -137,7 +137,7 @@
         "description": "Libérez le plein potentiel de l'application Fapstats et améliorez votre santé sexuelle",
         "statistics": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.statistics.title · @:pages.index.title @:pages.app._",
             "description": ""
           },
           "title": "Statistiques",
@@ -191,7 +191,7 @@
         },
         "partners": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.partners.title · @:pages.index.title @:pages.app._",
             "description": "Suivez vos partenaires réels et les principaux propriétaires dans Fapstats. Connectez les comptes, analysez les activités et découvrez des informations uniques."
           },
           "title": "Partenaires et porteurs de clés",
@@ -256,7 +256,7 @@
         },
         "toys": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.toys.title · @:pages.index.title @:pages.app._",
             "description": "Suivez vos statistiques d'utilisation des jouets sexuels. Analyser la fréquence, les préférences et partager des données avec des partenaires connectés."
           },
           "title": "Jouets et accessoires",
@@ -315,7 +315,7 @@
         },
         "tags": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.tags.title · @:pages.index.title @:pages.app._",
             "description": "Créez et gérez des balises personnalisées pour classer vos activités. Utilisez des balises automatisées pour le suivi sans effort et déverrouillez les réalisations personnalisées."
           },
           "title": "Tags personnalisés",
@@ -375,7 +375,7 @@
         },
         "calendar": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.calendar.title · @:pages.index.title @:pages.app._",
             "description": "Obtenez un aperçu mensuel clair de toutes vos activités sexuelles dans le calendrier Fapstats."
           },
           "title": "Calendrier",
@@ -437,7 +437,7 @@
         },
         "fucketlist": {
           "meta": {
-            "title": "Fucketlist | Application fapstats",
+            "title": "@:pages.app.features.fucketlist.title · @:pages.index.title @:pages.app._",
             "description": "Créez votre liste de bucket personnelle d'expériences agréables et suivez vos progrès en transformant vos désirs les plus intimes en réalité."
           },
           "title": "Bucketlist",
@@ -495,7 +495,7 @@
         },
         "chastity_tracker": {
           "meta": {
-            "title": "Chastetity Tracker | Application fapstats",
+            "title": "@:pages.app.features.chastity_tracker.title · @:pages.index.title @:pages.app._",
             "description": "Suivez vos séances de chasteté, vos relations de portefeuille et vos statistiques détaillées. Partagez vos sessions avec votre partenaire et analysez votre historique de chasteté au fil du temps."
           },
           "title": "Chasteté tracker",
@@ -558,7 +558,7 @@
         },
         "leaderboard": {
           "meta": {
-            "title": "Classement | Application fapstats",
+            "title": "@:pages.app.features.leaderboard.title · @:pages.index.title @:pages.app._",
             "description": "Voir les meilleurs utilisateurs classés par XP et Niveau. Suivez vos progrès, comparez avec les autres et gérez la visibilité de votre profil dans le classement Fapstats."
           },
           "title": "Classement",
@@ -630,7 +630,7 @@
         },
         "shared_activities": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.shared_activities.title · @:pages.index.title @:pages.app._",
             "description": "Partagez facilement les activités avec vos partenaires connectés dans Fapstats. Les activités comptent pour les deux comptes et apparaissent dans toutes les statistiques."
           },
           "title": "Activités partagées",
@@ -686,7 +686,7 @@
         },
         "achievements": {
           "meta": {
-            "title": "Réalisations | Application fapstats",
+            "title": "@:pages.app.features.achievements.title · @:pages.index.title @:pages.app._",
             "description": "Déverrouiller les réalisations en atteignant les étapes et en relevant des défis. Suivez vos progrès et créez vos propres réalisations personnalisées en fonction de vos balises."
           },
           "title": "Réalisations",
@@ -746,7 +746,7 @@
         },
         "records": {
           "meta": {
-            "title": "Records | Application fapstats",
+            "title": "@:pages.app.features.records.title · @:pages.index.title @:pages.app._",
             "description": "Découvrez vos pics de plaisir personnels: vos meilleurs jours, mois et dossiers de tous les temps pour les activités, les partenaires, les jouets, etc."
           },
           "title": "Enregistrements",
@@ -804,7 +804,7 @@
         },
         "no_limits": {
           "meta": {
-            "title": "Aucune limite | Application fapstats",
+            "title": "@:pages.app.features.no_limits.title · @:pages.index.title @:pages.app._",
             "description": "Fapstats est entièrement gratuit et n'a pas de limites. Suivez les activités illimitées, les partenaires, les jouets, les étiquettes et plus encore - sans jamais frapper un mur de paiement."
           },
           "title": "Pas de limites",
@@ -828,9 +828,9 @@
             }
           },
           "how_to_use": {
-            "title": "Comment profiter des fapstats sans limites",
+            "title": "Comment profiter des Fapstats sans limites",
             "headline": "Commencer",
-            "description": "L'utilisation de fapstats est simple et toujours gratuite:",
+            "description": "L'utilisation de Fapstats est simple et toujours gratuite:",
             "steps": {
               "1": "Inscrivez-vous et commencez à suivre - aucune carte de crédit requise",
               "2": "Ajoutez autant d'activités, de partenaires, de jouets et de balises que vous le souhaitez",
@@ -861,7 +861,7 @@
       },
       "changelog": {
         "meta": {
-          "title": "@:pages.index.title @:pages.app._ @:common.changelog",
+          "title": "@:common.changelog · @:pages.index.title @:pages.app._",
           "description": "Explorez les dernières mises à jour et améliorations sur l'application Fapstats. Restez informé de nos dernières fonctionnalités pour une expérience améliorée."
         },
         "navigation": {
@@ -876,7 +876,7 @@
       "global_statistics": {
         "_": "Statistiques mondiales",
         "meta": {
-          "title": "",
+          "title": "@:pages.app.global_statistics._ · @:pages.index.title @:pages.app._",
           "description": "Explorez les statistiques mondiales sur les Fapstats et donnez un aperçu des tendances et des modèles des activités sexuelles de nos utilisateurs. Données complètement anonymisées pour votre vie privée."
         },
         "navigation": {
@@ -937,10 +937,10 @@
       "features": {
         "title": "Caractéristiques",
         "headline": "Tout ce dont vous avez besoin",
-        "description": "Libérer le plein potentiel de la cervelle fapstats",
+        "description": "Libérer le plein potentiel de la cervelle Fapstats",
         "multiple_screens": {
           "meta": {
-            "title": "Plusieurs écrans | Fapstats craincandy",
+            "title": "@:pages.braincandy.features.multiple_screens.title · @:pages.index.title @:pages.braincandy._",
             "description": "Surveillez jusqu'à 12 écrans de média à la fois dans Braincandy. Parfait pour les utilisateurs de puissance, les configurations créatives ou toute personne qui veut en voir plus - même si ce n'est que 12 vidéos de chat en même temps."
           },
           "title": "Plusieurs écrans",
@@ -966,7 +966,7 @@
           "how_to_use": {
             "title": "Comment utiliser plusieurs écrans",
             "headline": "Commencer",
-            "description": "Suivez ces étapes pour personnaliser votre disposition de la Craincandy:",
+            "description": "Suivez ces étapes pour personnaliser votre disposition de la Braincandy:",
             "steps": {
               "1": "Accédez à la page de configuration dans Braincandy.",
               "2": "Choisissez le nombre d'écrans que vous souhaitez utiliser (jusqu'à 12).",
@@ -978,7 +978,7 @@
           "faq": {
             "title": "FAQ",
             "headline": "Questions fréquemment posées",
-            "description": "Réponses aux questions courantes sur plusieurs écrans de la Craincandy:",
+            "description": "Réponses aux questions courantes sur plusieurs écrans de la Braincandy:",
             "items": {
               "1": {
                 "question": "Combien d'écrans puis-je utiliser en même temps?",
@@ -997,7 +997,7 @@
         },
         "speed": {
           "meta": {
-            "title": "Vitesse | Fapstats craincandy",
+            "title": "@:pages.braincandy.features.speed.title · @:pages.index.title @:pages.braincandy._",
             "description": "Ajustez la rapidité avec laquelle Braincandy saute automatiquement vers le média suivant. Créez votre propre expérience de diaporama avec un contrôle total."
           },
           "title": "Vitesse",
@@ -1025,7 +1025,7 @@
             "description": "Suivez ces étapes pour définir votre vitesse préférée dans Braincandy:",
             "steps": {
               "1": "Accédez à la page de configuration et trouvez le curseur de vitesse.",
-              "2": "Ajustez le curseur pour définir la rapidité avec laquelle la Craincandy devrait se faire automatiquement vers le support suivant.",
+              "2": "Ajustez le curseur pour définir la rapidité avec laquelle la Braincandy devrait se faire automatiquement vers le support suivant.",
               "3": "N'oubliez pas: les vidéos MP4 ne sont pas affectées et joueront toujours jusqu'à la fin ou jusqu'à ce que vous les ignoriez manuellement.",
               "4": "Pause ou reprendre le saut de saut automatique à tout moment avec la fonction {link-play-pause}."
             }
@@ -1056,7 +1056,7 @@
         },
         "media_types": {
           "meta": {
-            "title": "Types de médias | Fapstats craincandy",
+            "title": "@:pages.braincandy.features.media_types.title · @:pages.index.title @:pages.braincandy._",
             "description": "Choisissez exactement les types de médias que vous souhaitez voir dans les bonbons du cerveau. Basculez des images, des GIF, des vidéos et des GIF pour l'expérience parfaite."
           },
           "title": "Types de médias",
@@ -1064,7 +1064,7 @@
           "overview": {
             "title": "Que sont les types de médias?",
             "headline": "Personnalisez votre expérience médiatique",
-            "description": "Les types de médias vous permet de décider quel contenu apparaît dans Braincandy. Vous voulez seulement des vidéos? Vous préférez les images et les redgifs? Utilisez simplement les bascules pour activer ou désactiver les images, les gifs, les vidéos et les redgifs à tout moment. Cette fonctionnalité vous aide à vous concentrer sur ce que vous voulez voir - et peut rendre la Craincandy encore plus fluide."
+            "description": "Les types de médias vous permet de décider quel contenu apparaît dans Braincandy. Vous voulez seulement des vidéos? Vous préférez les images et les redgifs? Utilisez simplement les bascules pour activer ou désactiver les images, les gifs, les vidéos et les redgifs à tout moment. Cette fonctionnalité vous aide à vous concentrer sur ce que vous voulez voir - et peut rendre la Braincandy encore plus fluide."
           },
           "benefits": {
             "title": "Avantages clés",
@@ -1091,7 +1091,7 @@
           "faq": {
             "title": "FAQ",
             "headline": "Questions fréquemment posées",
-            "description": "Réponses aux questions courantes sur les types de médias dans la Craincandy:",
+            "description": "Réponses aux questions courantes sur les types de médias dans la Braincandy:",
             "items": {
               "1": {
                 "question": "Puis-je afficher uniquement des vidéos ou seulement des images?",
@@ -1110,8 +1110,8 @@
         },
         "reddit_presets": {
           "meta": {
-            "title": "Reddit Presets | Fapstats craincandy",
-            "description": "Parcourez rapidement plus de 60 catégories et plus de 370 subreddits adultes avec des préréglages Reddit de Craincandy Reddit. Découvrez instantanément et profitez instantanément de contenu."
+            "title": "@:pages.braincandy.features.reddit_presets.title · @:pages.index.title @:pages.braincandy._",
+            "description": "Parcourez rapidement plus de 60 catégories et plus de 370 subreddits adultes avec des préréglages Reddit de Braincandy Reddit. Découvrez instantanément et profitez instantanément de contenu."
           },
           "title": "Préréglages Reddit",
           "description": "Les préréglages Reddit facilitent l'exploration et le contenu adulte de Reddit. Accédez instantanément à plus de 60 catégories et plus de 370 subreddits, tous organisés pour vous.",
@@ -1165,7 +1165,7 @@
         },
         "subreddits": {
           "meta": {
-            "title": "Subdreddits | Fapstats craincandy",
+            "title": "@:pages.braincandy.features.subreddits.title · @:pages.index.title @:pages.braincandy._",
             "description": "Utilisez n'importe quel subreddit que vous souhaitez dans Braincandy - choisissez parmi plus de 370 préréglages ou ajoutez le vôtre pour une flexibilité ultime."
           },
           "title": "Subreddits",
@@ -1220,7 +1220,7 @@
         },
         "reddit_settings": {
           "meta": {
-            "title": "Paramètres Reddit | Fapstats craincandy",
+            "title": "@:pages.braincandy.features.reddit_settings.title · @:pages.index.title @:pages.braincandy._",
             "description": "Personnalisez la façon dont vous parcourez le contenu Reddit dans Braincandy. Filtrez par le tri, la durée du temps et plus encore pour l'expérience parfaite."
           },
           "title": "Paramètres Reddit",
@@ -1285,7 +1285,7 @@
         },
         "local_files": {
           "meta": {
-            "title": "Fichiers locaux | Fapstats craincandy",
+            "title": "@:pages.braincandy.features.local_files.title · @:pages.index.title @:pages.braincandy._",
             "description": "Surveillez vos dossiers de médias privés directement à partir de votre appareil avec Fapstats Braincandy. Pas de téléchargement, pas de compromis - juste une confidentialité et une commodité totales."
           },
           "title": "Fichiers locaux",
@@ -1301,7 +1301,7 @@
             "description": "Les fichiers locaux vous donnent un contrôle total et une confidentialité:",
             "items": {
               "1": "Regardez des vidéos privées et des images de dossiers entiers sans les télécharger n'importe où",
-              "2": "Profitez de toutes les fonctionnalités de la Craincandy avec vos propres médias",
+              "2": "Profitez de toutes les fonctionnalités de la Braincandy avec vos propres médias",
               "3": "Confidentialité maximale - vos fichiers ne quittent jamais votre appareil",
               "4": "Pas besoin de télécharger ou de se synchroniser avec un serveur",
               "5": "Idéal pour le contenu sensible ou personnel",
@@ -1345,7 +1345,7 @@
         },
         "playlists": {
           "meta": {
-            "title": "Listes de lecture | Fapstats craincandy",
+            "title": "@:pages.braincandy.features.playlists.title · @:pages.index.title @:pages.braincandy._",
             "description": "Créez, partagez et jouez des listes de lecture personnalisées des médias publics avec Fapstats Braincandy. Utilisez vos propres fichiers JSON ou XSPF pour la flexibilité ultime."
           },
           "title": "Playlists",
@@ -1382,7 +1382,7 @@
           "faq": {
             "title": "FAQ",
             "headline": "Questions fréquemment posées",
-            "description": "Réponses aux questions courantes sur les listes de lecture dans la Craincandy:",
+            "description": "Réponses aux questions courantes sur les listes de lecture dans la Braincandy:",
             "items": {
               "1": {
                 "question": "Quels formats de fichiers sont pris en charge pour les listes de lecture?",
@@ -1393,7 +1393,7 @@
                 "answer": "Oui! Les fichiers de playlist peuvent être facilement partagés sur les réseaux sociaux ou envoyés à des amis."
               },
               "3": {
-                "question": "De quelles autres façons puis-je charger les médias dans la Craincandy?",
+                "question": "De quelles autres façons puis-je charger les médias dans la Braincandy?",
                 "answer": "En plus des listes de lecture, vous pouvez utiliser des fichiers locaux pour regarder les supports à partir de votre appareil ou utiliser des préréglages et des sous-verres pour charger du contenu directement à partir de Reddit."
               }
             }
@@ -1401,11 +1401,11 @@
         },
         "statistics": {
           "meta": {
-            "title": "Statistiques | Fapstats craincandy",
-            "description": "Voir un résumé complet de votre session de la Craincandy: minuteries, dénombrements de médias, sauts et favoris. Parfait pour suivre votre activité."
+            "title": "@:pages.braincandy.features.statistics.title · @:pages.index.title @:pages.braincandy._",
+            "description": "Voir un résumé complet de votre session de la Braincandy: minuteries, dénombrements de médias, sauts et favoris. Parfait pour suivre votre activité."
           },
           "title": "Statistiques",
-          "description": "À la fin de chaque session de la Craincandy, vous obtenez un résumé détaillé de votre activité. Voyez exactement combien de temps vous avez passé, combien vous avez regardé et ce que vous avez favorisé.",
+          "description": "À la fin de chaque session de la Braincandy, vous obtenez un résumé détaillé de votre activité. Voyez exactement combien de temps vous avez passé, combien vous avez regardé et ce que vous avez favorisé.",
           "overview": {
             "title": "Que sont les statistiques de session?",
             "headline": "Votre session en un coup d'œil",
@@ -1414,7 +1414,7 @@
           "benefits": {
             "title": "Avantages clés",
             "headline": "Pourquoi utiliser les statistiques de session?",
-            "description": "Les statistiques de session vous aident à suivre et à vous souvenir de votre expérience de la Craincandy:",
+            "description": "Les statistiques de session vous aident à suivre et à vous souvenir de votre expérience de la Braincandy:",
             "items": {
               "1": "Voir les heures de session totales, actives et interrompues en un coup d'œil",
               "2": "Voir les comptes pour les images, les GIF, les vidéos et les médias totaux",
@@ -1457,7 +1457,7 @@
         },
         "favourites": {
           "meta": {
-            "title": "Favoris | Fapstats craincandy",
+            "title": "@:pages.braincandy.features.favourites.title · @:pages.index.title @:pages.braincandy._",
             "description": "Marquez vos médias préférés en un seul clic et révisez-les ou partagez-les après chaque session dans Fapstats Braincandy."
           },
           "title": "Favoris",
@@ -1492,7 +1492,7 @@
           "faq": {
             "title": "FAQ",
             "headline": "Questions fréquemment posées",
-            "description": "Réponses aux questions courantes sur les favoris dans la Craincandy:",
+            "description": "Réponses aux questions courantes sur les favoris dans la Braincandy:",
             "items": {
               "1": {
                 "question": "Puis-je préféré n'importe quel type de média?",
@@ -1511,7 +1511,7 @@
         },
         "play_pause": {
           "meta": {
-            "title": "Jouer / pause | Fapstats craincandy",
+            "title": "@:pages.braincandy.features.play_pause.title · @:pages.index.title @:pages.braincandy._",
             "description": "Pause votre session à tout moment dans Braincandy. Contrôlez la lecture, les minuteries et le saut automatique pour une expérience entièrement personnalisée."
           },
           "title": "Jouer / faire une pause",
@@ -1571,7 +1571,7 @@
         },
         "no_limits": {
           "meta": {
-            "title": "Aucune limite | Fapstats craincandy",
+            "title": "@:pages.braincandy.features.no_limits.title · @:pages.index.title @:pages.braincandy._",
             "description": "Avec Fapstats Braincandy, il n'y a aucune limite sur quoi, combien ou combien de temps vous pouvez regarder. Profitez des médias illimités de Reddit, des listes de lecture ou des fichiers locaux - complètement gratuits, pour toujours!"
           },
           "title": "Pas de limites",
@@ -1599,7 +1599,7 @@
             "headline": "Commencer",
             "description": "L'utilisation de Braincandy est simple et toujours gratuite:",
             "steps": {
-              "1": "Open Craincandy dans un navigateur de votre choix.",
+              "1": "Open Braincandy dans un navigateur de votre choix.",
               "2": "Ajoutez des supports de Reddit, vos listes de lecture ou des fichiers locaux.",
               "3": "Choisissez jusqu'à 12 écrans comme vous le souhaitez.",
               "4": "Regardez autant que vous le souhaitez, aussi longtemps que vous le souhaitez - avec des restrictions nulles."
@@ -1623,7 +1623,7 @@
                 "answer": "Absolument! Remplissez chaque écran avec ce que vous voulez - la seule limite est votre imagination (et peut-être les performances de votre appareil)."
               },
               "4": {
-                "question": "La Craincandy est-elle uniquement pour le contenu des adultes?",
+                "question": "La Braincandy est-elle uniquement pour le contenu des adultes?",
                 "answer": "Braincandy est conçu en pensant aux adultes, mais vous pouvez l'utiliser pour tous les médias que vous aimez."
               }
             }
@@ -1632,7 +1632,7 @@
       },
       "changelog": {
         "meta": {
-          "title": "@:pages.index.title @:pages.braincandy._ @:common.changelog",
+          "title": "@:common.changelog · @:pages.index.title @:pages.braincandy._",
           "description": "Explorez les dernières mises à jour et améliorations sur Fapstats Braincandy. Restez informé de nos dernières fonctionnalités pour une expérience améliorée."
         },
         "navigation": {
@@ -1744,7 +1744,7 @@
     "blog": {
       "_": "Blog",
       "meta": {
-        "title": "@:pages.blog.title: @:pages.blog.description",
+        "title": "@:pages.index.title @:pages.blog.title · @:pages.blog.description",
         "description": "Soyez informé de la santé sexuelle et du bien-être avec le blog Fapstats. Restez à jour sur les dernières recherches, conseils et tendances pour optimiser votre bien-être sexuel"
       },
       "navigation": {
@@ -1849,16 +1849,16 @@
       }
     },
     "branding": {
-      "_": "Marque",
+      "_": "Notre Marque",
       "meta": {
-        "title": "Notre @:pages.branding._ · @:pages.index.title",
+        "title": "@:pages.branding._ · @:pages.index.title",
         "description": "Branc à Fapstats: nous apprécions une marque professionnelle"
       },
       "navigation": {
         "title": "@:pages.branding._",
         "description": "Nos directives de marque, couleurs, logos, polices et plus"
       },
-      "title": "Notre @:pages.branding._",
+      "title": "@:pages.branding._",
       "description": "Fapstats est une marque qui valorise la santé sexuelle, la conscience de soi et le bien-être, tout en maintenant une approche respectueuse. Nous priorisons la fourniture de la meilleure expérience à nos utilisateurs. Si vous souhaitez utiliser notre conception ou notre contenu, nous encourageons le style et la collaboration basée sur les demandes.",
       "colors": "Couleurs",
       "logo": {

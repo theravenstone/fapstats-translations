@@ -137,7 +137,7 @@
         "description": "Раскрыть весь потенциал приложения Fapstats и улучшить свое сексуальное здоровье",
         "statistics": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.statistics.title · @:pages.index.title @:pages.app._",
             "description": ""
           },
           "title": "Статистика",
@@ -191,7 +191,7 @@
         },
         "partners": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.partners.title · @:pages.index.title @:pages.app._",
             "description": "Отслеживайте своих реальных партнеров и ключевых владельцев в Fapstats. Подключите учетные записи, анализируйте деятельность и обнаружите уникальные идеи."
           },
           "title": "Партнеры и ключевые владельцы",
@@ -256,7 +256,7 @@
         },
         "toys": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.toys.title · @:pages.index.title @:pages.app._",
             "description": "Отслеживайте статистику использования сексуальных игрушек. Анализировать частоту, предпочтения и обмениваться данными с подключенными партнерами."
           },
           "title": "Игрушки и аксессуары",
@@ -315,7 +315,7 @@
         },
         "tags": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.tags.title · @:pages.index.title @:pages.app._",
             "description": "Создайте и управляйте пользовательскими тегами, чтобы классифицировать ваши действия. Используйте автоматизированные теги для легкого отслеживания и разблокировать пользовательские достижения."
           },
           "title": "Пользовательские теги",
@@ -375,7 +375,7 @@
         },
         "calendar": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.calendar.title · @:pages.index.title @:pages.app._",
             "description": "Получите четкий ежемесячный обзор всех ваших сексуальных действий в календаре Fapstats."
           },
           "title": "Календарь",
@@ -437,20 +437,20 @@
         },
         "fucketlist": {
           "meta": {
-            "title": "BucketList | Приложение Fapstats",
-            "description": "Создайте свой личный FucketList с приятным опытом и отслеживайте свой прогресс, когда вы превращаете свои самые интимные желания в реальность."
+            "title": "@:pages.app.features.fucketlist.title · @:pages.index.title @:pages.app._",
+            "description": "Создайте свой личный Fucketlist с приятным опытом и отслеживайте свой прогресс, когда вы превращаете свои самые интимные желания в реальность."
           },
-          "title": "BucketList",
-          "description": "Создайте свой личный FucketList с приятным опытом и отслеживайте свой прогресс, когда вы превращаете свои самые интимные желания в реальность.",
+          "title": "Fucketlist",
+          "description": "Создайте свой личный Fucketlist с приятным опытом и отслеживайте свой прогресс, когда вы превращаете свои самые интимные желания в реальность.",
           "overview": {
             "title": "Что такое черт возьми?",
             "headline": "Ваш сексуальный список",
-            "description": "FucketList-ваш личный список ведра или список дел для сексуального опыта, который вы хотите попробовать. Добавьте, отредактируйте, удаляйте и проверьте элементы, исследуя свои желания."
+            "description": "Fucketlist-ваш личный список ведра или список дел для сексуального опыта, который вы хотите попробовать. Добавьте, отредактируйте, удаляйте и проверьте элементы, исследуя свои желания."
           },
           "benefits": {
             "title": "Ключевые преимущества",
             "headline": "Зачем пользоваться листером?",
-            "description": "BucketList помогает вам открыть, планировать и отпраздновать свои сексуальные приключения:",
+            "description": "Fucketlist помогает вам открыть, планировать и отпраздновать свои сексуальные приключения:",
             "items": {
               "1": "Уточнить и расставить приоритеты в своих сексуальных пожеланиях и фантазиях",
               "2": "Оставаться мотивированным, чтобы попробовать новые впечатления",
@@ -462,15 +462,15 @@
           },
           "screenshots": {
             "title": "Скриншоты",
-            "headline": "FucketList в действии",
-            "description": "Посмотрите, как создавать, управлять и завершить свой личный лист FucketList в Fapstats."
+            "headline": "Fucketlist в действии",
+            "description": "Посмотрите, как создавать, управлять и завершить свой личный лист Fucketlist в Fapstats."
           },
           "how_to_use": {
-            "title": "Как использовать bucketlist",
+            "title": "Как использовать Fucketlist",
             "headline": "Начиная",
-            "description": "Следуйте этим шагам, чтобы получить максимальную отдачу от вашего BucketList:",
+            "description": "Следуйте этим шагам, чтобы получить максимальную отдачу от вашего Fucketlist:",
             "steps": {
-              "1": "Откройте FucketList от своей приборной панели.",
+              "1": "Откройте Fucketlist от своей приборной панели.",
               "2": "Добавьте новые предметы для опыта, который вы хотите попробовать.",
               "3": "Редактировать или удалить элементы по мере изменения ваших интересов.",
               "4": "Проверьте предметы по мере их завершения.",
@@ -480,7 +480,7 @@
           "faq": {
             "title": "@:common.faq",
             "headline": "@:common.frequly_asked_questions",
-            "description": "Ответы на общие вопросы о BucketList:",
+            "description": "Ответы на общие вопросы о Fucketlist:",
             "items": {
               "1": {
                 "question": "Что происходит, когда я проверяю элемент?",
@@ -495,7 +495,7 @@
         },
         "chastity_tracker": {
           "meta": {
-            "title": "Трекер целомудрия | Приложение Fapstats",
+            "title": "@:pages.app.features.chastity_tracker.title · @:pages.index.title @:pages.app._",
             "description": "Отслеживайте свои сессии целомудрия, отношения с ключевыми владельцами и подробную статистику. Поделитесь своими сессиями со своим партнером и проанализируйте свою историю целомудрия с течением времени."
           },
           "title": "Трекер целомудрия",
@@ -558,7 +558,7 @@
         },
         "leaderboard": {
           "meta": {
-            "title": "Таблица лидеров | Приложение Fapstats",
+            "title": "@:pages.app.features.leaderboard.title · @:pages.index.title @:pages.app._",
             "description": "Смотрите лучших пользователей, ранжированных по XP и уровню. Отслеживайте свой прогресс, сравните с другими и управляйте видимостью своего профиля в таблице лидеров Fapstats."
           },
           "title": "Таблица лидеров",
@@ -630,7 +630,7 @@
         },
         "shared_activities": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.shared_activities.title · @:pages.index.title @:pages.app._",
             "description": "Легко делиться деятельностью со своими подключенными партнерами в Fapstats. Действия имеют значение для обоих счетов и появляются во всей статистике."
           },
           "title": "Общая деятельность",
@@ -686,7 +686,7 @@
         },
         "achievements": {
           "meta": {
-            "title": "Достижения | Приложение Fapstats",
+            "title": "@:pages.app.features.achievements.title · @:pages.index.title @:pages.app._",
             "description": "Разблокируйте достижения, достигая вех и выполняя проблемы. Отслеживайте свой прогресс и создайте свои собственные достижения на основе ваших тегов."
           },
           "title": "Достижения",
@@ -746,7 +746,7 @@
         },
         "records": {
           "meta": {
-            "title": "Записи | Приложение Fapstats",
+            "title": "@:pages.app.features.records.title · @:pages.index.title @:pages.app._",
             "description": "Откройте для себя свои личные пики удовольствия: ваши лучшие дни, месяцы и рекорды за все время для занятий, партнеров, игрушек и многого другого."
           },
           "title": "Записи",
@@ -804,7 +804,7 @@
         },
         "no_limits": {
           "meta": {
-            "title": "Нет ограничений | Приложение Fapstats",
+            "title": "@:pages.app.features.no_limits.title · @:pages.index.title @:pages.app._",
             "description": "Fapstats полностью свободен и не имеет ограничений. Отслеживайте неограниченные действия, партнеры, игрушки, теги и многое другое - не попадая в Paywall."
           },
           "title": "Нет ограничений",
@@ -861,7 +861,7 @@
       },
       "changelog": {
         "meta": {
-          "title": "@:pages.index.title @:pages.app._ @:common.changelog",
+          "title": "@:common.changelog · @:pages.index.title @:pages.app._",
           "description": "Исследуйте последние обновления и улучшения в приложении Fapstats. Будьте в курсе наших новейших функций для улучшенного опыта."
         },
         "navigation": {
@@ -876,7 +876,7 @@
       "global_statistics": {
         "_": "Глобальная статистика",
         "meta": {
-          "title": "",
+          "title": "@:pages.app.global_statistics._ · @:pages.index.title @:pages.app._",
           "description": "Исследуйте глобальную статистику о Fapstats и получите представление о тенденциях и моделях сексуальных действий наших пользователей. Полностью анонимные данные для вашей конфиденциальности."
         },
         "navigation": {
@@ -940,7 +940,7 @@
         "description": "Раскрыть весь потенциал Fapstats Braincandy",
         "multiple_screens": {
           "meta": {
-            "title": "Несколько экранов | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.multiple_screens.title · @:pages.index.title @:pages.braincandy._",
             "description": "Наблюдайте за 12 -й экранами в СМИ одновременно в Braincandy. Идеально подходит для энергетических пользователей, креативных настройков или любого, кто хочет увидеть больше - даже если это всего лишь 12 видео для кошек одновременно."
           },
           "title": "Несколько экранов",
@@ -997,7 +997,7 @@
         },
         "speed": {
           "meta": {
-            "title": "Скорость | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.speed.title · @:pages.index.title @:pages.braincandy._",
             "description": "Определите, как быстро Braincandy автоматически пропускает в следующем носителе. Создайте свой собственный слайд -шоу с полным контролем."
           },
           "title": "Скорость",
@@ -1056,7 +1056,7 @@
         },
         "media_types": {
           "meta": {
-            "title": "Типы мультимедиа | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.media_types.title · @:pages.index.title @:pages.braincandy._",
             "description": "Выберите точно, какие типы средств массовой информации вы хотите увидеть в мозговой конфеты. Переключайте изображения, гифки, видео и GIF -файлы для идеального опыта."
           },
           "title": "Типы мультимедиа",
@@ -1110,7 +1110,7 @@
         },
         "reddit_presets": {
           "meta": {
-            "title": "Reddit Presets | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.reddit_presets.title · @:pages.index.title @:pages.braincandy._",
             "description": "Быстро просмотрите более 60 категорий и 370+ взрослых субреддитов с предварительным процессом Braincandy Reddit. Мгновенно обнаружите и наслаждайтесь новым контентом."
           },
           "title": "Reddit Presets",
@@ -1165,7 +1165,7 @@
         },
         "subreddits": {
           "meta": {
-            "title": "Subreddits | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.subreddits.title · @:pages.index.title @:pages.braincandy._",
             "description": "Используйте любой SubredDit, который вы хотите в Braincandy - выберите из более 370 предустановков или добавьте свою собственную гибкость."
           },
           "title": "Субреддиты",
@@ -1220,7 +1220,7 @@
         },
         "reddit_settings": {
           "meta": {
-            "title": "Настройки Reddit | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.reddit_settings.title · @:pages.index.title @:pages.braincandy._",
             "description": "Настройте, как вы просматриваете контент Reddit в Braincandy. Фильтруйте по сортировке, временной диапазоне и многое другое для идеального опыта."
           },
           "title": "Настройки Reddit",
@@ -1285,7 +1285,7 @@
         },
         "local_files": {
           "meta": {
-            "title": "Локальные файлы | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.local_files.title · @:pages.index.title @:pages.braincandy._",
             "description": "Посмотрите свои личные медиа -папки прямо с вашего устройства с Fapstats Braincandy. Нет загрузки, нет компромиссов - просто полная конфиденциальность и удобство."
           },
           "title": "Локальные файлы",
@@ -1345,7 +1345,7 @@
         },
         "playlists": {
           "meta": {
-            "title": "Плейлисты | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.playlists.title · @:pages.index.title @:pages.braincandy._",
             "description": "Создайте, делитесь и играйте на пользовательских плейлистах публичных СМИ с Fapstats Braincandy. Используйте свои собственные файлы JSON или XSPF для максимальной гибкости."
           },
           "title": "Плейлисты",
@@ -1401,7 +1401,7 @@
         },
         "statistics": {
           "meta": {
-            "title": "Статистика | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.statistics.title · @:pages.index.title @:pages.braincandy._",
             "description": "Смотрите полное резюме вашего сеанса Braincandy: таймеры, количество средств массовой информации, пропуски и фавориты. Идеально подходит для отслеживания вашей активности."
           },
           "title": "Статистика",
@@ -1457,7 +1457,7 @@
         },
         "favourites": {
           "meta": {
-            "title": "Фавориты | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.favourites.title · @:pages.index.title @:pages.braincandy._",
             "description": "Отметьте свои любимые носители одним щелчком и обзором или поделитесь ими после каждого сеанса в Fapstats Braincandy."
           },
           "title": "Фавориты",
@@ -1511,7 +1511,7 @@
         },
         "play_pause": {
           "meta": {
-            "title": "Играть/Пауза | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.play_pause.title · @:pages.index.title @:pages.braincandy._",
             "description": "Сделайте паузу в любое время в Braincandy. Управляйте воспроизведением, таймерами и автоматическим пропуском для полностью персонализированного опыта."
           },
           "title": "Играть/пауза",
@@ -1571,7 +1571,7 @@
         },
         "no_limits": {
           "meta": {
-            "title": "Нет ограничений | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.no_limits.title · @:pages.index.title @:pages.braincandy._",
             "description": "С Fapstats Braincandy нет ограничений на то, сколько, сколько или как долго вы можете смотреть. Наслаждайтесь неограниченными средствами массовой информации от Reddit, плейлистов или локальных файлов - совершенно бесплатно, навсегда!"
           },
           "title": "Нет ограничений",
@@ -1632,7 +1632,7 @@
       },
       "changelog": {
         "meta": {
-          "title": "@:pages.index.title @:pages.braincandy._ @:common.changelog",
+          "title": "@:common.changelog · @:pages.index.title @:pages.braincandy._",
           "description": "Исследуйте последние обновления и улучшения на Fapstats Braincandy. Будьте в курсе наших новейших функций для улучшенного опыта."
         },
         "navigation": {
@@ -1744,7 +1744,7 @@
     "blog": {
       "_": "Блог",
       "meta": {
-        "title": "@:pages.blog.title: @:pages.blog.description",
+        "title": "@:pages.index.title @:pages.blog.title · @:pages.blog.description",
         "description": "Получите информацию о сексуальном здоровье и благополучии в блоге Fapstats. Будьте в курсе последних исследований, советов и тенденций, чтобы оптимизировать ваше сексуальное благополучие"
       },
       "navigation": {
@@ -1849,16 +1849,16 @@
       }
     },
     "branding": {
-      "_": "Брендинг",
+      "_": "Наши Брендинг",
       "meta": {
-        "title": "Наши @:pages.branding._ · @:pages.index.title",
+        "title": "@:pages.branding._ · @:pages.index.title",
         "description": "Брендинг в Fapstats: мы ценим профессиональный бренд"
       },
       "navigation": {
         "title": "@:pages.branding._",
         "description": "Наши рекомендации по бренду, цвета, логотипы, шрифты и многое другое"
       },
-      "title": "Наш @:pages.branding._",
+      "title": "@:pages.branding._",
       "description": "Fapstats-это бренд, который ценит сексуальное здоровье, самосознание и благополучие, сохраняя при этом уважительный подход. Мы расставляем приоритеты в предоставлении лучшего опыта для наших пользователей. Если вы хотите использовать наш дизайн или контент, мы поощряем сотрудничество на основе запросов.",
       "colors": "Цвета",
       "logo": {

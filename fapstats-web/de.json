@@ -137,7 +137,7 @@
         "description": "Entfache das volle Potenzial der Fapstats App und bring dein Sexleben auf das nächste Level.",
         "statistics": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.statistics.title · @:pages.index.title @:pages.app._",
             "description": ""
           },
           "title": "Statistiken",
@@ -191,7 +191,7 @@
         },
         "partners": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.partners.title · @:pages.index.title @:pages.app._",
             "description": "Erfasse deine realen Partner und Schlüsselträger in Fapstats. Verbinde Konten, analysiere Aktivitäten und entdecke einzigartige Erkenntnisse."
           },
           "title": "Partner",
@@ -256,7 +256,7 @@
         },
         "toys": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.toys.title · @:pages.index.title @:pages.app._",
             "description": "Verfolge deine Sexspielzeug-Nutzung. Analysiere Häufigkeit, Vorlieben und teile Daten mit verbundenen Partnern."
           },
           "title": "Spielzeug und Zubehör",
@@ -315,7 +315,7 @@
         },
         "tags": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.tags.title · @:pages.index.title @:pages.app._",
             "description": "Verwalte und nutze individuelle Tags, um deine Aktivitäten noch gezielter zu kategorisieren und auszuwerten."
           },
           "title": "Tags",
@@ -375,7 +375,7 @@
         },
         "calendar": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.calendar.title · @:pages.index.title @:pages.app._",
             "description": "Behalte mit dem Kalender den perfekten Überblick über alle deine Aktivitäten, Meilensteine und besonderen Momente."
           },
           "title": "Kalender",
@@ -437,7 +437,7 @@
         },
         "fucketlist": {
           "meta": {
-            "title": "Fucketlist | Fapstats App",
+            "title": "@:pages.app.features.fucketlist.title · @:pages.index.title @:pages.app._",
             "description": "Erstelle deine persönliche Fucketlist mit aufregenden Erfahrungen und verfolge deinen Fortschritt, während du deine intimsten Wünsche verwirklichst."
           },
           "title": "Fucketlist",
@@ -495,7 +495,7 @@
         },
         "chastity_tracker": {
           "meta": {
-            "title": "Keuschheits-Tracker | Fapstats App",
+            "title": "@:pages.app.features.chastity_tracker.title · @:pages.index.title @:pages.app._",
             "description": "Verfolge deine Keuschheitssitzungen, Schlüsselträgerbeziehungen und detaillierte Statistiken. Teile deine Sitzungen mit deinem Partner und analysiere deine Keuschheitsgeschichte im Laufe der Zeit."
           },
           "title": "Keuschheits-Tracker",
@@ -558,7 +558,7 @@
         },
         "leaderboard": {
           "meta": {
-            "title": "Rangliste | Fapstats App",
+            "title": "@:pages.app.features.leaderboard.title · @:pages.index.title @:pages.app._",
             "description": "Sieh die Top-Nutzer, die nach XP und Level eingestuft werden. Verfolge deinen Fortschritt, vergleiche dich mit anderen und verwalte deine Sichtbarkeit auf der Fapstats Rangliste."
           },
           "title": "Rangliste",
@@ -630,7 +630,7 @@
         },
         "shared_activities": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.shared_activities.title · @:pages.index.title @:pages.app._",
             "description": "Teile Aktivitäten ganz einfach mit deinen verknüpften Partnern in Fapstats. Die Aktivitäten zählen für beide Konten und erscheinen in allen Statistiken."
           },
           "title": "Gemeinsame Aktivitäten",
@@ -686,7 +686,7 @@
         },
         "achievements": {
           "meta": {
-            "title": "Erfolge | Fapstats App",
+            "title": "@:pages.app.features.achievements.title · @:pages.index.title @:pages.app._",
             "description": "Schalte Erfolge frei, indem du Meilensteine erreichst oder Herausforderungen meisterst. Verfolge deinen Fortschritt und erstelle eigene, individuelle Erfolge auf Basis deiner Tags."
           },
           "title": "Erfolge",
@@ -746,7 +746,7 @@
         },
         "records": {
           "meta": {
-            "title": "Rekorde | Fapstats App",
+            "title": "@:pages.app.features.records.title · @:pages.index.title @:pages.app._",
             "description": "Entdecke deine persönlichen Höhepunkte: deine besten Tage, Monate und Allzeit-Rekorde für Aktivitäten, Partner, Spielzeug und mehr."
           },
           "title": "Rekorde",
@@ -804,7 +804,7 @@
         },
         "no_limits": {
           "meta": {
-            "title": "Keine Grenzen | Fapstats App",
+            "title": "@:pages.app.features.no_limits.title · @:pages.index.title @:pages.app._",
             "description": "Fapstats ist komplett kostenlos und hat keine Limits. Verfolge unbegrenzt Aktivitäten, Partner, Spielzeuge, Tags und mehr — ohne Paywall."
           },
           "title": "Keine Grenzen",
@@ -861,7 +861,7 @@
       },
       "changelog": {
         "meta": {
-          "title": "@:pages.index.title @:pages.app._ @:common.changelog",
+          "title": "@:common.changelog · @:pages.index.title @:pages.app._",
           "description": "Entdecke die neuesten Updates und Verbesserungen in der Fapstats App. Bleib immer auf dem Laufenden über neue Funktionen und ein noch besseres Erlebnis."
         },
         "navigation": {
@@ -874,9 +874,9 @@
         "no_changelog": "@:common.no_changelog"
       },
       "global_statistics": {
-        "_": "Globale Statistik",
+        "_": "Globale Statistiken",
         "meta": {
-          "title": "",
+          "title": "@:pages.app.global_statistics._ · @:pages.index.title @:pages.app._",
           "description": "Entdecke die globalen Statistiken von Fapstats und erhalte spannende Einblicke in Trends und Muster der sexuellen Aktivitäten unserer Community. Alle Daten sind vollständig anonymisiert — deine Privatsphäre steht immer an erster Stelle."
         },
         "navigation": {
@@ -940,7 +940,7 @@
         "description": "Entfache das volle Potenzial von Fapstats Braincandy",
         "multiple_screens": {
           "meta": {
-            "title": "Mehrere Bildschirme | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.multiple_screens.title · @:pages.index.title @:pages.braincandy._",
             "description": "Schau dir bis zu 12 Medienbildschirme gleichzeitig in Braincandy an. Perfekt für Power-User, kreative Setups oder einfach alle, die mehr sehen wollen — selbst wenn es 12 Katzenvideos auf einmal sind."
           },
           "title": "Mehrere Bildschirme",
@@ -997,7 +997,7 @@
         },
         "speed": {
           "meta": {
-            "title": "Geschwindigkeit | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.speed.title · @:pages.index.title @:pages.braincandy._",
             "description": "Stell ein, wie schnell Braincandy automatisch zum nächsten Medium springt. Erstelle deine persönliche Diashow — ganz nach deinem Tempo."
           },
           "title": "Geschwindigkeit",
@@ -1056,7 +1056,7 @@
         },
         "media_types": {
           "meta": {
-            "title": "Medientypen | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.media_types.title · @:pages.index.title @:pages.braincandy._",
             "description": "Wähle genau die Medienarten, die du in Braincandy sehen möchtest. Schalte Bilder, GIFs, Videos und Redgifs ein oder aus — für dein perfektes Erlebnis."
           },
           "title": "Medientypen",
@@ -1110,7 +1110,7 @@
         },
         "reddit_presets": {
           "meta": {
-            "title": "Reddit Presets | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.reddit_presets.title · @:pages.index.title @:pages.braincandy._",
             "description": "Entdecke blitzschnell über 60 Kategorien und mehr als 370 Subreddits für Erwachsene mit den Braincandy Reddit-Voreinstellungen. Finde sofort neue Inhalte und genieße dein Erlebnis ohne Umwege."
           },
           "title": "Reddit-Voreinstellungen",
@@ -1165,7 +1165,7 @@
         },
         "subreddits": {
           "meta": {
-            "title": "Subreddits | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.subreddits.title · @:pages.index.title @:pages.braincandy._",
             "description": "Nutze jeden beliebigen Subreddit in Braincandy — wähle aus über 370 Voreinstellungen oder füge deine eigenen hinzu, für maximale Flexibilität."
           },
           "title": "Subreddits",
@@ -1220,7 +1220,7 @@
         },
         "reddit_settings": {
           "meta": {
-            "title": "Reddit-Einstellungen | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.reddit_settings.title · @:pages.index.title @:pages.braincandy._",
             "description": "Passe an, wie du Reddit-Inhalte in Braincandy durchstöberst. Filtere nach Sortierung, Zeitraum und mehr — für dein perfektes Erlebnis."
           },
           "title": "Reddit-Einstellungen",
@@ -1285,7 +1285,7 @@
         },
         "local_files": {
           "meta": {
-            "title": "Lokale Dateien | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.local_files.title · @:pages.index.title @:pages.braincandy._",
             "description": "Sieh dir deine privaten Medienordner direkt von deinem Gerät mit Fapstats Braincandy an. Keine Uploads, keine Kompromisse — nur volle Privatsphäre und Komfort."
           },
           "title": "Lokale Dateien",
@@ -1345,7 +1345,7 @@
         },
         "playlists": {
           "meta": {
-            "title": "Wiedergabelisten | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.playlists.title · @:pages.index.title @:pages.braincandy._",
             "description": "Erstelle, teile und spiele individuelle Wiedergabelisten öffentlicher Medien mit Fapstats Braincandy. Nutze deine eigenen JSON- oder XSPF-Dateien für maximale Flexibilität."
           },
           "title": "Wiedergabelisten",
@@ -1401,7 +1401,7 @@
         },
         "statistics": {
           "meta": {
-            "title": "Statistiken | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.statistics.title · @:pages.index.title @:pages.braincandy._",
             "description": "Sieh dir eine komplette Zusammenfassung deiner Braincandy Session an: Timer, Medienzählungen, Skips und Favoriten. Perfekt, um deine Aktivitäten zu verfolgen."
           },
           "title": "Statistiken",
@@ -1457,7 +1457,7 @@
         },
         "favourites": {
           "meta": {
-            "title": "Favoriten | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.favourites.title · @:pages.index.title @:pages.braincandy._",
             "description": "Markiere deine Lieblingsmedien mit nur einem Klick und sieh oder teile sie nach jeder Session in Fapstats Braincandy."
           },
           "title": "Favoriten",
@@ -1511,7 +1511,7 @@
         },
         "play_pause": {
           "meta": {
-            "title": "Play/Pause | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.play_pause.title · @:pages.index.title @:pages.braincandy._",
             "description": "Pausiere oder starte deine Session jederzeit in Braincandy. Steuere Wiedergabe, Timer und automatisches Überspringen für ein komplett individuelles Erlebnis."
           },
           "title": "Play/Pause",
@@ -1571,7 +1571,7 @@
         },
         "no_limits": {
           "meta": {
-            "title": "Keine Grenzen | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.no_limits.title · @:pages.index.title @:pages.braincandy._",
             "description": "Bei Fapstats Braincandy gibt es keine Limits — sieh dir so viel, so oft und so lange an, wie du möchtest. Genieße unbegrenzte Medien von Reddit, Playlists oder lokalen Dateien — für immer kostenlos!"
           },
           "title": "Keine Grenzen",
@@ -1632,7 +1632,7 @@
       },
       "changelog": {
         "meta": {
-          "title": "@:pages.index.title @:pages.braincandy._ @:common.changelog",
+          "title": "@:common.changelog · @:pages.index.title @:pages.braincandy._",
           "description": "Entdecken Sie die neuesten Updates und Verbesserungen der Fapstats Braincandy. Bleiben Sie über unsere neuesten Funktionen für ein verbessertes Erlebnis informiert."
         },
         "navigation": {
@@ -1744,7 +1744,7 @@
     "blog": {
       "_": "Blog",
       "meta": {
-        "title": "@:pages.blog.title: @:pages.blog.description",
+        "title": "@:pages.index.title @:pages.blog.title · @:pages.blog.description",
         "description": "Informiere dich über sexuelle Gesundheit und Wohlbefinden im Fapstats Blog. Bleib auf dem Laufenden über neueste Forschung, Tipps und Trends für dein sexuelles Wohlbefinden."
       },
       "navigation": {
@@ -1849,16 +1849,16 @@
       }
     },
     "branding": {
-      "_": "Branding",
+      "_": "Unser Branding",
       "meta": {
-        "title": "Unser @:pages.branding._ · @:pages.index.title",
+        "title": "@:pages.branding._ · @:pages.index.title",
         "description": "Branding bei Fapstats: Wir setzen auf eine starke, professionelle Marke."
       },
       "navigation": {
         "title": "@:pages.branding._",
         "description": "Unsere Markenrichtlinien, Farben, Logos, Schriftarten und mehr"
       },
-      "title": "Unser @:pages.branding._",
+      "title": "@:pages.branding._",
       "description": "Fapstats steht für sexuelle Gesundheit, Selbstbewusstsein und Wohlbefinden — und das immer mit einem respektvollen Ansatz. Unser Ziel ist es, dir die beste Nutzererfahrung zu bieten. Wenn du unser Design oder unsere Inhalte verwenden möchtest, fördern wir Stil, Qualität und Zusammenarbeit auf Augenhöhe.",
       "colors": "Farben",
       "logo": {

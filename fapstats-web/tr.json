@@ -137,7 +137,7 @@
         "description": "Fapstats uygulamasının tüm potansiyelini serbest bırakın ve cinsel sağlığınızı iyileştirin",
         "statistics": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.statistics.title · @:pages.index.title @:pages.app._",
             "description": ""
           },
           "title": "İstatistik",
@@ -191,7 +191,7 @@
         },
         "partners": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.partners.title · @:pages.index.title @:pages.app._",
             "description": "Gerçek hayattaki ortaklarınızı ve anahtar sahiplerinizi Fapstats'daki izleyin. Hesapları bağlayın, etkinlikleri analiz edin ve benzersiz bilgileri keşfedin."
           },
           "title": "Ortaklar ve Kilit Sahipleri",
@@ -256,7 +256,7 @@
         },
         "toys": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.toys.title · @:pages.index.title @:pages.app._",
             "description": "Seks oyuncak kullanım istatistiklerinizi izleyin. Frekans, tercihleri ​​analiz edin ve verileri bağlı ortaklarla paylaşın."
           },
           "title": "Oyuncaklar ve Aksesuarlar",
@@ -315,7 +315,7 @@
         },
         "tags": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.tags.title · @:pages.index.title @:pages.app._",
             "description": "Etkinliklerinizi kategorize etmek için özel etiketler oluşturun ve yönetin. Zahmetsiz izleme için otomatik etiketleri kullanın ve özel başarıların kilidini açın."
           },
           "title": "Özel Etiketler",
@@ -375,7 +375,7 @@
         },
         "calendar": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.calendar.title · @:pages.index.title @:pages.app._",
             "description": "Fapstats takvimindeki tüm cinsel aktiviteleriniz hakkında aylık bir genel bakış alın."
           },
           "title": "Takvim",
@@ -437,7 +437,7 @@
         },
         "fucketlist": {
           "meta": {
-            "title": "Fucketlist | Fapstats uygulaması",
+            "title": "@:pages.app.features.fucketlist.title · @:pages.index.title @:pages.app._",
             "description": "Keyifli deneyimlerden oluşan kişisel lanet listenizi oluşturun ve en samimi arzularınızı gerçeğe dönüştürürken ilerlemenizi izleyin."
           },
           "title": "Fucketlist",
@@ -495,7 +495,7 @@
         },
         "chastity_tracker": {
           "meta": {
-            "title": "Chastity Tracker | Fapstats uygulaması",
+            "title": "@:pages.app.features.chastity_tracker.title · @:pages.index.title @:pages.app._",
             "description": "İffet oturumlarınızı, anahtarlık ilişkilerinizi ve ayrıntılı istatistiklerinizi izleyin. Oturumlarınızı eşinizle paylaşın ve iffet geçmişinizi zamanla analiz edin."
           },
           "title": "İffet izleyicisi",
@@ -558,7 +558,7 @@
         },
         "leaderboard": {
           "meta": {
-            "title": "LİDER TABANI | Fapstats uygulaması",
+            "title": "@:pages.app.features.leaderboard.title · @:pages.index.title @:pages.app._",
             "description": "XP ve Level'e göre sıralanan en iyi kullanıcılara bakın. İlerlemenizi izleyin, başkalarıyla karşılaştırın ve Fapstats lider tablosundaki profil görünürlüğünüzü yönetin."
           },
           "title": "Lider tahtası",
@@ -630,7 +630,7 @@
         },
         "shared_activities": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.shared_activities.title · @:pages.index.title @:pages.app._",
             "description": "Fapstats'taki bağlı ortaklarınızla etkinlikleri kolayca paylaşın. Her iki hesap için de faaliyetler sayılır ve tüm istatistiklerde görünür."
           },
           "title": "Paylaşılan faaliyetler",
@@ -686,7 +686,7 @@
         },
         "achievements": {
           "meta": {
-            "title": "Başarılar | Fapstats uygulaması",
+            "title": "@:pages.app.features.achievements.title · @:pages.index.title @:pages.app._",
             "description": "Kilometre taşlarına ulaşarak ve zorlukları tamamlayarak başarıların kilidini açın. İlerlemenizi izleyin ve etiketlerinize göre kendi özel başarılarınızı oluşturun."
           },
           "title": "Başarılar",
@@ -746,7 +746,7 @@
         },
         "records": {
           "meta": {
-            "title": "Kayıtlar | Fapstats uygulaması",
+            "title": "@:pages.app.features.records.title · @:pages.index.title @:pages.app._",
             "description": "Kişisel zevk zirvelerinizi keşfedin: en iyi günleriniz, aylarınız ve etkinlikler, ortaklar, oyuncaklar ve daha fazlası için tüm zamanların kayıtları."
           },
           "title": "Kayıtlar",
@@ -804,7 +804,7 @@
         },
         "no_limits": {
           "meta": {
-            "title": "Sınır yok | Fapstats uygulaması",
+            "title": "@:pages.app.features.no_limits.title · @:pages.index.title @:pages.app._",
             "description": "Fapstats tamamen ücretsizdir ve sınırları yoktur. Bir ödeme duvarına çarpmadan sınırsız etkinlikleri, ortakları, oyuncakları, etiketleri ve daha fazlasını izleyin."
           },
           "title": "Sınır yok",
@@ -861,7 +861,7 @@
       },
       "changelog": {
         "meta": {
-          "title": "@:pages.index.title @:pages.app._ @:common.changelog",
+          "title": "@:common.changelog · @:pages.index.title @:pages.app._",
           "description": "Fapstats uygulamasındaki en son güncellemeleri ve iyileştirmeleri keşfedin. Gelişmiş bir deneyim için en yeni özelliklerimiz hakkında bilgi sahibi olun."
         },
         "navigation": {
@@ -876,7 +876,7 @@
       "global_statistics": {
         "_": "Küresel İstatistikler",
         "meta": {
-          "title": "",
+          "title": "@:pages.app.global_statistics._ · @:pages.index.title @:pages.app._",
           "description": "Fapstats ile ilgili küresel istatistikleri keşfedin ve kullanıcılarımızın cinsel aktivitelerinde eğilimler ve kalıplar hakkında bilgi edin. Gizliliğiniz için tamamen anonimleştirilmiş veriler."
         },
         "navigation": {
@@ -940,7 +940,7 @@
         "description": "Fapstats Braincandy'in tüm potansiyelini serbest bırakın",
         "multiple_screens": {
           "meta": {
-            "title": "Birden Fazla Ekran | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.multiple_screens.title · @:pages.index.title @:pages.braincandy._",
             "description": "Braincandy'de aynı anda en fazla 12 medya ekranını izleyin. Güç kullanıcıları, yaratıcı kurulumlar veya daha fazlasını görmek isteyen herkes için mükemmel - aynı anda sadece 12 kedi videosu olsa bile."
           },
           "title": "Birden fazla ekran",
@@ -997,7 +997,7 @@
         },
         "speed": {
           "meta": {
-            "title": "Hız | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.speed.title · @:pages.index.title @:pages.braincandy._",
             "description": "Braincandy'in otomatik olarak bir sonraki medyaya ne kadar hızlı atladığını ayarlayın. Tam kontrol ile kendi slayt gösterisi deneyiminizi oluşturun."
           },
           "title": "Hız",
@@ -1056,7 +1056,7 @@
         },
         "media_types": {
           "meta": {
-            "title": "Medya Türleri | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.media_types.title · @:pages.index.title @:pages.braincandy._",
             "description": "Brain Candy'de tam olarak hangi medya türlerini görmek istediğinizi seçin. Mükemmel deneyim için görüntüleri, GIF'leri, videoları ve GIF'leri değiştirin."
           },
           "title": "Medya Türleri",
@@ -1110,7 +1110,7 @@
         },
         "reddit_presets": {
           "meta": {
-            "title": "Reddit Ön Ayarlar | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.reddit_presets.title · @:pages.index.title @:pages.braincandy._",
             "description": "Braincandy Reddit ön ayarları ile 60'ın üzerinde kategoriye ve 370'den fazla yetişkin alt bölümüne hızla göz atın. Anında yeni içeriğin tadını çıkarın ve tadını çıkarın."
           },
           "title": "Reddit ön ayarları",
@@ -1165,7 +1165,7 @@
         },
         "subreddits": {
           "meta": {
-            "title": "Alt Reklamlar | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.subreddits.title · @:pages.index.title @:pages.braincandy._",
             "description": "Braincandy'de istediğiniz herhangi bir alt bölüm kullanın - 370'den fazla ön ayar arasından seçim yapın veya nihai esneklik için kendinizi ekleyin."
           },
           "title": "Alt bölümler",
@@ -1220,7 +1220,7 @@
         },
         "reddit_settings": {
           "meta": {
-            "title": "Reddit Ayarları | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.reddit_settings.title · @:pages.index.title @:pages.braincandy._",
             "description": "Braincandy'de Reddit içeriğine nasıl göz attığınızı özelleştirin. Mükemmel deneyim için sıralama, zaman aralığı ve daha fazlasını filtreleyin."
           },
           "title": "Reddit Ayarları",
@@ -1285,7 +1285,7 @@
         },
         "local_files": {
           "meta": {
-            "title": "Yerel Dosyalar | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.local_files.title · @:pages.index.title @:pages.braincandy._",
             "description": "Fapstats Braincandy ile doğrudan cihazınızdan özel medya klasörlerinizi izleyin. Yükleme yok, uzlaşma yok - sadece toplam gizlilik ve rahatlık."
           },
           "title": "Yerel dosyalar",
@@ -1345,7 +1345,7 @@
         },
         "playlists": {
           "meta": {
-            "title": "Oynatma listeleri | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.playlists.title · @:pages.index.title @:pages.braincandy._",
             "description": "Fapstats Braincandy ile kamu medyasının özel çalma listelerini oluşturun, paylaşın ve çalın. Nihai esneklik için kendi JSON veya XSPF dosyalarınızı kullanın."
           },
           "title": "Çalma listeleri",
@@ -1401,7 +1401,7 @@
         },
         "statistics": {
           "meta": {
-            "title": "İstatistikler | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.statistics.title · @:pages.index.title @:pages.braincandy._",
             "description": "Braincandy oturumunuzun tam bir özetine bakın: zamanlayıcılar, medya sayıları, atlamalar ve favoriler. Etkinliğinizi izlemek için mükemmeldir."
           },
           "title": "İstatistik",
@@ -1457,7 +1457,7 @@
         },
         "favourites": {
           "meta": {
-            "title": "Favoriler | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.favourites.title · @:pages.index.title @:pages.braincandy._",
             "description": "En sevdiğiniz medyayı tek bir tıklama ile işaretleyin ve Fapstats Braincandy'deki her oturumdan sonra bunları inceleyin veya paylaşın."
           },
           "title": "Favoriler",
@@ -1511,7 +1511,7 @@
         },
         "play_pause": {
           "meta": {
-            "title": "Oynat/Duraklama | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.play_pause.title · @:pages.index.title @:pages.braincandy._",
             "description": "Seansınızı Braincandy'de istediğiniz zaman duraklatın. Tamamen kişiselleştirilmiş bir deneyim için oynatma, zamanlayıcılar ve otomatik atlama."
           },
           "title": "Oynat/Duraklama",
@@ -1571,7 +1571,7 @@
         },
         "no_limits": {
           "meta": {
-            "title": "Sınır yok | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.no_limits.title · @:pages.index.title @:pages.braincandy._",
             "description": "Fapstats Braincandy ile, ne, ne kadar veya ne kadar süre izleyebileceğiniz konusunda herhangi bir sınır yoktur. Reddit, çalma listeleri veya yerel dosyalardan sınırsız medyanın tadını çıkarın - tamamen ücretsiz, sonsuza dek!"
           },
           "title": "Sınır yok",
@@ -1632,7 +1632,7 @@
       },
       "changelog": {
         "meta": {
-          "title": "@:pages.index.title @:pages.braincandy._ @:common.changelog",
+          "title": "@:common.changelog · @:pages.index.title @:pages.braincandy._",
           "description": "Fapstats Braincandy ile ilgili en son güncellemeleri ve iyileştirmeleri keşfedin. Gelişmiş bir deneyim için en yeni özelliklerimiz hakkında bilgi sahibi olun."
         },
         "navigation": {
@@ -1744,7 +1744,7 @@
     "blog": {
       "_": "Blog",
       "meta": {
-        "title": "@:pages.blog.title: @:pages.blog.description",
+        "title": "@:pages.index.title @:pages.blog.title · @:pages.blog.description",
         "description": "Fapstats bloguyla cinsel sağlık ve sağlıklı yaşam hakkında bilgi sahibi olun. Cinsel refahınızı optimize etmek için en son araştırmalar, ipuçları ve eğilimler konusunda güncel kalın"
       },
       "navigation": {

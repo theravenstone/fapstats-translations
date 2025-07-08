@@ -137,7 +137,7 @@
         "description": "Uwolnij pełny potencjał aplikacji Fapstats i popraw zdrowie seksualne",
         "statistics": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.statistics.title · @:pages.index.title @:pages.app._",
             "description": ""
           },
           "title": "Statystyka",
@@ -191,7 +191,7 @@
         },
         "partners": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.partners.title · @:pages.index.title @:pages.app._",
             "description": "Śledź swoich prawdziwych partnerów i kluczowych posiadaczy w Fapstats. Połącz konta, analizuj działania i odkryj unikalne spostrzeżenia."
           },
           "title": "Partnerzy i kluczowcy",
@@ -256,7 +256,7 @@
         },
         "toys": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.toys.title · @:pages.index.title @:pages.app._",
             "description": "Śledź swoje statystyki wykorzystania zabawek seksualnych. Analizuj częstotliwość, preferencje i udostępnij dane połączonym partnerom."
           },
           "title": "Zabawki i akcesoria",
@@ -315,7 +315,7 @@
         },
         "tags": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.tags.title · @:pages.index.title @:pages.app._",
             "description": "Utwórz i zarządzaj niestandardowymi tagami, aby podzielić swoje działania. Użyj zautomatyzowanych tagów, aby śledzić bez wysiłku i odblokować niestandardowe osiągnięcia."
           },
           "title": "Niestandardowe tagi",
@@ -375,7 +375,7 @@
         },
         "calendar": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.calendar.title · @:pages.index.title @:pages.app._",
             "description": "Uzyskaj wyraźny comiesięczny przegląd wszystkich działań seksualnych w kalendarzu Fapstats."
           },
           "title": "Kalendarz",
@@ -437,7 +437,7 @@
         },
         "fucketlist": {
           "meta": {
-            "title": "FucketList | Aplikacja Fapstats",
+            "title": "@:pages.app.features.fucketlist.title · @:pages.index.title @:pages.app._",
             "description": "Stwórz swoją osobistą fucketlist przyjemnych doświadczeń i śledź swoje postępy, zamieniając swoje najbardziej intymne pragnienia w rzeczywistość."
           },
           "title": "Fucketlist",
@@ -495,10 +495,10 @@
         },
         "chastity_tracker": {
           "meta": {
-            "title": "Chastity Tracker | Aplikacja Fapstats",
+            "title": "@:pages.app.features.chastity_tracker.title · @:pages.index.title @:pages.app._",
             "description": "Śledź swoje sesje czystości, relacje kluczowe i szczegółowe statystyki. Podziel się swoimi sesjami ze swoim partnerem i z czasem przeanalizuj swoją historię czystości."
           },
-          "title": "CHASTity Tracker",
+          "title": "Chastity Tracker",
           "description": "Częstość śledzenia jest przeznaczona dla każdego, kto lubi ćwiczyć czystość, solo, czy z partnerem. Zaloguj się sesje czystości, wybierz posiadacza klucza i podziel się swoim postępem podłączonym partnerowi.",
           "overview": {
             "title": "Co to jest tracker czystości?",
@@ -558,7 +558,7 @@
         },
         "leaderboard": {
           "meta": {
-            "title": "Tablica liderów | Aplikacja Fapstats",
+            "title": "@:pages.app.features.leaderboard.title · @:pages.index.title @:pages.app._",
             "description": "Zobacz najlepszych użytkowników uszeregowanych według XP i poziomu. Śledź swoje postępy, porównaj z innymi i zarządzaj widocznością swojego profilu na tablicy liderów Fapstats."
           },
           "title": "Tabela liderów",
@@ -630,7 +630,7 @@
         },
         "shared_activities": {
           "meta": {
-            "title": "",
+            "title": "@:pages.app.features.shared_activities.title · @:pages.index.title @:pages.app._",
             "description": "Łatwo dzielić się czynnościami z powiązanymi partnerami w Fapstats. Działania liczą oba konta i pojawiają się we wszystkich statystykach."
           },
           "title": "Wspólne działania",
@@ -686,7 +686,7 @@
         },
         "achievements": {
           "meta": {
-            "title": "Osiągnięcia | Aplikacja Fapstats",
+            "title": "@:pages.app.features.achievements.title · @:pages.index.title @:pages.app._",
             "description": "Odblokuj osiągnięcia, osiągając kamienie milowe i wypełniając wyzwania. Śledź swoje postępy i utwórz własne niestandardowe osiągnięcia w oparciu o tagi."
           },
           "title": "Osiągnięcia",
@@ -746,10 +746,10 @@
         },
         "records": {
           "meta": {
-            "title": "Rekordy | Aplikacja Fapstats",
+            "title": "@:pages.app.features.records.title · @:pages.index.title @:pages.app._",
             "description": "Odkryj swoje osobiste szczyty przyjemności: najlepsze dni, miesiące i wszech czasów rekordy działań, partnerów, zabawek i innych."
           },
-          "title": "Dokumentacja",
+          "title": "Rekordy",
           "description": "Twoje szczyty przyjemności! Tutaj znajdziesz swoje osobiste najlepsze na pojedyncze dni, miesiące lub inne okresy - niezależnie od tego, czy jest to większość zajęć, najdłuższych czasów trwania, większość partnerów, czy też więcej. Każdy rekord pokazuje odpowiedni datę, datę lub nazwę partnera lub zabawki.",
           "overview": {
             "title": "Jakie są rekordy?",
@@ -804,7 +804,7 @@
         },
         "no_limits": {
           "meta": {
-            "title": "Brak granic | Aplikacja Fapstats",
+            "title": "@:pages.app.features.no_limits.title · @:pages.index.title @:pages.app._",
             "description": "Fapstats jest całkowicie wolny i nie ma ograniczeń. Śledź nieograniczoną liczbę działań, partnerów, zabawek, tagów i nie tylko - nigdy nie uderzając w wypłatę."
           },
           "title": "Brak granic",
@@ -861,7 +861,7 @@
       },
       "changelog": {
         "meta": {
-          "title": "@:pages.index.title @:pages.app._ @:common.changelog",
+          "title": "@:common.changelog · @:pages.index.title @:pages.app._",
           "description": "Przeglądaj najnowsze aktualizacje i ulepszenia aplikacji Fapstats. Bądź na bieżąco z naszymi najnowszymi funkcjami, aby zwiększyć wrażenia."
         },
         "navigation": {
@@ -876,7 +876,7 @@
       "global_statistics": {
         "_": "Statystyka globalna",
         "meta": {
-          "title": "",
+          "title": "@:pages.app.global_statistics._ · @:pages.index.title @:pages.app._",
           "description": "Przeglądaj globalne statystyki na temat FAPstats i zyskuj wgląd w trendy i wzorce działań seksualnych naszych użytkowników. Całkowicie anonimowe dane dotyczące prywatności."
         },
         "navigation": {
@@ -940,7 +940,7 @@
         "description": "Uwolnij pełny potencjał Fapstats Braincandy",
         "multiple_screens": {
           "meta": {
-            "title": "Wiele ekranów | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.multiple_screens.title · @:pages.index.title @:pages.braincandy._",
             "description": "Obejrzyj do 12 ekranów medialnych jednocześnie w Braincandy. Idealny dla zaawansowanych użytkowników, kreatywnych konfiguracji lub każdego, kto chce zobaczyć więcej - nawet jeśli jest to tylko 12 filmów CAT jednocześnie."
           },
           "title": "Wiele ekranów",
@@ -997,11 +997,11 @@
         },
         "speed": {
           "meta": {
-            "title": "Prędkość | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.speed.title · @:pages.index.title @:pages.braincandy._",
             "description": "Dostosuj, jak szybko Braincandy automatycznie przeskakuje do następnych mediów. Stwórz własne wrażenia z slajdów z pełną kontrolą."
           },
           "title": "Prędkość",
-          "description": "Funkcja Speed ​​pozwala kontrolować, jak szybko Braincandy automatycznie przeskakuje do następnych mediów. Ustaw preferowany przedział dla niestandardowego przeglądania.",
+          "description": "Funkcja Speed pozwala kontrolować, jak szybko Braincandy automatycznie przeskakuje do następnych mediów. Ustaw preferowany przedział dla niestandardowego przeglądania.",
           "overview": {
             "title": "Co to jest prędkość?",
             "headline": "Kontrolować tempo sesji",
@@ -1056,7 +1056,7 @@
         },
         "media_types": {
           "meta": {
-            "title": "Typy mediów | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.media_types.title · @:pages.index.title @:pages.braincandy._",
             "description": "Wybierz dokładnie, jakie rodzaje mediów chcesz zobaczyć w Candy Brain. Przełącz obrazy, gify, filmy i gify, aby uzyskać idealne doświadczenie."
           },
           "title": "Typy mediów",
@@ -1110,7 +1110,7 @@
         },
         "reddit_presets": {
           "meta": {
-            "title": "PRETDIT PRECESETS | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.reddit_presets.title · @:pages.index.title @:pages.braincandy._",
             "description": "Szybko przeglądaj ponad 60 kategorii i ponad 370 dorosłych subredditów z ustawieniami Braincandy Reddit. Natychmiast odkryj i ciesz się nową treścią."
           },
           "title": "Presete Reddit",
@@ -1165,7 +1165,7 @@
         },
         "subreddits": {
           "meta": {
-            "title": "Subreddits | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.subreddits.title · @:pages.index.title @:pages.braincandy._",
             "description": "Użyj dowolnego subreddit, który chcesz w Braincandy - wybierz spośród ponad 370 ustawień wstępnych lub dodaj własną, aby uzyskać najwyższą elastyczność."
           },
           "title": "Subreddits",
@@ -1220,7 +1220,7 @@
         },
         "reddit_settings": {
           "meta": {
-            "title": "Ustawienia Reddit | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.reddit_settings.title · @:pages.index.title @:pages.braincandy._",
             "description": "Dostosuj sposób przeglądania treści Reddit w Braincandy. Filtr przez sortowanie, zasięg czasu i nie tylko idealne doświadczenie."
           },
           "title": "Ustawienia Reddit",
@@ -1285,7 +1285,7 @@
         },
         "local_files": {
           "meta": {
-            "title": "Pliki lokalne | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.local_files.title · @:pages.index.title @:pages.braincandy._",
             "description": "Obserwuj swoje prywatne foldery multimedialne bezpośrednio z urządzenia z Fapstats Braincandy. Bez przesyłania, bez kompromisów - po prostu całkowita prywatność i wygoda."
           },
           "title": "Pliki lokalne",
@@ -1345,7 +1345,7 @@
         },
         "playlists": {
           "meta": {
-            "title": "Listy odtwarzania | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.playlists.title · @:pages.index.title @:pages.braincandy._",
             "description": "Twórz, udostępniaj i odtwarzaj niestandardowe listy odtwarzania mediów publicznych z Fapstats Braincandy. Użyj własnych plików JSON lub XSPF, aby uzyskać ostateczną elastyczność."
           },
           "title": "Listy odtwarzania",
@@ -1401,7 +1401,7 @@
         },
         "statistics": {
           "meta": {
-            "title": "Statystyka | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.statistics.title · @:pages.index.title @:pages.braincandy._",
             "description": "Zobacz pełne podsumowanie sesji Braincandy: Timery, liczba mediów, pomijanie i ulubione. Idealny do śledzenia Twojej aktywności."
           },
           "title": "Statystyka",
@@ -1457,7 +1457,7 @@
         },
         "favourites": {
           "meta": {
-            "title": "Ulubione | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.favourites.title · @:pages.index.title @:pages.braincandy._",
             "description": "Zaznacz swoje ulubione media jednym kliknięciem i przejrzyj je lub udostępnij je po każdej sesji w Fapstats Braincandy."
           },
           "title": "Ulubione",
@@ -1511,7 +1511,7 @@
         },
         "play_pause": {
           "meta": {
-            "title": "Zagraj/pauza | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.play_pause.title · @:pages.index.title @:pages.braincandy._",
             "description": "Zatrzymaj sesję w dowolnym momencie w Braincandy. Kontroluj odtwarzanie, liczniki czasu i automatyczne pomijanie w pełni spersonalizowane wrażenia."
           },
           "title": "Zagraj/pauza",
@@ -1571,7 +1571,7 @@
         },
         "no_limits": {
           "meta": {
-            "title": "Brak granic | Fapstats Braincandy",
+            "title": "@:pages.braincandy.features.no_limits.title · @:pages.index.title @:pages.braincandy._",
             "description": "Dzięki Fapstats Braincandy nie ma ograniczeń co, ile, lub jak długo możesz oglądać. Ciesz się nieograniczonymi mediami z Reddit, List Playliis lub Local Files - całkowicie za darmo, na zawsze!"
           },
           "title": "Brak granic",
@@ -1632,14 +1632,14 @@
       },
       "changelog": {
         "meta": {
-          "title": "@:pages",
+          "title": "@:common.changelog · @:pages.index.title @:pages.braincandy._",
           "description": "Przeglądaj najnowsze aktualizacje i ulepszenia Fapstats Braincandy. Bądź na bieżąco z naszymi najnowszymi funkcjami, aby zwiększyć wrażenia."
         },
         "navigation": {
           "title": "@:common.changelog",
           "description": "@:pages.braincandy.changelog.description"
         },
-        "title": "@:pages",
+        "title": "@:pages.index.title @:pages.braincandy._ @:common.changelog",
         "headline": "@:common.whats_new",
         "description": "Nowe aktualizacje i ulepszenia w FAPStats Braincandy",
         "no_changelog": "@:common.no_changelog"
@@ -1744,7 +1744,7 @@
     "blog": {
       "_": "Blog",
       "meta": {
-        "title": "@:pages.blog.title: @:pages.blog.description",
+        "title": "@:pages.index.title @:pages.blog.title · @:pages.blog.description",
         "description": "Poinformuj się o zdrowiu seksualnym i dobrego samopoczucia na blogu Fapstats. Bądź na bieżąco z najnowszymi badaniami, wskazówkami i trendami w celu optymalizacji dobrego samopoczucia seksualnego"
       },
       "navigation": {
@@ -1849,16 +1849,16 @@
       }
     },
     "branding": {
-      "_": "Budowanie marki",
+      "_": "Nasz Budowanie marki",
       "meta": {
-        "title": "Nasz @:pages.branding._ · @:pages.index.title",
+        "title": "@:pages.branding._ · @:pages.index.title",
         "description": "Branding w Fapstats: Cenimy profesjonalną markę"
       },
       "navigation": {
         "title": "@:pages.branding._",
         "description": "Nasze wytyczne marki, kolory, logo, czcionki i inne"
       },
-      "title": "Nasz @:pages.branding._",
+      "title": "@:pages.branding._",
       "description": "Fapstats to marka, która ceni zdrowie seksualne, samoświadomość i dobre samopoczucie, zachowując pełne szacunku podejście. Priorytetem jest dostarczanie najlepszych wrażeń naszym użytkownikom. Jeśli chcesz korzystać z naszego projektu lub treści, zachęcamy do współpracy w stylu i żądaniach.",
       "colors": "Zabarwienie",
       "logo": {
