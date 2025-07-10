@@ -21,7 +21,7 @@ Decide which project you want to help translate:
   These are used to reference other translations within the file and must remain as they are.
 - Keep placeholders (like `{username}`) intact.
 - Use clear, concise, and neutral language.
-- Avoid slang, jokes, or culturally specific references.
+- Avoid slang or culturally specific references.
 - Follow the original file format (usually JSON).
 
 ## 4. Submit Your Contribution
