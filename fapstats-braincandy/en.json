@@ -1,0 +1,138 @@
+{
+  "common": {
+    "language": "Language",
+    "legal": "Legal",
+    "homepage": "Homepage",
+    "imprint": "Imprint",
+    "privacy_policy": "Privacy",
+    "terms_of_service": "Terms of Service",
+    "images": "Images",
+    "gifs": "GIFs",
+    "videos": "Videos",
+    "redgifs": "Redgifs",
+    "powered_by_x": "Powered by {link}",
+    "total": "Total",
+    "total_media": "Total Media",
+    "active": "Active",
+    "paused": "Paused",
+    "media": "Media",
+    "duration": "Duration",
+    "pause": "Pause",
+    "resume": "Resume",
+    "end_session": "End Session",
+    "skips": "Skips",
+    "favorites": "Favorites",
+    "playlist_generator": "Playlist Generator"
+  },
+  "languages": {
+    "de": "German",
+    "en": "English",
+    "es": "Spanish",
+    "fr": "French",
+    "it": "Italian",
+    "pl": "Polish",
+    "ru": "Russian",
+    "tr": "Turkish"
+  },
+  "time": {
+    "second": "Second",
+    "seconds": "Seconds",
+    "minute": "Minute",
+    "minutes": "Minutes",
+    "hour": "Hour",
+    "hours": "Hours"
+  },
+  "pages": {
+    "index": {
+      "meta": {
+        "title": "Fapstats Braincandy · The only media player you'll ever need",
+        "description": "With up to 12 screens side by side, Reddit integration, and the ability to display local media files, Fapstats Braincandy is the best — and only — media player you'll ever need!"
+      },
+      "title": "Configure your Braincandy",
+      "start_braincandy": "Start Braincandy",
+      "progress_description": "Loaded {loadedSubreddits} / {totalSubreddits} subreddits, {loadedMedia} media found",
+      "no_media": "No media found! Please select at least one source and media type.",
+      "screens": {
+        "title": "Screens",
+        "description": "Decide how many media-players you want to see at the same time"
+      },
+      "speed": {
+        "title": "Speed",
+        "description": "Decide how fast media content should switch: {time}"
+      },
+      "media_types": {
+        "title": "Media Types",
+        "description": "Decide what media type(s) you want to see. We recommend to disable GIFs for better performance"
+      },
+      "reddit": {
+        "title": "Reddit",
+        "reddit_presets": {
+          "title": "Reddit Presets"
+        },
+        "subreddits": {
+          "title": "Subreddits",
+          "add_subreddit": "Add Subreddit"
+        },
+        "reddit_sorting": {
+          "title": "Reddit Sorting",
+          "hot": "Hot",
+          "rising": "Rising",
+          "top": "Top",
+          "controversial": "Controversial"
+        },
+        "reddit_time_range": {
+          "title": "Reddit Time Range",
+          "past_hour": "Past hour",
+          "past_day": "Past 24 hours",
+          "past_week": "Past week",
+          "past_month": "Past month",
+          "past_year": "Past year",
+          "all_time": "All time"
+        },
+        "reddit_sorting_mode": {
+          "title": "Reddit Sorting Mode",
+          "source_rotation": "Source Rotation",
+          "all_mixed": "All Mixed"
+        }
+      },
+      "local_files": {
+        "title": "Local Files",
+        "pick_folder": "Pick Folder",
+        "loaded_x_files": "Loaded {count} files",
+        "no_files_loaded": "No files loaded yet"
+      },
+      "playlists": {
+        "title": "Braincandy Playlist Upload",
+        "loaded_x_media": "Loaded {count} media"
+      }
+    },
+    "age_check": {
+      "meta": {
+        "title": "Age Check · Fapstats Braincandy",
+        "description": "This website contains age-restricted materials including nudity and explicit depictions of sexual activity."
+      },
+      "title": "This is an adult website",
+      "description": "This website contains age-restricted materials including nudity and explicit depictions of sexual activity. By entering, you affirm that you are at least 18 years of age or the age of majority in the jurisdiction you are accessing the website from and you consent to viewing sexually explicit content.",
+      "buttons": {
+        "confirm": "I am 18 or older — Enter",
+        "deny": "I am under 18 — Exit"
+      }
+    },
+    "player": {
+      "meta": {
+        "title": "Media Player · Fapstats Braincandy",
+        "description": "@:pages.index.meta.description"
+      }
+    },
+    "session_statistics": {
+      "meta": {
+        "title": "Session Statistics · Fapstats Braincandy",
+        "description": "@:pages.index.meta.description"
+      },
+      "title": "Session Statistics",
+      "other_statistics": "Other Statistics",
+      "no_statistics": "No session statistics available",
+      "start_new_session": "Start New Session"
+    }
+  }
+}

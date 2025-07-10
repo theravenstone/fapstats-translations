@@ -1,0 +1,138 @@
+{
+  "common": {
+    "language": "Lingua",
+    "legal": "Legale",
+    "homepage": "Homepage",
+    "imprint": "Impressum",
+    "privacy_policy": "Privacy",
+    "terms_of_service": "Termini di servizio",
+    "images": "Immagini",
+    "gifs": "GIF",
+    "videos": "Video",
+    "redgifs": "Redgifs",
+    "powered_by_x": "Fornito da {link}",
+    "total": "Totale",
+    "total_media": "Media totali",
+    "active": "Attivo",
+    "paused": "In pausa",
+    "media": "Media",
+    "duration": "Durata",
+    "pause": "Pausa",
+    "resume": "Riprendi",
+    "end_session": "Termina sessione",
+    "skips": "Salti",
+    "favorites": "Preferiti",
+    "playlist_generator": "Generatore playlist"
+  },
+  "languages": {
+    "de": "Tedesco",
+    "en": "Inglese",
+    "es": "Spagnolo",
+    "fr": "Francese",
+    "it": "Italiano",
+    "pl": "Polacco",
+    "ru": "Russo",
+    "tr": "Turco"
+  },
+  "time": {
+    "second": "Secondo",
+    "seconds": "Secondi",
+    "minute": "Minuto",
+    "minutes": "Minuti",
+    "hour": "Ora",
+    "hours": "Ore"
+  },
+  "pages": {
+    "index": {
+      "meta": {
+        "title": "Fapstats Braincandy · L'unico media player di cui avrai mai bisogno",
+        "description": "Con fino a 12 schermi affiancati, integrazione con Reddit e la possibilità di visualizzare file multimediali locali, Fapstats Braincandy è il miglior — e unico — media player di cui avrai mai bisogno!"
+      },
+      "title": "Configura il tuo Braincandy",
+      "start_braincandy": "Avvia Braincandy",
+      "progress_description": "Caricati {loadedSubreddits} / {totalSubreddits} subreddit, {loadedMedia} media trovati",
+      "no_media": "Nessun media trovato! Seleziona almeno una fonte e un tipo di media.",
+      "screens": {
+        "title": "Schermi",
+        "description": "Decidi quanti media player vuoi vedere contemporaneamente"
+      },
+      "speed": {
+        "title": "Velocità",
+        "description": "Decidi quanto velocemente deve cambiare il contenuto multimediale: {time}"
+      },
+      "media_types": {
+        "title": "Tipi di media",
+        "description": "Decidi quali tipi di media vuoi vedere. Si consiglia di disabilitare i GIF per migliori prestazioni"
+      },
+      "reddit": {
+        "title": "Reddit",
+        "reddit_presets": {
+          "title": "Preset Reddit"
+        },
+        "subreddits": {
+          "title": "Subreddit",
+          "add_subreddit": "Aggiungi subreddit"
+        },
+        "reddit_sorting": {
+          "title": "Ordinamento Reddit",
+          "hot": "Popolari",
+          "rising": "In crescita",
+          "top": "Top",
+          "controversial": "Controversi"
+        },
+        "reddit_time_range": {
+          "title": "Intervallo di tempo Reddit",
+          "past_hour": "Ultima ora",
+          "past_day": "Ultime 24 ore",
+          "past_week": "Ultima settimana",
+          "past_month": "Ultimo mese",
+          "past_year": "Ultimo anno",
+          "all_time": "Tutto il tempo"
+        },
+        "reddit_sorting_mode": {
+          "title": "Modalità di ordinamento Reddit",
+          "source_rotation": "Rotazione fonti",
+          "all_mixed": "Tutto misto"
+        }
+      },
+      "local_files": {
+        "title": "File locali",
+        "pick_folder": "Scegli cartella",
+        "loaded_x_files": "{count} file caricati",
+        "no_files_loaded": "Nessun file caricato"
+      },
+      "playlists": {
+        "title": "Carica playlist Braincandy",
+        "loaded_x_media": "{count} media caricati"
+      }
+    },
+    "age_check": {
+      "meta": {
+        "title": "Verifica età · Fapstats Braincandy",
+        "description": "Questo sito contiene materiale per adulti, inclusa nudità e rappresentazioni esplicite di attività sessuale."
+      },
+      "title": "Questo è un sito per adulti",
+      "description": "Questo sito contiene materiale per adulti, inclusa nudità e rappresentazioni esplicite di attività sessuale. Entrando, confermi di avere almeno 18 anni o l'età legale nel tuo paese e acconsenti alla visione di contenuti sessualmente espliciti.",
+      "buttons": {
+        "confirm": "Ho 18 anni o più — Entra",
+        "deny": "Ho meno di 18 anni — Esci"
+      }
+    },
+    "player": {
+      "meta": {
+        "title": "Media player · Fapstats Braincandy",
+        "description": "@:pages.index.meta.description"
+      }
+    },
+    "session_statistics": {
+      "meta": {
+        "title": "Statistiche sessione · Fapstats Braincandy",
+        "description": "@:pages.index.meta.description"
+      },
+      "title": "Statistiche sessione",
+      "other_statistics": "Altre statistiche",
+      "no_statistics": "Nessuna statistica di sessione disponibile",
+      "start_new_session": "Avvia nuova sessione"
+    }
+  }
+}

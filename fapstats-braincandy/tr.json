@@ -1,0 +1,138 @@
+{
+  "common": {
+    "language": "Dil",
+    "legal": "Hukuki",
+    "homepage": "Ana sayfa",
+    "imprint": "Impressum",
+    "privacy_policy": "Gizlilik",
+    "terms_of_service": "Kullanım Şartları",
+    "images": "Resimler",
+    "gifs": "GIF'ler",
+    "videos": "Videolar",
+    "redgifs": "Redgifs",
+    "powered_by_x": "{link} tarafından desteklenmektedir",
+    "total": "Toplam",
+    "total_media": "Toplam Medya",
+    "active": "Aktif",
+    "paused": "Duraklatıldı",
+    "media": "Medya",
+    "duration": "Süre",
+    "pause": "Duraklat",
+    "resume": "Devam et",
+    "end_session": "Oturumu Bitir",
+    "skips": "Atlamalar",
+    "favorites": "Favoriler",
+    "playlist_generator": "Çalma Listesi Oluşturucu"
+  },
+  "languages": {
+    "de": "Almanca",
+    "en": "İngilizce",
+    "es": "İspanyolca",
+    "fr": "Fransızca",
+    "it": "İtalyanca",
+    "pl": "Lehçe",
+    "ru": "Rusça",
+    "tr": "Türkçe"
+  },
+  "time": {
+    "second": "Saniye",
+    "seconds": "Saniye",
+    "minute": "Dakika",
+    "minutes": "Dakika",
+    "hour": "Saat",
+    "hours": "Saat"
+  },
+  "pages": {
+    "index": {
+      "meta": {
+        "title": "Fapstats Braincandy · İhtiyacınız olan tek medya oynatıcı",
+        "description": "Yan yana 12 ekrana kadar, Reddit entegrasyonu ve yerel medya dosyalarını gösterme yeteneği ile Fapstats Braincandy, ihtiyacınız olan en iyi — ve tek — medya oynatıcıdır!"
+      },
+      "title": "Braincandy'ni yapılandır",
+      "start_braincandy": "Braincandy'yi Başlat",
+      "progress_description": "{loadedSubreddits} / {totalSubreddits} subreddit yüklendi, {loadedMedia} medya bulundu",
+      "no_media": "Medya bulunamadı! Lütfen en az bir kaynak ve medya türü seçin.",
+      "screens": {
+        "title": "Ekranlar",
+        "description": "Aynı anda kaç medya oynatıcı görmek istediğine karar ver"
+      },
+      "speed": {
+        "title": "Hız",
+        "description": "Medya içeriğinin ne kadar hızlı değişeceğine karar ver: {time}"
+      },
+      "media_types": {
+        "title": "Medya Türleri",
+        "description": "Hangi medya tür(ler)ini görmek istediğine karar ver. Daha iyi performans için GIF'leri devre dışı bırakmanızı öneririz"
+      },
+      "reddit": {
+        "title": "Reddit",
+        "reddit_presets": {
+          "title": "Reddit Ön Ayarları"
+        },
+        "subreddits": {
+          "title": "Subredditler",
+          "add_subreddit": "Subreddit ekle"
+        },
+        "reddit_sorting": {
+          "title": "Reddit Sıralama",
+          "hot": "Popüler",
+          "rising": "Yükselen",
+          "top": "En İyi",
+          "controversial": "Tartışmalı"
+        },
+        "reddit_time_range": {
+          "title": "Reddit Zaman Aralığı",
+          "past_hour": "Son saat",
+          "past_day": "Son 24 saat",
+          "past_week": "Geçen hafta",
+          "past_month": "Geçen ay",
+          "past_year": "Geçen yıl",
+          "all_time": "Tüm zamanlar"
+        },
+        "reddit_sorting_mode": {
+          "title": "Reddit Sıralama Modu",
+          "source_rotation": "Kaynak Rotasyonu",
+          "all_mixed": "Hepsi Karışık"
+        }
+      },
+      "local_files": {
+        "title": "Yerel Dosyalar",
+        "pick_folder": "Klasör Seç",
+        "loaded_x_files": "{count} dosya yüklendi",
+        "no_files_loaded": "Henüz dosya yüklenmedi"
+      },
+      "playlists": {
+        "title": "Braincandy Çalma Listesi Yükle",
+        "loaded_x_media": "{count} medya yüklendi"
+      }
+    },
+    "age_check": {
+      "meta": {
+        "title": "Yaş Kontrolü · Fapstats Braincandy",
+        "description": "Bu web sitesi çıplaklık ve cinsel içerikli materyaller dahil olmak üzere yaşa özel materyaller içermektedir."
+      },
+      "title": "Bu bir yetişkin web sitesidir",
+      "description": "Bu web sitesi çıplaklık ve cinsel içerikli materyaller dahil olmak üzere yaşa özel materyaller içermektedir. Giriş yaparak, en az 18 yaşında olduğunuzu veya bulunduğunuz yerdeki reşit olma yaşında olduğunuzu ve cinsel içerikli materyalleri görüntülemeye rıza gösterdiğinizi beyan edersiniz.",
+      "buttons": {
+        "confirm": "18 yaşındayım veya daha büyük — Giriş",
+        "deny": "18 yaşından küçüğüm — Çıkış"
+      }
+    },
+    "player": {
+      "meta": {
+        "title": "Medya Oynatıcı · Fapstats Braincandy",
+        "description": "@:pages.index.meta.description"
+      }
+    },
+    "session_statistics": {
+      "meta": {
+        "title": "Oturum İstatistikleri · Fapstats Braincandy",
+        "description": "@:pages.index.meta.description"
+      },
+      "title": "Oturum İstatistikleri",
+      "other_statistics": "Diğer İstatistikler",
+      "no_statistics": "Oturum istatistiği yok",
+      "start_new_session": "Yeni Oturum Başlat"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "common": {
+    "language": "Язык",
+    "legal": "Правовая информация",
+    "homepage": "Главная страница",
+    "imprint": "Импрессум",
+    "privacy_policy": "Политика конфиденциальности",
+    "terms_of_service": "Условия обслуживания",
+    "images": "Изображения",
+    "gifs": "GIF",
+    "videos": "Видео",
+    "redgifs": "Redgifs",
+    "powered_by_x": "Работает на {link}",
+    "total": "Всего",
+    "total_media": "Всего медиа",
+    "active": "Активно",
+    "paused": "Пауза",
+    "media": "Медиа",
+    "duration": "Длительность",
+    "pause": "Пауза",
+    "resume": "Продолжить",
+    "end_session": "Завершить сессию",
+    "skips": "Пропуски",
+    "favorites": "Избранное",
+    "playlist_generator": "Генератор плейлистов"
+  },
+  "languages": {
+    "de": "Немецкий",
+    "en": "Английский",
+    "es": "Испанский",
+    "fr": "Французский",
+    "it": "Итальянский",
+    "pl": "Польский",
+    "ru": "Русский",
+    "tr": "Турецкий"
+  },
+  "time": {
+    "second": "Секунда",
+    "seconds": "Секунды",
+    "minute": "Минута",
+    "minutes": "Минуты",
+    "hour": "Час",
+    "hours": "Часы"
+  },
+  "pages": {
+    "index": {
+      "meta": {
+        "title": "Fapstats Braincandy · Единственный медиаплеер, который вам понадобится",
+        "description": "С до 12 экранами рядом, интеграцией с Reddit и возможностью отображения локальных медиафайлов, Fapstats Braincandy — лучший и единственный медиаплеер, который вам когда-либо понадобится!"
+      },
+      "title": "Настройте свой Braincandy",
+      "start_braincandy": "Запустить Braincandy",
+      "progress_description": "Загружено {loadedSubreddits} / {totalSubreddits} сабреддитов, найдено {loadedMedia} медиа",
+      "no_media": "Медиа не найдено! Пожалуйста, выберите хотя бы один источник и тип медиа.",
+      "screens": {
+        "title": "Экраны",
+        "description": "Решите, сколько медиаплееров вы хотите видеть одновременно"
+      },
+      "speed": {
+        "title": "Скорость",
+        "description": "Решите, как быстро должен меняться контент: {time}"
+      },
+      "media_types": {
+        "title": "Типы медиа",
+        "description": "Выберите, какие типы медиа вы хотите видеть. Рекомендуем отключить GIF для лучшей производительности"
+      },
+      "reddit": {
+        "title": "Reddit",
+        "reddit_presets": {
+          "title": "Пресеты Reddit"
+        },
+        "subreddits": {
+          "title": "Сабреддиты",
+          "add_subreddit": "Добавить сабреддит"
+        },
+        "reddit_sorting": {
+          "title": "Сортировка Reddit",
+          "hot": "Горячее",
+          "rising": "Растущее",
+          "top": "Топ",
+          "controversial": "Спорное"
+        },
+        "reddit_time_range": {
+          "title": "Период Reddit",
+          "past_hour": "Последний час",
+          "past_day": "Последние 24 часа",
+          "past_week": "Последняя неделя",
+          "past_month": "Последний месяц",
+          "past_year": "Последний год",
+          "all_time": "Все время"
+        },
+        "reddit_sorting_mode": {
+          "title": "Режим сортировки Reddit",
+          "source_rotation": "Ротация источников",
+          "all_mixed": "Все вперемешку"
+        }
+      },
+      "local_files": {
+        "title": "Локальные файлы",
+        "pick_folder": "Выбрать папку",
+        "loaded_x_files": "Загружено файлов: {count}",
+        "no_files_loaded": "Файлы еще не загружены"
+      },
+      "playlists": {
+        "title": "Загрузка плейлиста Braincandy",
+        "loaded_x_media": "Загружено медиа: {count}"
+      }
+    },
+    "age_check": {
+      "meta": {
+        "title": "Проверка возраста · Fapstats Braincandy",
+        "description": "Этот сайт содержит материалы для взрослых, включая наготу и откровенные сцены сексуальной активности."
+      },
+      "title": "Это сайт для взрослых",
+      "description": "Этот сайт содержит материалы для взрослых, включая наготу и откровенные сцены сексуальной активности. Входя, вы подтверждаете, что вам не менее 18 лет или вы достигли совершеннолетия в вашей юрисдикции и согласны просматривать откровенный контент.",
+      "buttons": {
+        "confirm": "Мне 18 лет или больше — Войти",
+        "deny": "Мне меньше 18 — Выйти"
+      }
+    },
+    "player": {
+      "meta": {
+        "title": "Медиаплеер · Fapstats Braincandy",
+        "description": "@:pages.index.meta.description"
+      }
+    },
+    "session_statistics": {
+      "meta": {
+        "title": "Статистика сессии · Fapstats Braincandy",
+        "description": "@:pages.index.meta.description"
+      },
+      "title": "Статистика сессии",
+      "other_statistics": "Другая статистика",
+      "no_statistics": "Нет доступной статистики сессии",
+      "start_new_session": "Начать новую сессию"
+    }
+  }
+}
