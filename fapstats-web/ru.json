@@ -125,7 +125,7 @@
         "description": ""
       },
       "navigation": {
-        "title": "@:common.overview",
+        "title": "@:pages.app._ @:common.overview",
         "description": "@:pages.app.headline"
       },
       "title": "@:pages.index.title @:pages.app._",
@@ -865,7 +865,7 @@
           "description": "Исследуйте последние обновления и улучшения в приложении Fapstats. Будьте в курсе наших новейших функций для улучшенного опыта."
         },
         "navigation": {
-          "title": "@:common.changelog",
+          "title": "@:pages.app._ @:common.changelog",
           "description": "@:pages.app.changelog.description"
         },
         "title": "@:pages.index.title @:pages.app._ @:common.changelog",
@@ -928,7 +928,7 @@
         "description": "@:pages.braincandy.description"
       },
       "navigation": {
-        "title": "@:common.overview",
+        "title": "@:pages.braincandy._ @:common.overview",
         "description": "@:pages.braincandy.headline"
       },
       "title": "@:pages.index.title @:pages.braincandy._",
@@ -1350,7 +1350,7 @@
           },
           "title": "Плейлисты",
           "description": "С плейлистами Braincandy вы можете играть на индивидуальные коллекции медиа из любого места в Интернете. Просто загрузите файл плейлиста и начните смотреть!",
-          "playlist_generator": "Генератор плейлиста",
+          "playlist_generator": "@:pages.braincandy.playlist_generator._",
           "overview": {
             "title": "Что такое плейлисты?",
             "headline": "Пользовательские медиа -коллекции сделаны простыми",
@@ -1636,13 +1636,44 @@
           "description": "Исследуйте последние обновления и улучшения на Fapstats Braincandy. Будьте в курсе наших новейших функций для улучшенного опыта."
         },
         "navigation": {
-          "title": "@:common.changelog",
+          "title": "@:pages.braincandy._ @:common.changelog",
           "description": "@:pages.braincandy.changelog.description"
         },
         "title": "@:pages.index.title @:pages.braincandy._ @:common.changelog",
         "headline": "@:common.whats_new",
         "description": "Новые обновления и улучшения для Fapstats Braincandy",
         "no_changelog": "@:common.no_changelog"
+      },
+      "playlist_generator": {
+        "_": "Генератор плейлистов",
+        "meta": {
+          "title": "@:pages.braincandy.playlist_generator._ · @:pages.index.title @:pages.braincandy._",
+          "description": "Создавайте свои собственные плейлисты Braincandy с помощью нашего генератора и используйте их сколько угодно или делитесь с друзьями."
+        },
+        "navigation": {
+          "title": "@:pages.braincandy._ @:pages.braincandy.playlist_generator._",
+          "description": "@:pages.braincandy.playlist_generator.meta.description"
+        },
+        "title": "@:pages.braincandy._ @:pages.braincandy.playlist_generator._",
+        "description": "Создать плейлист Braincandy из URL",
+        "download_playlist": "Скачать плейлист",
+        "validate_and_create_json": "Проверить и создать JSON",
+        "validating": "Проверка...",
+        "validation": "Проверка",
+        "input": "Ввод",
+        "enter_urls": "Введите URL (по одному на строку)",
+        "valid_media_types": "Допустимые типы медиа",
+        "total": "Всего",
+        "media_types": {
+          "images": "Изображения",
+          "gifs": "GIF",
+          "videos": "Видео"
+        },
+        "status": {
+          "valid": "Действительно",
+          "invalid": "Недействительно",
+          "duplicate": "Дубликат"
+        }
       }
     },
     "ovulation_calculator": {
@@ -1744,7 +1775,7 @@
     "blog": {
       "_": "Блог",
       "meta": {
-        "title": "@:pages.index.title @:pages.blog.title · @:pages.blog.description",
+        "title": "@:pages.index.title @:pages.blog._ · @:pages.blog.description",
         "description": "Получите информацию о сексуальном здоровье и благополучии в блоге Fapstats. Будьте в курсе последних исследований, советов и тенденций, чтобы оптимизировать ваше сексуальное благополучие"
       },
       "navigation": {

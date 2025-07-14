@@ -125,7 +125,7 @@
         "description": ""
       },
       "navigation": {
-        "title": "@:common.overview",
+        "title": "@:pages.app._ @:common.overview",
         "description": "@:pages.app.headline"
       },
       "title": "@:pages.index.title @:pages.app._",
@@ -865,7 +865,7 @@
           "description": "Entdecke die neuesten Updates und Verbesserungen in der Fapstats App. Bleib immer auf dem Laufenden über neue Funktionen und ein noch besseres Erlebnis."
         },
         "navigation": {
-          "title": "@:common.changelog",
+          "title": "@:pages.app._ @:common.changelog",
           "description": "@:pages.app.changelog.description"
         },
         "title": "@:pages.index.title @:pages.app._ @:common.changelog",
@@ -928,7 +928,7 @@
         "description": "@:pages.braincandy.description"
       },
       "navigation": {
-        "title": "@:common.overview",
+        "title": "@:pages.braincandy._ @:common.overview",
         "description": "@:pages.braincandy.headline"
       },
       "title": "@:pages.index.title @:pages.braincandy._",
@@ -1350,7 +1350,7 @@
           },
           "title": "Wiedergabelisten",
           "description": "Mit Braincandy Playlists kannst du von überall im Web eigene Mediensammlungen abspielen. Lade einfach eine Playlist-Datei und leg los!",
-          "playlist_generator": "Playlist-Generator",
+          "playlist_generator": "@:pages.braincandy.playlist_generator._",
           "overview": {
             "title": "Was sind Wiedergabelisten?",
             "headline": "Eigene Mediensammlungen leicht gemacht",
@@ -1636,13 +1636,44 @@
           "description": "Entdecken Sie die neuesten Updates und Verbesserungen der Fapstats Braincandy. Bleiben Sie über unsere neuesten Funktionen für ein verbessertes Erlebnis informiert."
         },
         "navigation": {
-          "title": "@:common.changelog",
+          "title": "@:pages.braincandy._ @:common.changelog",
           "description": "@:pages.braincandy.changelog.description"
         },
         "title": "@:pages.index.title @:pages.braincandy._ @:common.changelog",
         "headline": "@:common.whats_new",
         "description": "Neue Updates und Verbesserungen an Fapstats Braincandy",
         "no_changelog": "@:common.no_changelog"
+      },
+      "playlist_generator": {
+        "_": "Playlist-Generator",
+        "meta": {
+          "title": "@:pages.braincandy.playlist_generator._ · @:pages.index.title @:pages.braincandy._",
+          "description": "Erstelle deine eigenen Braincandy-Playlists mit unserem Generator und nutze sie beliebig oft oder teile sie mit Freunden."
+        },
+        "navigation": {
+          "title": "@:pages.braincandy._ @:pages.braincandy.playlist_generator._",
+          "description": "@:pages.braincandy.playlist_generator.meta.description"
+        },
+        "title": "@:pages.braincandy._ @:pages.braincandy.playlist_generator._",
+        "description": "Erstelle eine Braincandy-Playlist aus URLs",
+        "download_playlist": "Playlist herunterladen",
+        "validate_and_create_json": "Validieren & JSON erstellen",
+        "validating": "Validiere...",
+        "validation": "Validierung",
+        "input": "Eingabe",
+        "enter_urls": "URLs eingeben (eine pro Zeile)",
+        "valid_media_types": "Gültige Medientypen",
+        "total": "Gesamt",
+        "media_types": {
+          "images": "Bilder",
+          "gifs": "GIFs",
+          "videos": "Videos"
+        },
+        "status": {
+          "valid": "Gültig",
+          "invalid": "Ungültig",
+          "duplicate": "Duplikat"
+        }
       }
     },
     "ovulation_calculator": {
@@ -1744,7 +1775,7 @@
     "blog": {
       "_": "Blog",
       "meta": {
-        "title": "@:pages.index.title @:pages.blog.title · @:pages.blog.description",
+        "title": "@:pages.index.title @:pages.blog._ · @:pages.blog.description",
         "description": "Informiere dich über sexuelle Gesundheit und Wohlbefinden im Fapstats Blog. Bleib auf dem Laufenden über neueste Forschung, Tipps und Trends für dein sexuelles Wohlbefinden."
       },
       "navigation": {

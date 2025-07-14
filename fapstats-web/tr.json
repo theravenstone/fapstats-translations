@@ -125,7 +125,7 @@
         "description": ""
       },
       "navigation": {
-        "title": "@:common.overview",
+        "title": "@:pages.app._ @:common.overview",
         "description": "@:pages.app.headline"
       },
       "title": "@:pages.index.title @:pages.app._",
@@ -865,7 +865,7 @@
           "description": "Fapstats uygulamasındaki en son güncellemeleri ve iyileştirmeleri keşfedin. Gelişmiş bir deneyim için en yeni özelliklerimiz hakkında bilgi sahibi olun."
         },
         "navigation": {
-          "title": "@:common.changelog",
+          "title": "@:pages.app._ @:common.changelog",
           "description": "@:pages.app.changelog.description"
         },
         "title": "@:pages.index.title @:pages.app._ @:common.changelog",
@@ -925,10 +925,10 @@
       "_": "Braincandy",
       "meta": {
         "title": "@:pages.index.title @:pages.braincandy._ · @:pages.braincandy.headline",
-        "description": "@:pages.braincandy.deletcription"
+        "description": "@:pages.braincandy.description"
       },
       "navigation": {
-        "title": "@:common.overview",
+        "title": "@:pages.braincandy._ @:common.overview",
         "description": "@:pages.braincandy.headline"
       },
       "title": "@:pages.index.title @:pages.braincandy._",
@@ -1350,7 +1350,7 @@
           },
           "title": "Çalma listeleri",
           "description": "Braincandy çalma listeleriyle, web'in herhangi bir yerinden özel medya koleksiyonları çalabilirsiniz. Sadece bir çalma listesi dosyası yükleyin ve izlemeye başlayın!",
-          "playlist_generator": "Çalma Listesi Jeneratörü",
+          "playlist_generator": "@:pages.braincandy.playlist_generator._",
           "overview": {
             "title": "Çalma listeleri nedir?",
             "headline": "Özel medya koleksiyonları kolaylaştırılmış",
@@ -1636,13 +1636,44 @@
           "description": "Fapstats Braincandy ile ilgili en son güncellemeleri ve iyileştirmeleri keşfedin. Gelişmiş bir deneyim için en yeni özelliklerimiz hakkında bilgi sahibi olun."
         },
         "navigation": {
-          "title": "@:common.changelog",
+          "title": "@:pages.braincandy._ @:common.changelog",
           "description": "@:pages.braincandy.changelog.description"
         },
         "title": "@:pages.index.title @:pages.braincandy._ @:common.changelog",
         "headline": "@:common.whats_new",
         "description": "Fapstats Braincandy'de Yeni Güncellemeler ve İyileştirmeler",
         "no_changelog": "@:common.no_changelog"
+      },
+      "playlist_generator": {
+        "_": "Çalma Listesi Oluşturucu",
+        "meta": {
+          "title": "@:pages.braincandy.playlist_generator._ · @:pages.index.title @:pages.braincandy._",
+          "description": "Kendi Braincandy çalma listelerinizi oluşturun ve istediğiniz kadar kullanın veya arkadaşlarınızla paylaşın."
+        },
+        "navigation": {
+          "title": "@:pages.braincandy._ @:pages.braincandy.playlist_generator._",
+          "description": "@:pages.braincandy.playlist_generator.meta.description"
+        },
+        "title": "@:pages.braincandy._ @:pages.braincandy.playlist_generator._",
+        "description": "URL'lerden Braincandy Çalma Listesi Oluştur",
+        "download_playlist": "Çalma Listesini İndir",
+        "validate_and_create_json": "Doğrula & JSON Oluştur",
+        "validating": "Doğrulanıyor...",
+        "validation": "Doğrulama",
+        "input": "Girdi",
+        "enter_urls": "URL'leri girin (her satıra bir tane)",
+        "valid_media_types": "Geçerli medya türleri",
+        "total": "Toplam",
+        "media_types": {
+          "images": "Resimler",
+          "gifs": "GIF'ler",
+          "videos": "Videolar"
+        },
+        "status": {
+          "valid": "Geçerli",
+          "invalid": "Geçersiz",
+          "duplicate": "Çift"
+        }
       }
     },
     "ovulation_calculator": {
@@ -1744,7 +1775,7 @@
     "blog": {
       "_": "Blog",
       "meta": {
-        "title": "@:pages.index.title @:pages.blog.title · @:pages.blog.description",
+        "title": "@:pages.index.title @:pages.blog._ · @:pages.blog.description",
         "description": "Fapstats bloguyla cinsel sağlık ve sağlıklı yaşam hakkında bilgi sahibi olun. Cinsel refahınızı optimize etmek için en son araştırmalar, ipuçları ve eğilimler konusunda güncel kalın"
       },
       "navigation": {

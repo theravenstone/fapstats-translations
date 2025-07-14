@@ -125,7 +125,7 @@
         "description": ""
       },
       "navigation": {
-        "title": "@:common.overview",
+        "title": "@:pages.app._ @:common.overview",
         "description": "@:pages.app.headline"
       },
       "title": "@:pages.index.title @:pages.app._",
@@ -865,7 +865,7 @@
           "description": "Explorez les dernières mises à jour et améliorations sur l'application Fapstats. Restez informé de nos dernières fonctionnalités pour une expérience améliorée."
         },
         "navigation": {
-          "title": "@:common.changelog",
+          "title": "@:pages.app._ @:common.changelog",
           "description": "@:pages.app.changelog.description"
         },
         "title": "@:pages.index.title @:pages.app._ @:common.changelog",
@@ -928,7 +928,7 @@
         "description": "@:pages.braincandy.description"
       },
       "navigation": {
-        "title": "@:common.overview",
+        "title": "@:pages.braincandy._ @:common.overview",
         "description": "@:pages.braincandy.headline"
       },
       "title": "@:pages.index.title @:pages.braincandy._",
@@ -1350,7 +1350,7 @@
           },
           "title": "Playlists",
           "description": "Avec Braincandy Playlists, vous pouvez lire des collections personnalisées de médias de n'importe où sur le Web. Chargez simplement un fichier de playlist et commencez à regarder!",
-          "playlist_generator": "Générateur de playlist",
+          "playlist_generator": "@:pages.braincandy.playlist_generator._",
           "overview": {
             "title": "Que sont les listes de lecture?",
             "headline": "Les collections de médias personnalisés sont facilitées",
@@ -1636,13 +1636,44 @@
           "description": "Explorez les dernières mises à jour et améliorations sur Fapstats Braincandy. Restez informé de nos dernières fonctionnalités pour une expérience améliorée."
         },
         "navigation": {
-          "title": "@:common.changelog",
+          "title": "@:pages.braincandy._ @:common.changelog",
           "description": "@:pages.braincandy.changelog.description"
         },
         "title": "@:pages.index.title @:pages.braincandy._ @:common.changelog",
         "headline": "@:common.whats_new",
         "description": "Nouvelles mises à jour et améliorations à Fapstats Braincandy",
         "no_changelog": "@:common.no_changelog"
+      },
+      "playlist_generator": {
+        "_": "Générateur de playlists",
+        "meta": {
+          "title": "@:pages.braincandy.playlist_generator._ · @:pages.index.title @:pages.braincandy._",
+          "description": "Générez vos propres playlists Braincandy avec notre générateur et utilisez-les autant que vous le souhaitez ou partagez-les avec des amis."
+        },
+        "navigation": {
+          "title": "@:pages.braincandy._ @:pages.braincandy.playlist_generator._",
+          "description": "@:pages.braincandy.playlist_generator.meta.description"
+        },
+        "title": "@:pages.braincandy._ @:pages.braincandy.playlist_generator._",
+        "description": "Créer une playlist Braincandy à partir d'URLs",
+        "download_playlist": "Télécharger la playlist",
+        "validate_and_create_json": "Valider et créer le JSON",
+        "validating": "Validation...",
+        "validation": "Validation",
+        "input": "Entrée",
+        "enter_urls": "Entrez les URLs (une par ligne)",
+        "valid_media_types": "Types de médias valides",
+        "total": "Total",
+        "media_types": {
+          "images": "Images",
+          "gifs": "GIFs",
+          "videos": "Vidéos"
+        },
+        "status": {
+          "valid": "Valide",
+          "invalid": "Invalide",
+          "duplicate": "Dupliqué"
+        }
       }
     },
     "ovulation_calculator": {
@@ -1744,7 +1775,7 @@
     "blog": {
       "_": "Blog",
       "meta": {
-        "title": "@:pages.index.title @:pages.blog.title · @:pages.blog.description",
+        "title": "@:pages.index.title @:pages.blog._ · @:pages.blog.description",
         "description": "Soyez informé de la santé sexuelle et du bien-être avec le blog Fapstats. Restez à jour sur les dernières recherches, conseils et tendances pour optimiser votre bien-être sexuel"
       },
       "navigation": {

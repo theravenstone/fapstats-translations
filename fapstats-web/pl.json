@@ -125,7 +125,7 @@
         "description": ""
       },
       "navigation": {
-        "title": "@:common.overview",
+        "title": "@:pages.app._ @:common.overview",
         "description": "@:pages.app.headline"
       },
       "title": "@:pages.index.title @:pages.app._",
@@ -865,7 +865,7 @@
           "description": "Przeglądaj najnowsze aktualizacje i ulepszenia aplikacji Fapstats. Bądź na bieżąco z naszymi najnowszymi funkcjami, aby zwiększyć wrażenia."
         },
         "navigation": {
-          "title": "@:common.changelog",
+          "title": "@:pages.app._ @:common.changelog",
           "description": "@:pages.app.changelog.description"
         },
         "title": "@:pages.index.title @:pages.app._ @:common.changelog",
@@ -928,7 +928,7 @@
         "description": "@:pages.braincandy.description"
       },
       "navigation": {
-        "title": "@:common.overview",
+        "title": "@:pages.braincandy._ @:common.overview",
         "description": "@:pages.braincandy.headline"
       },
       "title": "@:pages.index.title @:pages.braincandy._",
@@ -1350,7 +1350,7 @@
           },
           "title": "Listy odtwarzania",
           "description": "Dzięki Braincandy Playlists możesz odtwarzać niestandardowe kolekcje mediów z dowolnego miejsca w sieci. Po prostu załaduj plik odtwarzania i zacznij oglądać!",
-          "playlist_generator": "Generator odtwarzania",
+          "playlist_generator": "@:pages.braincandy.playlist_generator._",
           "overview": {
             "title": "Co to są listy odtwarzania?",
             "headline": "Niestandardowe kolekcje multimediów są łatwe",
@@ -1636,13 +1636,44 @@
           "description": "Przeglądaj najnowsze aktualizacje i ulepszenia Fapstats Braincandy. Bądź na bieżąco z naszymi najnowszymi funkcjami, aby zwiększyć wrażenia."
         },
         "navigation": {
-          "title": "@:common.changelog",
+          "title": "@:pages.braincandy._ @:common.changelog",
           "description": "@:pages.braincandy.changelog.description"
         },
         "title": "@:pages.index.title @:pages.braincandy._ @:common.changelog",
         "headline": "@:common.whats_new",
         "description": "Nowe aktualizacje i ulepszenia w FAPStats Braincandy",
         "no_changelog": "@:common.no_changelog"
+      },
+      "playlist_generator": {
+        "_": "Generator odtwarzania",
+        "meta": {
+          "title": "@:pages.braincandy.playlist_generator._ · @:pages.index.title @:pages.braincandy._",
+          "description": "Twórz własne playlisty Braincandy za pomocą naszego generatora i używaj ich dowolnie często lub udostępniaj znajomym."
+        },
+        "navigation": {
+          "title": "@:pages.braincandy._ @:pages.braincandy.playlist_generator._",
+          "description": "@:pages.braincandy.playlist_generator.meta.description"
+        },
+        "title": "@:pages.braincandy._ @:pages.braincandy.playlist_generator._",
+        "description": "Utwórz playlistę Braincandy z adresów URL",
+        "download_playlist": "Pobierz playlistę",
+        "validate_and_create_json": "Sprawdź i utwórz JSON",
+        "validating": "Sprawdzanie...",
+        "validation": "Walidacja",
+        "input": "Wejście",
+        "enter_urls": "Wprowadź adresy URL (jeden na linię)",
+        "valid_media_types": "Prawidłowe typy mediów",
+        "total": "Łącznie",
+        "media_types": {
+          "images": "Obrazy",
+          "gifs": "GIF-y",
+          "videos": "Wideo"
+        },
+        "status": {
+          "valid": "Prawidłowy",
+          "invalid": "Nieprawidłowy",
+          "duplicate": "Duplikat"
+        }
       }
     },
     "ovulation_calculator": {
@@ -1744,7 +1775,7 @@
     "blog": {
       "_": "Blog",
       "meta": {
-        "title": "@:pages.index.title @:pages.blog.title · @:pages.blog.description",
+        "title": "@:pages.index.title @:pages.blog._ · @:pages.blog.description",
         "description": "Poinformuj się o zdrowiu seksualnym i dobrego samopoczucia na blogu Fapstats. Bądź na bieżąco z najnowszymi badaniami, wskazówkami i trendami w celu optymalizacji dobrego samopoczucia seksualnego"
       },
       "navigation": {

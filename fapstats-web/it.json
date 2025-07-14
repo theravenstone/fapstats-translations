@@ -125,8 +125,8 @@
         "description": ""
       },
       "navigation": {
-        "title": "@:common.overview",
-        "description": "@:pages.App.headline"
+        "title": "@:pages.app._ @:common.overview",
+        "description": "@:pages.app.headline"
       },
       "title": "@:pages.index.title @:pages.app._",
       "headline": "Tracker di sesso, masturbazione e castità",
@@ -865,8 +865,8 @@
           "description": "Esplora gli ultimi aggiornamenti e miglioramenti all'app Fapstats. Rimani informato sulle nostre nuove funzionalità per un'esperienza migliorata."
         },
         "navigation": {
-          "title": "@:common.changelog",
-          "description": "@:pages.App.changelog.description"
+          "title": "@:pages.app._ @:common.changelog",
+          "description": "@:pages.app.changelog.description"
         },
         "title": "@:pages.index.title @:pages.app._ @:common.changelog",
         "headline": "@:common.whats_new",
@@ -928,7 +928,7 @@
         "description": "@:pages.braincandy.description"
       },
       "navigation": {
-        "title": "@:common.overview",
+        "title": "@:pages.braincandy._ @:common.overview",
         "description": "@:pages.braincandy.headline"
       },
       "title": "@:pages.index.title @:pages.braincandy._",
@@ -1350,7 +1350,7 @@
           },
           "title": "Playlists",
           "description": "Con le playlist di Braincandy, puoi giocare collezioni personalizzate di media da qualsiasi luogo sul web. Basta caricare un file di playlist e iniziare a guardare!",
-          "playlist_generator": "Generatore di playlist",
+          "playlist_generator": "@:pages.braincandy.playlist_generator._",
           "overview": {
             "title": "Cosa sono le playlist?",
             "headline": "Collezioni di media personalizzate rese facili",
@@ -1636,13 +1636,44 @@
           "description": "Esplora gli ultimi aggiornamenti e miglioramenti su Fapstats Braincandy. Rimani informato sulle nostre nuove funzionalità per un'esperienza migliorata."
         },
         "navigation": {
-          "title": "@:common.changelog",
+          "title": "@:pages.braincandy._ @:common.changelog",
           "description": "@:pages.braincandy.changelog.description"
         },
         "title": "@:pages.index.title @:pages.braincandy._ @:common.changelog",
         "headline": "@:common.whats_new",
         "description": "Nuovi aggiornamenti e miglioramenti a Fapstats Braincandy",
         "no_changelog": "@:common.no_changelog"
+      },
+      "playlist_generator": {
+        "_": "Generatore playlist",
+        "meta": {
+          "title": "@:pages.braincandy.playlist_generator._ · @:pages.index.title @:pages.braincandy._",
+          "description": "Genera le tue playlist Braincandy con il nostro generatore e usale tutte le volte che vuoi o condividile con gli amici."
+        },
+        "navigation": {
+          "title": "@:pages.braincandy._ @:pages.braincandy.playlist_generator._",
+          "description": "@:pages.braincandy.playlist_generator.meta.description"
+        },
+        "title": "@:pages.braincandy._ @:pages.braincandy.playlist_generator._",
+        "description": "Crea una playlist Braincandy da URL",
+        "download_playlist": "Scarica playlist",
+        "validate_and_create_json": "Valida e crea JSON",
+        "validating": "Validazione...",
+        "validation": "Validazione",
+        "input": "Input",
+        "enter_urls": "Inserisci URL (uno per riga)",
+        "valid_media_types": "Tipi di media validi",
+        "total": "Totale",
+        "media_types": {
+          "images": "Immagini",
+          "gifs": "GIF",
+          "videos": "Video"
+        },
+        "status": {
+          "valid": "Valido",
+          "invalid": "Non valido",
+          "duplicate": "Duplicato"
+        }
       }
     },
     "ovulation_calculator": {
@@ -1744,7 +1775,7 @@
     "blog": {
       "_": "Blog",
       "meta": {
-        "title": "@:pages.index.title @:pages.blog.title · @:pages.blog.description",
+        "title": "@:pages.index.title @:pages.blog._ · @:pages.blog.description",
         "description": "Fatti informare sulla salute sessuale e sul benessere con il blog Fapstats. Rimani aggiornato sulle ultime ricerche, suggerimenti e tendenze per ottimizzare il tuo benessere sessuale"
       },
       "navigation": {
