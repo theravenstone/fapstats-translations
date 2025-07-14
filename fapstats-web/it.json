@@ -194,7 +194,7 @@
             "title": "@:pages.app.features.partners.title · @:pages.index.title @:pages.app._",
             "description": "Tieni traccia dei tuoi partner della vita reale e dei principali titolari di Fapstats. Connetti gli account, analizza le attività e scopri approfondimenti unici."
           },
-          "title": "Partner e chiave di chiave",
+          "title": "Partner e titolari di chiavi",
           "description": "Aggiungi i tuoi partner sessuali nella vita reale o i principali proprietari di castità ai Fapstats per sbloccare statistiche dettagliate e specifiche del partner. Facoltativamente collegare l'account Fapstats del tuo partner per il monitoraggio condiviso.",
           "overview": {
             "title": "Cos'è un partner Fapstats?",
@@ -868,8 +868,8 @@
           "title": "@:pages.app._ @:common.changelog",
           "description": "@:pages.app.changelog.description"
         },
-        "title": "@:pages.index.title @:pages.app._ @:common.changelog",
-        "headline": "@:common.whats_new",
+        "title": "@:common.whats_new",
+        "headline": "@:pages.index.title @:pages.app._ @:common.changelog",
         "description": "Nuovi aggiornamenti e miglioramenti all'app Fapstats",
         "no_changelog": "@:common.no_changelog"
       },
@@ -1639,8 +1639,8 @@
           "title": "@:pages.braincandy._ @:common.changelog",
           "description": "@:pages.braincandy.changelog.description"
         },
-        "title": "@:pages.index.title @:pages.braincandy._ @:common.changelog",
-        "headline": "@:common.whats_new",
+        "title": "@:common.whats_new",
+        "headline": "@:pages.index.title @:pages.braincandy._ @:common.changelog",
         "description": "Nuovi aggiornamenti e miglioramenti a Fapstats Braincandy",
         "no_changelog": "@:common.no_changelog"
       },

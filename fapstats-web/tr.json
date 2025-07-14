@@ -868,8 +868,8 @@
           "title": "@:pages.app._ @:common.changelog",
           "description": "@:pages.app.changelog.description"
         },
-        "title": "@:pages.index.title @:pages.app._ @:common.changelog",
-        "headline": "@:common.whats_new",
+        "title": "@:common.whats_new",
+        "headline": "@:pages.index.title @:pages.app._ @:common.changelog",
         "description": "Fapstats uygulamasında yeni güncellemeler ve iyileştirmeler",
         "no_changelog": "@:common.no_changelog"
       },
@@ -1880,7 +1880,7 @@
       }
     },
     "branding": {
-      "_": "Marka",
+      "_": "Markalaşma",
       "meta": {
         "title": "@:pages.branding._ · @:pages.index.title",
         "description": "Fapstats'ta Markalaşma: Profesyonel bir markaya değer veriyoruz"

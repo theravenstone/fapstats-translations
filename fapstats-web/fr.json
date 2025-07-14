@@ -868,8 +868,8 @@
           "title": "@:pages.app._ @:common.changelog",
           "description": "@:pages.app.changelog.description"
         },
-        "title": "@:pages.index.title @:pages.app._ @:common.changelog",
-        "headline": "@:common.whats_new",
+        "title": "@:common.whats_new",
+        "headline": "@:pages.index.title @:pages.app._ @:common.changelog",
         "description": "Nouvelles mises à jour et améliorations de l'application Fapstats",
         "no_changelog": "@:common.no_changelog"
       },
@@ -1639,8 +1639,8 @@
           "title": "@:pages.braincandy._ @:common.changelog",
           "description": "@:pages.braincandy.changelog.description"
         },
-        "title": "@:pages.index.title @:pages.braincandy._ @:common.changelog",
-        "headline": "@:common.whats_new",
+        "title": "@:common.whats_new",
+        "headline": "@:pages.index.title @:pages.braincandy._ @:common.changelog",
         "description": "Nouvelles mises à jour et améliorations à Fapstats Braincandy",
         "no_changelog": "@:common.no_changelog"
       },

@@ -868,8 +868,8 @@
           "title": "@:pages.app._ @:common.changelog",
           "description": "@:pages.app.changelog.description"
         },
-        "title": "@:pages.index.title @:pages.app._ @:common.changelog",
-        "headline": "@:common.whats_new",
+        "title": "@:common.whats_new",
+        "headline": "@:pages.index.title @:pages.app._ @:common.changelog",
         "description": "New updates and improvements to the Fapstats App",
         "no_changelog": "@:common.no_changelog"
       },
@@ -1639,8 +1639,8 @@
           "title": "@:pages.braincandy._ @:common.changelog",
           "description": "@:pages.braincandy.changelog.description"
         },
-        "title": "@:pages.index.title @:pages.braincandy._ @:common.changelog",
-        "headline": "@:common.whats_new",
+        "title": "@:common.whats_new",
+        "headline": "@:pages.index.title @:pages.braincandy._ @:common.changelog",
         "description": "New updates and improvements to Fapstats Braincandy",
         "no_changelog": "@:common.no_changelog"
       },
@@ -1787,7 +1787,7 @@
       "no_articles": "There are no articles available for your language"
     },
     "about": {
-      "_": "About",
+      "_": "About Us",
       "meta": {
         "title": "@:pages.about._ · @:pages.index.title",
         "description": "Fapstats is an ecosystem of apps and websites designed to provide solutions and tools for your everyday sexual life"

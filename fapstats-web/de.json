@@ -689,8 +689,8 @@
             "title": "@:pages.app.features.achievements.title · @:pages.index.title @:pages.app._",
             "description": "Schalte Erfolge frei, indem du Meilensteine erreichst oder Herausforderungen meisterst. Verfolge deinen Fortschritt und erstelle eigene, individuelle Erfolge auf Basis deiner Tags."
           },
-          "title": "Erfolge",
-          "description": "Erfolge sind Meilensteine, die du freischaltest, wenn du bestimmte Ziele erreichst oder Herausforderungen meisterst. Jeder Erfolg hat drei Stufen, die durch Sterne angezeigt werden. Ist ein Stern gefüllt, hast du die jeweilige Stufe abgeschlossen. Du kannst auch eigene Erfolge basierend auf individuellen Tags erstellen.",
+          "title": "Errungenschaften",
+          "description": "Errungenschaften, auch als Erfolge bekannt, sind besondere Meilensteine, die du freischaltest, sobald du bestimmte Ziele erreichst oder Herausforderungen meisterst. Jeder Erfolg besteht aus drei Stufen, die durch Sterne symbolisiert werden. Ein gefüllter Stern zeigt an, dass du die jeweilige Stufe bereits abgeschlossen hast. Zusätzlich hast du die Möglichkeit, eigene Erfolge auf Basis von individuellen Tags zu erstellen.",
           "overview": {
             "title": "Was sind Erfolge?",
             "headline": "Verfolge deine Fortschritte und Meilensteine",
@@ -868,8 +868,8 @@
           "title": "@:pages.app._ @:common.changelog",
           "description": "@:pages.app.changelog.description"
         },
-        "title": "@:pages.index.title @:pages.app._ @:common.changelog",
-        "headline": "@:common.whats_new",
+        "title": "@:common.whats_new",
+        "headline": "@:pages.index.title @:pages.app._ @:common.changelog",
         "description": "Hier findest du alle neuen Updates und Verbesserungen der Fapstats App.",
         "no_changelog": "@:common.no_changelog"
       },
@@ -932,7 +932,7 @@
         "description": "@:pages.braincandy.headline"
       },
       "title": "@:pages.index.title @:pages.braincandy._",
-      "headline": "Der einzige Mediaplayer, den du jemals brauchst",
+      "headline": "Der einzige Mediaplayer, den du je brauchst",
       "description": "Mit bis zu 12 Bildschirmen nebeneinander, Reddit-Integration und der Möglichkeit, lokale Mediendateien abzuspielen, ist Fapstats Braincandy der beste — und einzige — Mediaplayer, den du je brauchen wirst!",
       "features": {
         "title": "Funktionen",
@@ -1639,8 +1639,8 @@
           "title": "@:pages.braincandy._ @:common.changelog",
           "description": "@:pages.braincandy.changelog.description"
         },
-        "title": "@:pages.index.title @:pages.braincandy._ @:common.changelog",
-        "headline": "@:common.whats_new",
+        "title": "@:common.whats_new",
+        "headline": "@:pages.index.title @:pages.braincandy._ @:common.changelog",
         "description": "Neue Updates und Verbesserungen an Fapstats Braincandy",
         "no_changelog": "@:common.no_changelog"
       },
