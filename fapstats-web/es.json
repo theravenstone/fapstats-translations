@@ -119,7 +119,7 @@
       }
     },
     "app": {
-      "_": "Aplicación",
+      "_": "App",
       "meta": {
         "title": "@:pages.index.title @:pages.app._ · @:pages.app.headline",
         "description": ""

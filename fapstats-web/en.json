@@ -1404,7 +1404,7 @@
             "title": "@:pages.braincandy.features.statistics.title · @:pages.index.title @:pages.braincandy._",
             "description": "See a full summary of your Braincandy session: timers, media counts, skips, and favourites. Perfect for tracking your activity."
           },
-          "title": "Statistics",
+          "title": "Session Statistics",
           "description": "At the end of every Braincandy session, you get a detailed summary of your activity. See exactly how long you spent, how much you watched, and what you favourited.",
           "overview": {
             "title": "What Are Session Statistics?",

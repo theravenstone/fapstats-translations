@@ -1404,7 +1404,7 @@
             "title": "@:pages.braincandy.features.statistics.title · @:pages.index.title @:pages.braincandy._",
             "description": "Sieh dir eine komplette Zusammenfassung deiner Braincandy Session an: Timer, Medienzählungen, Skips und Favoriten. Perfekt, um deine Aktivitäten zu verfolgen."
           },
-          "title": "Statistiken",
+          "title": "Sitzungsstatistiken",
           "description": "Am Ende jeder Braincandy Session bekommst du eine detaillierte Zusammenfassung deiner Aktivität. Sieh genau, wie lange du geschaut hast, wie viel du gesehen hast und was deine Favoriten waren.",
           "overview": {
             "title": "Was sind Sitzungsstatistiken?",
