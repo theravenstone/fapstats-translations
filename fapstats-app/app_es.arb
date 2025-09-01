@@ -426,6 +426,7 @@
   "unexpectedError": "Error inesperado",
   "invalidFriendcode": "Código de amigo inválido",
   "youAreOffline": "Estás desconectado",
+  "invalidLoginCredentials": "Credenciales de inicio de sesión no válidas",
   "updateYourLanguage": "Actualiza tu idioma",
   "chastityDuration": "Duración de castidad",
   "totalUsers": "Usuarios totales",
@@ -534,5 +535,7 @@
   "pisces": "Piscis",
   "youAreAPerfectMatch": "Ustedes encajan perfectamente",
   "youAreAGoodMatch": "Ustedes encajan bien",
-  "youAreNotCompatible": "Ustedes no encajan"
+  "youAreNotCompatible": "Ustedes no encajan",
+  "keyholdingDetails": "Detalles de Keyholding",
+  "lockCode": "código de bloqueo"
 }

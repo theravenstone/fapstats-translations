@@ -426,6 +426,7 @@
   "unexpectedError": "Неожиданная ошибка",
   "invalidFriendcode": "Неверный код друга",
   "youAreOffline": "Вы офлайн",
+  "invalidLoginCredentials": "Неверные данные для входа",
   "updateYourLanguage": "Обновите язык",
   "chastityDuration": "Время целомудрия",
   "totalUsers": "Всего пользователей",
@@ -534,5 +535,7 @@
   "pisces": "Рыбы",
   "youAreAPerfectMatch": "Вы идеально подходите друг другу",
   "youAreAGoodMatch": "Вы хорошо подходите друг другу",
-  "youAreNotCompatible": "Вы не подходите друг другу"
+  "youAreNotCompatible": "Вы не подходите друг другу",
+  "keyholdingDetails": "Детали Keyholding",
+  "lockCode": "код блокировки"
 }

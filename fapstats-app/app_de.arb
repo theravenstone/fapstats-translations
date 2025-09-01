@@ -426,6 +426,7 @@
   "unexpectedError": "Unerwarteter Fehler",
   "invalidFriendcode": "Ungültiger Freundescode",
   "youAreOffline": "Du bist offline",
+  "invalidLoginCredentials": "Ungültige Anmeldedaten",
   "updateYourLanguage": "Aktualisiere deine Sprache",
   "chastityDuration": "Dauer der Keuschheit",
   "totalUsers": "Gesamte Nutzer",
@@ -534,5 +535,7 @@
   "pisces": "Fisch",
   "youAreAPerfectMatch": "Ihr passt perfekt zusammen",
   "youAreAGoodMatch": "Ihr passt gut zusammen",
-  "youAreNotCompatible": "Ihr passt nicht zusammen"
+  "youAreNotCompatible": "Ihr passt nicht zusammen",
+  "keyholdingDetails": "Keyholding Details",
+  "lockCode": "Schlossnummer"
 }

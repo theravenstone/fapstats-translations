@@ -1025,6 +1025,8 @@
   "@invalidFriendcode": {},
   "youAreOffline": "You are offline",
   "@youAreOffline": {},
+  "invalidLoginCredentials": "Invalid login credentials",
+  "@invalidLoginCredentials": {},
   "updateYourLanguage": "Update your language",
   "@updateYourLanguage": {},
   "chastityDuration": "Chastity Duration",
@@ -1279,5 +1281,9 @@
   "youAreNotCompatible": "You are Not Compatible",
   "@youAreNotCompatible": {
     "description": "Compatibility status indicating no compatibility"
-  }
+  },
+  "keyholdingDetails": "Keyholding Details",
+  "@keyholdingDetails": {},
+  "lockCode": "Lock Code",
+  "@lockCode": {}
 }

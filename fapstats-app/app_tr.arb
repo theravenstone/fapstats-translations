@@ -426,6 +426,7 @@
   "unexpectedError": "Beklenmeyen hata",
   "invalidFriendcode": "Geçersiz arkadaş kodu",
   "youAreOffline": "Çevrimdışısınız",
+  "invalidLoginCredentials": "Geçersiz giriş bilgileri",
   "updateYourLanguage": "Dilini güncelle",
   "chastityDuration": "Sadakat süresi",
   "totalUsers": "Toplam kullanıcı",
@@ -534,5 +535,7 @@
   "pisces": "Balık",
   "youAreAPerfectMatch": "Birbirinize mükemmel uyuyorsunuz",
   "youAreAGoodMatch": "Birbirinize iyi uyuyorsunuz",
-  "youAreNotCompatible": "Birbirinize uymuyorsunuz"
+  "youAreNotCompatible": "Birbirinize uymuyorsunuz",
+  "keyholdingDetails": "Keyholding Detayları",
+  "lockCode": "kilit kodu"
 }

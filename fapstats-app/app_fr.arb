@@ -426,6 +426,7 @@
   "unexpectedError": "Erreur inattendue",
   "invalidFriendcode": "Code d’ami invalide",
   "youAreOffline": "Vous êtes hors ligne",
+  "invalidLoginCredentials": "Identifiants de connexion non valides",
   "updateYourLanguage": "Mettez à jour votre langue",
   "chastityDuration": "Durée de chasteté",
   "totalUsers": "Nombre total d’utilisateurs",
@@ -534,5 +535,7 @@
   "pisces": "Poissons",
   "youAreAPerfectMatch": "Vous allez parfaitement ensemble",
   "youAreAGoodMatch": "Vous allez bien ensemble",
-  "youAreNotCompatible": "Vous n'allez pas ensemble"
+  "youAreNotCompatible": "Vous n'allez pas ensemble",
+  "keyholdingDetails": "Détails de Keyholding",
+  "lockCode": "code de verrouillage"
 }
