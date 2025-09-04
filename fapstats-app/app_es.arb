@@ -427,6 +427,7 @@
   "invalidFriendcode": "Código de amigo inválido",
   "youAreOffline": "Estás desconectado",
   "invalidLoginCredentials": "Credenciales de inicio de sesión no válidas",
+  "emailNotConfirmed": "Correo electrónico no confirmado",
   "updateYourLanguage": "Actualiza tu idioma",
   "chastityDuration": "Duración de castidad",
   "totalUsers": "Usuarios totales",

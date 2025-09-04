@@ -427,6 +427,7 @@
   "invalidFriendcode": "Неверный код друга",
   "youAreOffline": "Вы офлайн",
   "invalidLoginCredentials": "Неверные данные для входа",
+  "emailNotConfirmed": "Электронная почта не подтверждена",
   "updateYourLanguage": "Обновите язык",
   "chastityDuration": "Время целомудрия",
   "totalUsers": "Всего пользователей",

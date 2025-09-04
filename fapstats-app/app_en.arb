@@ -1027,6 +1027,8 @@
   "@youAreOffline": {},
   "invalidLoginCredentials": "Invalid login credentials",
   "@invalidLoginCredentials": {},
+  "emailNotConfirmed": "Email not confirmed",
+  "@emailNotConfirmed": {},
   "updateYourLanguage": "Update your language",
   "@updateYourLanguage": {},
   "chastityDuration": "Chastity Duration",

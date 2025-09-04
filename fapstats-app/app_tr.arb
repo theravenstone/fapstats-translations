@@ -427,6 +427,7 @@
   "invalidFriendcode": "Geçersiz arkadaş kodu",
   "youAreOffline": "Çevrimdışısınız",
   "invalidLoginCredentials": "Geçersiz giriş bilgileri",
+  "emailNotConfirmed": "E-posta onaylanmadı",
   "updateYourLanguage": "Dilini güncelle",
   "chastityDuration": "Sadakat süresi",
   "totalUsers": "Toplam kullanıcı",
