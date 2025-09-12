@@ -22,7 +22,17 @@
     "end_session": "Terminer la session",
     "skips": "Passages",
     "favorites": "Favoris",
-    "playlist_generator": "Générateur de playlists"
+    "playlist_generator": "Générateur de playlists",
+    "flag": "Drapeau",
+    "sex": "Sexe",
+    "masturbation": "Masturbation",
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "sign_in": "Se connecter",
+    "or_sign_in_with": "Ou se connecter avec",
+    "open_x": "Ouvrir {name}",
+    "open_x_in_browser": "Ouvrir {name} dans le navigateur",
+    "fapstats_app": "Application Fapstats"
   },
   "languages": {
     "de": "Allemand",
@@ -40,7 +50,11 @@
     "minute": "Minute",
     "minutes": "Minutes",
     "hour": "Heure",
-    "hours": "Heures"
+    "hours": "Heures",
+    "morning": "Matin",
+    "afternoon": "Après-midi",
+    "evening": "Soirée",
+    "night": "Nuit"
   },
   "pages": {
     "index": {
@@ -60,6 +74,14 @@
         "title": "Vitesse",
         "description": "Décidez à quelle vitesse le contenu doit changer : {time}"
       },
+      "beatmeter": {
+        "title": "Métronome de masturbation",
+        "description": "Définis le tempo auquel tu dois te branler (expérimental)",
+        "enable_beatmeter": "Activer le Beatmeter",
+        "beep_sound": "Bip rythmique",
+        "minimum_speed": "Vitesse minimale de strokes",
+        "maximum_speed": "Vitesse maximale de strokes"
+      },
       "media_types": {
         "title": "Types de médias",
         "description": "Décidez quels types de médias vous souhaitez voir. Nous recommandons de désactiver les GIFs pour de meilleures performances"
@@ -68,6 +90,9 @@
         "title": "Reddit",
         "reddit_presets": {
           "title": "Préréglages Reddit"
+        },
+        "pornstar_presets": {
+          "title": "Préréglages Porn Star"
         },
         "subreddits": {
           "title": "Subreddits",
@@ -132,7 +157,27 @@
       "title": "Statistiques de session",
       "other_statistics": "Autres statistiques",
       "no_statistics": "Aucune statistique de session disponible",
-      "start_new_session": "Démarrer une nouvelle session"
+      "start_new_session": "Démarrer une nouvelle session",
+      "track_with_fapstats_app": {
+        "title": "Suivre avec l'application Fapstats",
+        "date_of_activity": "Date de l'activité",
+        "time_of_day": {
+          "title": "Moment de la journée"
+        },
+        "type_of_activity": "Type d'activité",
+        "rating": "Évaluation",
+        "partners": "Partenaires",
+        "select_partners": "Sélectionner partenaire(s)",
+        "toys": "Jouets",
+        "select_toys": "Sélectionner le(s) jouet(s)",
+        "tags": "Tags",
+        "select_tags": "Sélectionner le(s) tag(s)",
+        "notes": "Notes",
+        "create_activity": "Créer une activité",
+        "change_account": "Changer de compte",
+        "activity_created_with_fapstats_braincandy": "Activité créée avec Fapstats Braincandy",
+        "activity_successfully_created": "Activité créée avec succès"
+      }
     }
   }
 }

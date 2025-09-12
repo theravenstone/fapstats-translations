@@ -22,7 +22,17 @@
     "end_session": "End Session",
     "skips": "Skips",
     "favorites": "Favorites",
-    "playlist_generator": "Playlist Generator"
+    "playlist_generator": "Playlist Generator",
+    "flag": "Flag",
+    "sex": "Sex",
+    "masturbation": "Masturbation",
+    "email": "Email",
+    "password": "Password",
+    "sign_in": "Sign In",
+    "or_sign_in_with": "Or sign in with",
+    "open_x": "Open {name}",
+    "open_x_in_browser": "Open {name} in Browser",
+    "fapstats_app": "Fapstats App"
   },
   "languages": {
     "de": "German",
@@ -40,7 +50,11 @@
     "minute": "Minute",
     "minutes": "Minutes",
     "hour": "Hour",
-    "hours": "Hours"
+    "hours": "Hours",
+    "morning": "Morning",
+    "afternoon": "Afternoon",
+    "evening": "Evening",
+    "night": "Night"
   },
   "pages": {
     "index": {
@@ -50,7 +64,7 @@
       },
       "title": "Configure your Braincandy",
       "start_braincandy": "Start Braincandy",
-      "progress_description": "Loaded {loadedSubreddits} / {totalSubreddits} subreddits, {loadedMedia} media found",
+      "progress_description": "Loaded {loadedSubreddits} / {totalSubreddits} subreddit(s), {loadedMedia} media found",
       "no_media": "No media found! Please select at least one source and media type.",
       "screens": {
         "title": "Screens",
@@ -60,6 +74,14 @@
         "title": "Speed",
         "description": "Decide how fast media content should switch: {time}"
       },
+      "beatmeter": {
+        "title": "Stroke",
+        "description": "Decide how fast the stroke should be (experimental)",
+        "enable_beatmeter": "Enable Beatmeter",
+        "beep_sound": "Beep Sound",
+        "minimum_speed": "Minimum Speed",
+        "maximum_speed": "Maximum Speed"
+      },
       "media_types": {
         "title": "Media Types",
         "description": "Decide what media type(s) you want to see. We recommend to disable GIFs for better performance"
@@ -68,6 +90,9 @@
         "title": "Reddit",
         "reddit_presets": {
           "title": "Reddit Presets"
+        },
+        "pornstar_presets": {
+          "title": "Porn Star Presets"
         },
         "subreddits": {
           "title": "Subreddits",
@@ -132,7 +157,27 @@
       "title": "Session Statistics",
       "other_statistics": "Other Statistics",
       "no_statistics": "No session statistics available",
-      "start_new_session": "Start New Session"
+      "start_new_session": "Start New Session",
+      "track_with_fapstats_app": {
+        "title": "Track with Fapstats App",
+        "date_of_activity": "Date of activity",
+        "time_of_day": {
+          "title": "Time of day"
+        },
+        "type_of_activity": "Type of activity",
+        "rating": "Rating",
+        "partners": "Partners",
+        "select_partners": "Select Partner(s)",
+        "toys": "Toys",
+        "select_toys": "Select Toy(s)",
+        "tags": "Tags",
+        "select_tags": "Select Tag(s)",
+        "notes": "Notes",
+        "create_activity": "Create Activity",
+        "change_account": "Change Account",
+        "activity_created_with_fapstats_braincandy": "Activity created with Fapstats Braincandy",
+        "activity_successfully_created": "Activity successfully created"
+      }
     }
   }
 }

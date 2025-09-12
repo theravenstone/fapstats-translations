@@ -22,7 +22,17 @@
     "end_session": "Oturumu Bitir",
     "skips": "Atlamalar",
     "favorites": "Favoriler",
-    "playlist_generator": "Çalma Listesi Oluşturucu"
+    "playlist_generator": "Çalma Listesi Oluşturucu",
+    "flag": "Bayrak",
+    "sex": "Seks",
+    "masturbation": "Mastürbasyon",
+    "email": "E-posta",
+    "password": "Parola",
+    "sign_in": "Giriş yap",
+    "or_sign_in_with": "Veya bununla giriş yap",
+    "open_x": "{name} aç",
+    "open_x_in_browser": "{name} tarayıcıda aç",
+    "fapstats_app": "Fapstats Uygulaması"
   },
   "languages": {
     "de": "Almanca",
@@ -40,7 +50,11 @@
     "minute": "Dakika",
     "minutes": "Dakika",
     "hour": "Saat",
-    "hours": "Saat"
+    "hours": "Saat",
+    "morning": "Sabah",
+    "afternoon": "Öğleden sonra",
+    "evening": "Akşam",
+    "night": "Gece"
   },
   "pages": {
     "index": {
@@ -60,6 +74,14 @@
         "title": "Hız",
         "description": "Medya içeriğinin ne kadar hızlı değişeceğine karar ver: {time}"
       },
+      "beatmeter": {
+        "title": "Mastürbasyon metronomu",
+        "description": "Hangi tempoda mastürbasyon yapacağını ayarla (deneysel)",
+        "enable_beatmeter": "Beatmeter'i etkinleştir",
+        "beep_sound": "Ritmik bip sesi",
+        "minimum_speed": "Minimum strok hızı",
+        "maximum_speed": "Maksimum strok hızı"
+      },
       "media_types": {
         "title": "Medya Türleri",
         "description": "Hangi medya tür(ler)ini görmek istediğine karar ver. Daha iyi performans için GIF'leri devre dışı bırakmanızı öneririz"
@@ -68,6 +90,9 @@
         "title": "Reddit",
         "reddit_presets": {
           "title": "Reddit Ön Ayarları"
+        },
+        "pornstar_presets": {
+          "title": "Porno Yıldızı Ön Ayarları"
         },
         "subreddits": {
           "title": "Subredditler",
@@ -132,7 +157,27 @@
       "title": "Oturum İstatistikleri",
       "other_statistics": "Diğer İstatistikler",
       "no_statistics": "Oturum istatistiği yok",
-      "start_new_session": "Yeni Oturum Başlat"
+      "start_new_session": "Yeni Oturum Başlat",
+      "track_with_fapstats_app": {
+        "title": "Fapstats Uygulaması ile takip et",
+        "date_of_activity": "Etkinlik tarihi",
+        "time_of_day": {
+          "title": "Günün saati"
+        },
+        "type_of_activity": "Etkinlik türü",
+        "rating": "Değerlendirme",
+        "partners": "Partnerler",
+        "select_partners": "Partner(ler) seç",
+        "toys": "Oyuncaklar",
+        "select_toys": "Oyuncak(lar) seç",
+        "tags": "Etiketler",
+        "select_tags": "Etiket(ler) seç",
+        "notes": "Notlar",
+        "create_activity": "Etkinlik oluştur",
+        "change_account": "Hesap değiştir",
+        "activity_created_with_fapstats_braincandy": "Fapstats Braincandy ile etkinlik oluşturuldu",
+        "activity_successfully_created": "Etkinlik başarıyla oluşturuldu"
+      }
     }
   }
 }

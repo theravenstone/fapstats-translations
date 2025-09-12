@@ -22,7 +22,17 @@
     "end_session": "Завершить сессию",
     "skips": "Пропуски",
     "favorites": "Избранное",
-    "playlist_generator": "Генератор плейлистов"
+    "playlist_generator": "Генератор плейлистов",
+    "flag": "Флаг",
+    "sex": "Секс",
+    "masturbation": "Мастурбация",
+    "email": "Электронная почта",
+    "password": "Пароль",
+    "sign_in": "Войти",
+    "or_sign_in_with": "Или войти с помощью",
+    "open_x": "Открыть {name}",
+    "open_x_in_browser": "Открыть {name} в браузере",
+    "fapstats_app": "Приложение Fapstats"
   },
   "languages": {
     "de": "Немецкий",
@@ -40,7 +50,11 @@
     "minute": "Минута",
     "minutes": "Минуты",
     "hour": "Час",
-    "hours": "Часы"
+    "hours": "Часы",
+    "morning": "Утро",
+    "afternoon": "День",
+    "evening": "Вечер",
+    "night": "Ночь"
   },
   "pages": {
     "index": {
@@ -60,6 +74,14 @@
         "title": "Скорость",
         "description": "Решите, как быстро должен меняться контент: {time}"
       },
+      "beatmeter": {
+        "title": "Метроном для мастурбации",
+        "description": "Задай темп, в котором должен дрочить (экспериментальный)",
+        "enable_beatmeter": "Включить Beatmeter",
+        "beep_sound": "Звуковой сигнал в ритме",
+        "minimum_speed": "Минимальная скорость движений",
+        "maximum_speed": "Максимальная скорость движений"
+      },
       "media_types": {
         "title": "Типы медиа",
         "description": "Выберите, какие типы медиа вы хотите видеть. Рекомендуем отключить GIF для лучшей производительности"
@@ -68,6 +90,9 @@
         "title": "Reddit",
         "reddit_presets": {
           "title": "Пресеты Reddit"
+        },
+        "pornstar_presets": {
+          "title": "Пресеты порнозвезд"
         },
         "subreddits": {
           "title": "Сабреддиты",
@@ -132,7 +157,27 @@
       "title": "Статистика сессии",
       "other_statistics": "Другая статистика",
       "no_statistics": "Нет доступной статистики сессии",
-      "start_new_session": "Начать новую сессию"
+      "start_new_session": "Начать новую сессию",
+      "track_with_fapstats_app": {
+        "title": "Отслеживать в приложении Fapstats",
+        "date_of_activity": "Дата активности",
+        "time_of_day": {
+          "title": "Время дня"
+        },
+        "type_of_activity": "Тип активности",
+        "rating": "Оценка",
+        "partners": "Партнёры",
+        "select_partners": "Выбрать партнёра(ов)",
+        "toys": "Игрушки",
+        "select_toys": "Выбрать игрушку(и)",
+        "tags": "Теги",
+        "select_tags": "Выбрать тег(и)",
+        "notes": "Заметки",
+        "create_activity": "Создать активность",
+        "change_account": "Сменить аккаунт",
+        "activity_created_with_fapstats_braincandy": "Активность создана с помощью Fapstats Braincandy",
+        "activity_successfully_created": "Активность успешно создана"
+      }
     }
   }
 }
