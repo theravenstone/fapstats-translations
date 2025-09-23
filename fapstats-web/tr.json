@@ -90,7 +90,9 @@
   "genders": {
     "male": "Erkek",
     "female": "Dişi",
-    "diverse": "Türlü"
+    "transgender": "Transgender",
+    "non_binary": "Non-binary",
+    "genderless": "Cinsiyetsiz"
   },
   "pages": {
     "index": {

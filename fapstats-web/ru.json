@@ -90,7 +90,9 @@
   "genders": {
     "male": "Мужской",
     "female": "Женский",
-    "diverse": "Разнообразный"
+    "transgender": "Трансгендер",
+    "non_binary": "Небинарный",
+    "genderless": "Безгендерный"
   },
   "pages": {
     "index": {

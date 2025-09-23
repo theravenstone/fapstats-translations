@@ -90,7 +90,9 @@
   "genders": {
     "male": "Masculino",
     "female": "Femenino",
-    "diverse": "Diverso"
+    "transgender": "Transgénero",
+    "non_binary": "No binario",
+    "genderless": "Sin género"
   },
   "pages": {
     "index": {
