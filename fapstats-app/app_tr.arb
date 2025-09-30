@@ -391,6 +391,7 @@
   "monthly": "Aylık",
   "weekly": "Haftalık",
   "daily": "Günlük",
+  "recurring": "Yinelenen",
   "communityStatistics": "Topluluk İstatistikleri",
   "aggregationPrivacyNotice": "Görüntülenen veriler tüm kullanıcıların verilerinin birleşimidir ve bireysel kullanıcılarla ilişkilendirilemez.",
   "periodOfTime": "Zaman aralığı",
@@ -439,6 +440,7 @@
   "chastityDuration": "Sadakat süresi",
   "totalUsers": "Toplam kullanıcı",
   "monthlyUsers": "Aylık kullanıcı",
+  "recurringUsers": "Yinelenen kullanıcılar",
   "totalFapstatsXpGrowth": "Toplam Fapstats XP büyümesi",
   "totalXp": "Toplam XP",
   "newXp": "Yeni XP",
@@ -550,5 +552,5 @@
   "chooseAChallenge": "Bir meydan okuma seç",
   "dailyGoal": "Günlük Hedef",
   "monthGoal": "Aylık Hedef",
-  "xHoursPerDay": "{value, plural, =1{Günde # saat} other{Günde # saat}}"
+  "xHoursPerDay": "{value, plural, =1{Günde {value} saat} other{Günde {value} saat}}"
 }

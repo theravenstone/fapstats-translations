@@ -955,6 +955,8 @@
   "@weekly": {},
   "daily": "Daily",
   "@daily": {},
+  "recurring": "Recurring",
+  "@recurring": {},
   "communityStatistics": "Community Statistics",
   "@communityStatistics": {},
   "aggregationPrivacyNotice": "The displayed data is an aggregation of all user data and cannot be traced back to individual users.",
@@ -1051,6 +1053,8 @@
   "@totalUsers": {},
   "monthlyUsers": "Monthly Users",
   "@monthlyUsers": {},
+  "recurringUsers": "Recurring Users",
+  "@recurringUsers": {},
   "totalFapstatsXpGrowth": "Total Fapstats XP Growth",
   "@totalFapstatsXpGrowth": {},
   "totalXp": "Total XP",
@@ -1310,7 +1314,7 @@
   "@dailyGoal": {},
   "monthGoal": "Month Goal",
   "@monthGoal": {},
-  "xHoursPerDay": "{value, plural, =1{# hour per day} other{# hours per day}}",
+  "xHoursPerDay": "{value, plural, =1{{value} hour per day} other{{value} hours per day}}",
   "@xHoursPerDay": {
     "placeholders": {
       "value": {}

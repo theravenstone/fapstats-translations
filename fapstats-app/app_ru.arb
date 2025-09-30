@@ -391,6 +391,7 @@
   "monthly": "Ежемесячно",
   "weekly": "Еженедельно",
   "daily": "Ежедневно",
+  "recurring": "Повторяющийся",
   "communityStatistics": "Статистика сообщества",
   "aggregationPrivacyNotice": "Отображаемые данные являются агрегированными и не могут быть связаны с отдельными пользователями.",
   "periodOfTime": "Период времени",
@@ -439,6 +440,7 @@
   "chastityDuration": "Время целомудрия",
   "totalUsers": "Всего пользователей",
   "monthlyUsers": "Пользователи в месяц",
+  "recurringUsers": "Постоянные пользователи",
   "totalFapstatsXpGrowth": "Общий рост XP Fapstats",
   "totalXp": "Всего XP",
   "newXp": "Новые XP",
@@ -550,5 +552,5 @@
   "chooseAChallenge": "Выберите вызов",
   "dailyGoal": "Ежедневная цель",
   "monthGoal": "Цель за месяц",
-  "xHoursPerDay": "{value, plural, =1{# час в день} other{# часов в день}}"
+  "xHoursPerDay": "{value, plural, =1{{value} час в день} other{{value} часов в день}}"
 }

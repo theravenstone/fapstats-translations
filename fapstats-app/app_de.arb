@@ -391,6 +391,7 @@
   "monthly": "Monatlich",
   "weekly": "Wöchentlich",
   "daily": "Täglich",
+  "recurring": "Wiederkehrend",
   "communityStatistics": "Community-Statistiken",
   "aggregationPrivacyNotice": "Die angezeigten Daten sind eine Zusammenfassung aller Benutzerdaten und können nicht zu einzelnen Benutzern zurückgeführt werden.",
   "periodOfTime": "Zeitraum",
@@ -439,6 +440,7 @@
   "chastityDuration": "Dauer der Keuschheit",
   "totalUsers": "Gesamte Nutzer",
   "monthlyUsers": "Monatliche Nutzer",
+  "recurringUsers": "Wiederkehrende Nutzer",
   "totalFapstatsXpGrowth": "Fapstats XP",
   "totalXp": "Gesamte XP",
   "newXp": "Neue XP",
@@ -550,5 +552,5 @@
   "chooseAChallenge": "Wähle eine Herausforderung",
   "dailyGoal": "Tagesziel",
   "monthGoal": "Monatsziel",
-  "xHoursPerDay": "{value, plural, =1{# Stunde pro Tag} other{# Stunden pro Tag}}"
+  "xHoursPerDay": "{value, plural, =1{{value} Stunde pro Tag} other{{value} Stunden pro Tag}}"
 }
