@@ -21,6 +21,7 @@
    "locations": "Места",
   "location": "Место",
   "fapMap": "Fap карта",
+  "viewOnFapMap": "Посмотреть на Fap карте",
   "fucketlist": "список дел",
   "chastity": "запереть",
   "achievements": "Достижения",
@@ -249,6 +250,8 @@
   "failedToCreatePartner": "Не удалось создать партнера",
   "failedToCreateActivity": "Не удалось создать активность",
   "activityCreatedSuccessfully": "Активность успешно создана",
+  "activityDeletedSuccessfully": "Активность успешно удалена",
+  "failedToDeleteActivity": "Не удалось удалить активность",
   "createNewPartner": "Создать нового партнера",
   "createPartner": "Создать партнера",
   "youHaveNoPartnersYet": "У вас пока нет партнеров",
@@ -458,6 +461,8 @@
   "longestChastitySession": "Самая длинная сессия целомудрия",
   "notEnoughData": "Недостаточно данных",
   "achievement": "Достижение",
+  "locationError": "Ошибка местоположения",
+  "locationAccessDenied": "Доступ к местоположению запрещён",
   "databaseError": "Ошибка базы данных",
   "networkError": "Ошибка сети",
   "unexpectedError": "Неожиданная ошибка",
@@ -582,5 +587,11 @@
   "chooseAChallenge": "Выберите вызов",
   "dailyGoal": "Ежедневная цель",
   "monthGoal": "Цель за месяц",
-  "xHoursPerDay": "{value, plural, =1{{value} час в день} other{{value} часов в день}}"
+  "xHoursPerDay": "{value, plural, =1{{value} час в день} other{{value} часов в день}}",
+  "succeeded": "Успешно",
+  "failed": "Неудачно",
+  "successPercentage": "Процент успеха",
+  "youAreNotAllowedToBustANut": "Вам не разрешено кончать",
+  "iBusted": "Я кончил",
+  "youHadSexWithXPartnersHere": "Ты занимался сексом с {value, plural, =1{одним партнёром} other{{value} партнёрами}} здесь"
 }

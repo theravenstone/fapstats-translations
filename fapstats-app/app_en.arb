@@ -98,6 +98,8 @@
   "@location": {},
   "fapMap": "Fap Map",
   "@fapMap": {},
+  "viewOnFapMap": "View on Fap Map",
+  "@viewOnFapMap": {},
   "fucketlist": "Fucketlist",
   "@fucketlist": {},
   "chastity": "Chastity",
@@ -661,6 +663,10 @@
   "@failedToCreateActivity": {},
   "activityCreatedSuccessfully": "Activity created successfully",
   "@activityCreatedSuccessfully": {},
+  "activityDeletedSuccessfully": "Activity deleted successfully",
+  "@activityDeletedSuccessfully": {},
+  "failedToDeleteActivity": "Failed to delete activity",
+  "@failedToDeleteActivity": {},
   "createNewPartner": "Create New Partner",
   "@createNewPartner": {},
   "createPartner": "Create Partner",
@@ -1089,6 +1095,10 @@
   "@notEnoughData": {},
   "achievement": "Achievement",
   "@achievement": {},
+  "locationError": "Location Error",
+  "@locationError": {},
+  "locationAccessDenied": "Location access denied",
+  "@locationAccessDenied": {},
   "databaseError": "Database Error",
   "@databaseError": {},
   "networkError": "Network Error",
@@ -1376,6 +1386,22 @@
   "@monthGoal": {},
   "xHoursPerDay": "{value, plural, =1{{value} hour per day} other{{value} hours per day}}",
   "@xHoursPerDay": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "succeeded": "Succeeded",
+  "@succeeded": {},
+  "failed": "Failed",
+  "@failed": {},
+  "successPercentage": "Success Percentage",
+  "@successPercentage": {},
+  "youAreNotAllowedToBustANut": "You are not allowed to bust a nut",
+  "@youAreNotAllowedToBustANut": {},
+  "iBusted": "I busted",
+  "@iBusted": {},
+  "youHadSexWithXPartnersHere": "You had sex with {value, plural, =1{one partner} other{{value} partners}} here",
+  "@youHadSexWithXPartnersHere": {
     "placeholders": {
       "value": {}
     }

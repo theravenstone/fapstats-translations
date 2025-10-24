@@ -21,6 +21,7 @@
   "locations": "Ubicaciones",
   "location": "Ubicación",
   "fapMap": "Mapa Fap",
+  "viewOnFapMap": "Ver en Mapa Fap",
   "fucketlist": "Fucketlist",
   "chastity": "Castidad",
   "achievements": "Logros",
@@ -249,6 +250,8 @@
   "failedToCreatePartner": "Error al crear pareja",
   "failedToCreateActivity": "Error al crear actividad",
   "activityCreatedSuccessfully": "Actividad creada con éxito",
+  "activityDeletedSuccessfully": "Actividad eliminada con éxito",
+  "failedToDeleteActivity": "Error al eliminar actividad",
   "createNewPartner": "Crear nueva pareja",
   "createPartner": "Crear pareja",
   "youHaveNoPartnersYet": "No tienes parejas aún",
@@ -458,6 +461,8 @@
   "longestChastitySession": "Sesión de castidad más larga",
   "notEnoughData": "Datos insuficientes",
   "achievement": "Logro",
+  "locationError": "Error de ubicación",
+  "locationAccessDenied": "Acceso a la ubicación denegado",
   "databaseError": "Error de base de datos",
   "networkError": "Error de red",
   "unexpectedError": "Error inesperado",
@@ -582,5 +587,11 @@
   "chooseAChallenge": "Elige un desafío",
   "dailyGoal": "Objetivo diario",
   "monthGoal": "Objetivo mensual",
-  "xHoursPerDay": "{value, plural, =1{{value} hora por día} other{{value} horas por día}}"
+  "xHoursPerDay": "{value, plural, =1{{value} hora por día} other{{value} horas por día}}",
+  "succeeded": "Exitoso",
+  "failed": "Fallido",
+  "successPercentage": "Porcentaje de éxito",
+  "youAreNotAllowedToBustANut": "No tienes permitido eyacular",
+  "iBusted": "He eyaculado",
+  "youHadSexWithXPartnersHere": "Tuviste sexo con {value, plural, =1{una pareja} other{{value} parejas}} aquí"
 }

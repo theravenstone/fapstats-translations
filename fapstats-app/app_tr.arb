@@ -21,6 +21,7 @@
   "locations": "Konumlar",
   "location": "Konum",
   "fapMap": "Fap Haritası",
+  "viewOnFapMap": "Fap Haritasında Görüntüle",
   "fucketlist": "Fucketlist",
   "chastity": "Sadakat",
   "achievements": "Başarılar",
@@ -249,6 +250,8 @@
   "failedToCreatePartner": "Partner oluşturulamadı",
   "failedToCreateActivity": "Aktivite oluşturulamadı",
   "activityCreatedSuccessfully": "Aktivite oluşturuldu",
+  "activityDeletedSuccessfully": "Aktivite silindi",
+  "failedToDeleteActivity": "Aktivite silinemedi",
   "createNewPartner": "Yeni partner oluştur",
   "createPartner": "Partner oluştur",
   "youHaveNoPartnersYet": "Henüz partnerin yok",
@@ -458,6 +461,8 @@
   "longestChastitySession": "En uzun sadakat oturumu",
   "notEnoughData": "Yeterli veri yok",
   "achievement": "Başarı",
+  "locationError": "Konum hatası",
+  "locationAccessDenied": "Konum erişimi reddedildi",
   "databaseError": "Veritabanı hatası",
   "networkError": "Ağ hatası",
   "unexpectedError": "Beklenmeyen hata",
@@ -582,5 +587,11 @@
   "chooseAChallenge": "Bir meydan okuma seç",
   "dailyGoal": "Günlük Hedef",
   "monthGoal": "Aylık Hedef",
-  "xHoursPerDay": "{value, plural, =1{Günde {value} saat} other{Günde {value} saat}}"
+  "xHoursPerDay": "{value, plural, =1{Günde {value} saat} other{Günde {value} saat}}",
+  "succeeded": "Başarılı",
+  "failed": "Başarısız",
+  "successPercentage": "Başarı Yüzdesi",
+  "youAreNotAllowedToBustANut": "Bir fındık patlatmana izin verilmiyor",
+  "iBusted": "Bir fındık patlattım",
+  "youHadSexWithXPartnersHere": "Burada {value, plural, =1{bir partnerle} other{{value} partnerle}} seks yaptın"
 }
