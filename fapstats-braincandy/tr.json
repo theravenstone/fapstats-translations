@@ -172,6 +172,8 @@
         "select_toys": "Oyuncak(lar) seç",
         "tags": "Etiketler",
         "select_tags": "Etiket(ler) seç",
+        "locations": "Konumlar",
+        "select_locations": "Konum(lar) seç",
         "notes": "Notlar",
         "create_activity": "Etkinlik oluştur",
         "change_account": "Hesap değiştir",

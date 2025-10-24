@@ -172,6 +172,8 @@
         "select_toys": "Select Toy(s)",
         "tags": "Tags",
         "select_tags": "Select Tag(s)",
+        "locations": "Locations",
+        "select_locations": "Select Location(s)",
         "notes": "Notes",
         "create_activity": "Create Activity",
         "change_account": "Change Account",

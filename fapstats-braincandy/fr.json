@@ -172,6 +172,8 @@
         "select_toys": "Sélectionner le(s) jouet(s)",
         "tags": "Tags",
         "select_tags": "Sélectionner le(s) tag(s)",
+        "locations": "Lieux",
+        "select_locations": "Sélectionner le(s) lieu(x)",
         "notes": "Notes",
         "create_activity": "Créer une activité",
         "change_account": "Changer de compte",

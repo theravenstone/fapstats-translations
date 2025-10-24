@@ -172,6 +172,8 @@
         "select_toys": "Выбрать игрушку(и)",
         "tags": "Теги",
         "select_tags": "Выбрать тег(и)",
+        "locations": "Локации",
+        "select_locations": "Выбрать локацию(ии)",
         "notes": "Заметки",
         "create_activity": "Создать активность",
         "change_account": "Сменить аккаунт",
