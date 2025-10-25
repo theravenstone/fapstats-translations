@@ -523,6 +523,7 @@
   "shareChastityAsKeyholder": "Udostępniać czystość mając ciebie jako posiadacza klucza",
   "copyFriendcodeToClipboard": "Skopiuj kod znajomego do schowka",
   "friendcodeCopiedToClipboard": "Kod znajomego skopiowany do schowka",
+  "youCantUseYourOwnFriendcode": "Nie możesz używać własnego kodu znajomego",
   "customAchievementCreatedSuccessfully": "Własne osiągnięcie utworzone pomyślnie",
   "failedToCreateCustomAchievement": "Nie udało się utworzyć własnego osiągnięcia",
   "customAchievementUpdatedSuccessfully": "Własne osiągnięcie zaktualizowane pomyślnie",

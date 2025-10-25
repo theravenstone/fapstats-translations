@@ -523,6 +523,7 @@
   "shareChastityAsKeyholder": "Partager la chasteté avec vous en tant que détenteur de clé",
   "copyFriendcodeToClipboard": "Copier le code d’ami dans le presse-papiers",
   "friendcodeCopiedToClipboard": "Code d’ami copié dans le presse-papiers",
+  "youCantUseYourOwnFriendcode": "Vous ne pouvez pas utiliser votre propre code ami",
   "customAchievementCreatedSuccessfully": "Succès personnalisé créé avec succès",
   "failedToCreateCustomAchievement": "Échec de la création du succès personnalisé",
   "customAchievementUpdatedSuccessfully": "Succès personnalisé mis à jour avec succès",

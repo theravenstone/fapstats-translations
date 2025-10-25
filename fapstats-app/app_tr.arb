@@ -523,6 +523,7 @@
   "shareChastityAsKeyholder": "Sadakati anahtar tutan olarak sizinle paylaşma",
   "copyFriendcodeToClipboard": "Arkadaş kodunu panoya kopyala",
   "friendcodeCopiedToClipboard": "Arkadaş kodu panoya kopyalandı",
+  "youCantUseYourOwnFriendcode": "Kendi arkadaş kodunu kullanamazsın",
   "customAchievementCreatedSuccessfully": "Özel başarı başarıyla oluşturuldu",
   "failedToCreateCustomAchievement": "Özel başarı oluşturulamadı",
   "customAchievementUpdatedSuccessfully": "Özel başarı başarıyla güncellendi",

@@ -523,6 +523,7 @@
   "shareChastityAsKeyholder": "Keuschheit mit dir als Schlüsselträger zu teilen",
   "copyFriendcodeToClipboard": "Freundescode in die Zwischenablage kopieren",
   "friendcodeCopiedToClipboard": "Freundescode in die Zwischenablage kopiert",
+  "youCantUseYourOwnFriendcode": "Du kannst deinen eigenen Freundescode nicht verwenden",
   "customAchievementCreatedSuccessfully": "Individuellen Erfolg erfolgreich erstellt",
   "failedToCreateCustomAchievement": "Erstellen des individuellen Erfolgs fehlgeschlagen",
   "customAchievementUpdatedSuccessfully": "Individueller Erfolg erfolgreich aktualisiert",

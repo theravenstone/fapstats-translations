@@ -523,6 +523,7 @@
   "shareChastityAsKeyholder": "Поделиться целомудрием с вами как держателю ключа",
   "copyFriendcodeToClipboard": "Скопировать код друга в буфер обмена",
   "friendcodeCopiedToClipboard": "Код друга скопирован в буфер",
+  "youCantUseYourOwnFriendcode": "Нельзя использовать собственный код друга",
   "customAchievementCreatedSuccessfully": "Пользовательское достижение создано успешно",
   "failedToCreateCustomAchievement": "Не удалось создать пользовательское достижение",
   "customAchievementUpdatedSuccessfully": "Пользовательское достижение обновлено успешно",

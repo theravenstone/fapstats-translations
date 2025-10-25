@@ -523,6 +523,7 @@
   "shareChastityAsKeyholder": "Compartir castidad contigo como custodio de llave",
   "copyFriendcodeToClipboard": "Copiar código de amigo al portapapeles",
   "friendcodeCopiedToClipboard": "Código de amigo copiado al portapapeles",
+  "youCantUseYourOwnFriendcode": "No puedes usar tu propio código de amigo",
   "customAchievementCreatedSuccessfully": "Logro personalizado creado con éxito",
   "failedToCreateCustomAchievement": "Fallo al crear logro personalizado",
   "customAchievementUpdatedSuccessfully": "Logro personalizado actualizado con éxito",

@@ -1229,6 +1229,8 @@
   "@copyFriendcodeToClipboard": {},
   "friendcodeCopiedToClipboard": "Friendcode copied to clipboard",
   "@friendcodeCopiedToClipboard": {},
+  "youCantUseYourOwnFriendcode": "You can't use your own friendcode",
+  "@youCantUseYourOwnFriendcode": {},
   "customAchievementCreatedSuccessfully": "Custom achievement created successfully",
   "@customAchievementCreatedSuccessfully": {},
   "failedToCreateCustomAchievement": "Failed to create custom achievement",
