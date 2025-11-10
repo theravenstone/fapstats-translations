@@ -300,6 +300,31 @@
       }
     }
   },
+  "chastityForDate": "Chastity for {date}",
+  "@chastityForDate": {
+    "description": "",
+    "placeholders": {
+      "date": {
+        "type": "String",
+        "example": "Feb 18, 2023"
+      }
+    }
+  },
+  "orgasms": "Orgasms",
+  "@orgasms": {},
+  "orgasm": "Orgasm",
+  "@orgasm": {},
+  "selfOrgasms": "Self Orgasms",
+  "@selfOrgasms": {},
+  "orgasmsForPartner": "Orgasms for {name}",
+  "@orgasmsForPartner": {
+    "description": "",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
   "createdByUser": "Created by {user}",
   "@createdByUser": {
     "description": "",
@@ -311,6 +336,8 @@
   },
   "thereIsNoActivityForTheSelectedDate": "There is no activity for the selected date",
   "@thereIsNoActivityForTheSelectedDate": {},
+  "thereIsNoChastityForTheSelectedDate": "There is no chastity for the selected date",
+  "@thereIsNoChastityForTheSelectedDate": {},
   "notes": "Notes",
   "@notes": {},
   "duration": "Duration",
@@ -386,10 +413,12 @@
   },
   "youHaveSuccessfullySignedIn": "You have successfully signed in",
   "@youHaveSuccessfullySignedIn": {},
-  "youHaveSuccessfullySignedInWithDiscord": "You have successfully signed in with Discord",
-  "@youHaveSuccessfullySignedInWithDiscord": {},
-  "youHaveSuccessfullySignedInWithGoogle": "You have successfully signed in with Google",
-  "@youHaveSuccessfullySignedInWithGoogle": {},
+  "youHaveSuccessfullySignedInWithProvider": "You have successfully signed in with {provider}",
+  "@youHaveSuccessfullySignedInWithProvider": {
+    "placeholders": {
+      "provider": {}
+    }
+  },
   "signInToFapstats": "Sign in to Fapstats",
   "@signInToFapstats": {},
   "enterYourAccountInformationToSignIn": "Enter your account information to sign in.",
@@ -454,8 +483,6 @@
   "@chastityStoppedSuccessfully": {},
   "startLock": "Start Lock",
   "@startLock": {},
-  "ifYouWantToSpecifyAKeyholderYouNeedAtLeastOneActivePartner": "If you want to specify a keyholder, you need at least one active partner",
-  "@ifYouWantToSpecifyAKeyholderYouNeedAtLeastOneActivePartner": {},
   "startDateAndTime": "Start Date and Time",
   "@startDateAndTime": {},
   "start": "Start",
@@ -737,6 +764,10 @@
   "@showStreak": {},
   "showsYour3DaysStreakOnTheHomePage": "Shows your 3+ days streak on the home page",
   "@showsYour3DaysStreakOnTheHomePage": {},
+  "showDaysSinceLastOrgasm": "Show Days Since Last Orgasm",
+  "@showDaysSinceLastOrgasm": {},
+  "showsYour3DaysSinceLastOrgasmOnTheHomePage": "Shows your 3+ days since last orgasm on the home page",
+  "@showsYour3DaysSinceLastOrgasmOnTheHomePage": {},
   "showChastity": "Show Chastity",
   "@showChastity": {},
   "whenDisabledChastityRelatedContentIsHidden": "When disabled, chastity-related content is hidden",
@@ -767,6 +798,8 @@
   "@showsTheBarChartForActivityDurationInEachMonth": {},
   "monthOverview": "Month Overview",
   "@monthOverview": {},
+  "dayOverview": "Day Overview",
+  "@dayOverview": {},
   "showsYouTheLineChartWithTheActivityGrowthWithinOneMonth": "Shows you the line chart with the activity growth within one month",
   "@showsYouTheLineChartWithTheActivityGrowthWithinOneMonth": {},
   "weekAverage": "Week Average",
@@ -1073,6 +1106,10 @@
   "@mostSexInOneMonth": {},
   "mostMasturbationInOneMonth": "Most masturbation in one month",
   "@mostMasturbationInOneMonth": {},
+  "mostOrgasmsInOneMonth": "Most orgasms in one month",
+  "@mostOrgasmsInOneMonth": {},
+  "daysSinceLastOrgasm": "Days since last orgasm",
+  "@daysSinceLastOrgasm": {},
   "mostDifferentPartnersInOneMonth": "Most different partners in one month",
   "@mostDifferentPartnersInOneMonth": {},
   "longestStreak": "Longest streak",
@@ -1131,6 +1168,10 @@
   "@newXp": {},
   "usersByAgeGroup": "Users by age group",
   "@usersByAgeGroup": {},
+  "usersByGender": "Users by gender",
+  "@usersByGender": {},
+  "usersByLoginProvider": "Users by login provider",
+  "@usersByLoginProvider": {},
   "userCount": "User Count",
   "@userCount": {},
   "userGrowth": "User Growth",
@@ -1296,6 +1337,8 @@
   "@retry": {},
   "basedOn": "Based on",
   "@basedOn": {},
+  "dayShort": "d",
+  "@dayShort": {},
   "hourShort": "h",
   "@hourShort": {},
   "minuteShort": "m",
@@ -1407,5 +1450,17 @@
     "placeholders": {
       "value": {}
     }
-  }
+  },
+  "formerlyTwitter": "formerly Twitter",
+  "@formerlyTwitter": {},
+  "now": "Now",
+  "@now": {},
+  "aNewUpdateHasFinishedDownloading": "A new update has finished downloading!",
+  "@aNewUpdateHasFinishedDownloading": {},
+  "percentageOfDayLocked": "Percentage of Day Locked",
+  "@percentageOfDayLocked": {},
+  "sessionsToday": "Sessions Today",
+  "@sessionsToday": {},
+  "longSessions": "Long Sessions",
+  "@longSessions": {}
 }
